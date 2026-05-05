@@ -1,0 +1,38 @@
+# Core runtime for the unified PhaseWin repository.
+# This file is intended to cover the three main task entry points:
+# - tasks/classification/clip_imagenet.py
+# - tasks/detection/coco_groundingdino.py
+# - tasks/caption_vqa/qwen25vl_coco_caption.py
+#
+# Optional baselines with heavier or less stable dependencies
+# (for example D-HSIC / xplique / tensorflow) are kept in
+# requirements-optional-baselines.txt.
+
+# Core scientific stack
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+scikit-image>=0.22.0
+tqdm>=4.65.0
+Pillow>=9.5.0
+matplotlib>=3.7.0
+
+# OpenCV contrib is required for ximgproc superpixels.
+# Headless is sufficient for this repository.
+opencv-contrib-python-headless>=4.8.0
+
+# Classification / CLIP
+git+https://github.com/openai/CLIP.git
+
+# Detection / GroundingDINO runtime deps
+transformers
+addict
+yapf
+timm
+supervision>=0.22.0
+pycocotools
+
+# Caption / VLM runtime
+accelerate

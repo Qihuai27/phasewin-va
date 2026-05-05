@@ -1,0 +1,29 @@
+mkdir -p logs
+
+  CUDA_VISIBLE_DEVICES=0 nohup bash scripts/run_classification.sh \
+    --begin 0 --end 978 \
+    --device cuda \
+    > logs/cls_main_0000_0978.log 2>&1 &
+
+  CUDA_VISIBLE_DEVICES=0 nohup bash scripts/run_classification.sh \
+    --begin 978 --end 1956 \
+    --device cuda \
+    > logs/cls_main_0978_1956.log 2>&1 &
+
+  CUDA_VISIBLE_DEVICES=0 nohup bash scripts/run_classification.sh \
+    --begin 1956 --end 2934 \
+    --device cuda \
+    > logs/cls_main_1956_2934.log 2>&1 &
+
+  CUDA_VISIBLE_DEVICES=0 nohup bash scripts/run_classification.sh \
+    --begin 2934 --end 3912 \
+    --device cuda \
+    > logs/cls_main_2934_3912.log 2>&1 &
+
+  CUDA_VISIBLE_DEVICES=0 nohup bash scripts/run_classification.sh \
+    --begin 3912 --end 4890 \
+    --device cuda \
+    > logs/cls_main_3912_4890.log 2>&1 &
+
+ ps -ef | grep run_classification.sh | grep -v grep
+  tail -f logs/cls_main_0000_0978.log

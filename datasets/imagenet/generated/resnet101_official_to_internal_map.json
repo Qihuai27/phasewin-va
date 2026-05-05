@@ -1,0 +1,7002 @@
+{
+  "1": {
+    "internal_class_index": 278,
+    "internal_class_name": "kit fox",
+    "official_class_name": "kit_fox",
+    "official_id": 1,
+    "wnid": "n02119789"
+  },
+  "2": {
+    "internal_class_index": 212,
+    "internal_class_name": "English setter",
+    "official_class_name": "English_setter",
+    "official_id": 2,
+    "wnid": "n02100735"
+  },
+  "3": {
+    "internal_class_index": 250,
+    "internal_class_name": "Siberian husky",
+    "official_class_name": "Siberian_husky",
+    "official_id": 3,
+    "wnid": "n02110185"
+  },
+  "4": {
+    "internal_class_index": 193,
+    "internal_class_name": "Australian terrier",
+    "official_class_name": "Australian_terrier",
+    "official_id": 4,
+    "wnid": "n02096294"
+  },
+  "5": {
+    "internal_class_index": 217,
+    "internal_class_name": "English springer",
+    "official_class_name": "English_springer",
+    "official_id": 5,
+    "wnid": "n02102040"
+  },
+  "6": {
+    "internal_class_index": 147,
+    "internal_class_name": "grey whale",
+    "official_class_name": "grey_whale",
+    "official_id": 6,
+    "wnid": "n02066245"
+  },
+  "7": {
+    "internal_class_index": 387,
+    "internal_class_name": "lesser panda",
+    "official_class_name": "lesser_panda",
+    "official_id": 7,
+    "wnid": "n02509815"
+  },
+  "8": {
+    "internal_class_index": 285,
+    "internal_class_name": "Egyptian cat",
+    "official_class_name": "Egyptian_cat",
+    "official_id": 8,
+    "wnid": "n02124075"
+  },
+  "9": {
+    "internal_class_index": 350,
+    "internal_class_name": "ibex",
+    "official_class_name": "ibex",
+    "official_id": 9,
+    "wnid": "n02417914"
+  },
+  "10": {
+    "internal_class_index": 283,
+    "internal_class_name": "Persian cat",
+    "official_class_name": "Persian_cat",
+    "official_id": 10,
+    "wnid": "n02123394"
+  },
+  "11": {
+    "internal_class_index": 286,
+    "internal_class_name": "cougar",
+    "official_class_name": "cougar",
+    "official_id": 11,
+    "wnid": "n02125311"
+  },
+  "12": {
+    "internal_class_index": 353,
+    "internal_class_name": "gazelle",
+    "official_class_name": "gazelle",
+    "official_id": 12,
+    "wnid": "n02423022"
+  },
+  "13": {
+    "internal_class_index": 334,
+    "internal_class_name": "porcupine",
+    "official_class_name": "porcupine",
+    "official_id": 13,
+    "wnid": "n02346627"
+  },
+  "14": {
+    "internal_class_index": 150,
+    "internal_class_name": "sea lion",
+    "official_class_name": "sea_lion",
+    "official_id": 14,
+    "wnid": "n02077923"
+  },
+  "15": {
+    "internal_class_index": 249,
+    "internal_class_name": "malamute",
+    "official_class_name": "malamute",
+    "official_id": 15,
+    "wnid": "n02110063"
+  },
+  "16": {
+    "internal_class_index": 362,
+    "internal_class_name": "badger",
+    "official_class_name": "badger",
+    "official_id": 16,
+    "wnid": "n02447366"
+  },
+  "17": {
+    "internal_class_index": 246,
+    "internal_class_name": "Great Dane",
+    "official_class_name": "Great_Dane",
+    "official_id": 17,
+    "wnid": "n02109047"
+  },
+  "18": {
+    "internal_class_index": 166,
+    "internal_class_name": "Walker hound",
+    "official_class_name": "Walker_hound",
+    "official_id": 18,
+    "wnid": "n02089867"
+  },
+  "19": {
+    "internal_class_index": 218,
+    "internal_class_name": "Welsh springer spaniel",
+    "official_class_name": "Welsh_springer_spaniel",
+    "official_id": 19,
+    "wnid": "n02102177"
+  },
+  "20": {
+    "internal_class_index": 172,
+    "internal_class_name": "whippet",
+    "official_class_name": "whippet",
+    "official_id": 20,
+    "wnid": "n02091134"
+  },
+  "21": {
+    "internal_class_index": 177,
+    "internal_class_name": "Scottish deerhound",
+    "official_class_name": "Scottish_deerhound",
+    "official_id": 21,
+    "wnid": "n02092002"
+  },
+  "22": {
+    "internal_class_index": 148,
+    "internal_class_name": "killer whale",
+    "official_class_name": "killer_whale",
+    "official_id": 22,
+    "wnid": "n02071294"
+  },
+  "23": {
+    "internal_class_index": 357,
+    "internal_class_name": "mink",
+    "official_class_name": "mink",
+    "official_id": 23,
+    "wnid": "n02442845"
+  },
+  "24": {
+    "internal_class_index": 386,
+    "internal_class_name": "African elephant",
+    "official_class_name": "African_elephant",
+    "official_id": 24,
+    "wnid": "n02504458"
+  },
+  "25": {
+    "internal_class_index": 178,
+    "internal_class_name": "Weimaraner",
+    "official_class_name": "Weimaraner",
+    "official_id": 25,
+    "wnid": "n02092339"
+  },
+  "26": {
+    "internal_class_index": 202,
+    "internal_class_name": "soft-coated wheaten terrier",
+    "official_class_name": "soft-coated_wheaten_terrier",
+    "official_id": 26,
+    "wnid": "n02098105"
+  },
+  "27": {
+    "internal_class_index": 194,
+    "internal_class_name": "Dandie Dinmont",
+    "official_class_name": "Dandie_Dinmont",
+    "official_id": 27,
+    "wnid": "n02096437"
+  },
+  "28": {
+    "internal_class_index": 271,
+    "internal_class_name": "red wolf",
+    "official_class_name": "red_wolf",
+    "official_id": 28,
+    "wnid": "n02114712"
+  },
+  "29": {
+    "internal_class_index": 229,
+    "internal_class_name": "Old English sheepdog",
+    "official_class_name": "Old_English_sheepdog",
+    "official_id": 29,
+    "wnid": "n02105641"
+  },
+  "30": {
+    "internal_class_index": 290,
+    "internal_class_name": "jaguar",
+    "official_class_name": "jaguar",
+    "official_id": 30,
+    "wnid": "n02128925"
+  },
+  "31": {
+    "internal_class_index": 175,
+    "internal_class_name": "otterhound",
+    "official_class_name": "otterhound",
+    "official_id": 31,
+    "wnid": "n02091635"
+  },
+  "32": {
+    "internal_class_index": 163,
+    "internal_class_name": "bloodhound",
+    "official_class_name": "bloodhound",
+    "official_id": 32,
+    "wnid": "n02088466"
+  },
+  "33": {
+    "internal_class_index": 191,
+    "internal_class_name": "Airedale",
+    "official_class_name": "Airedale",
+    "official_id": 33,
+    "wnid": "n02096051"
+  },
+  "34": {
+    "internal_class_index": 276,
+    "internal_class_name": "hyena",
+    "official_class_name": "hyena",
+    "official_id": 34,
+    "wnid": "n02117135"
+  },
+  "35": {
+    "internal_class_index": 299,
+    "internal_class_name": "meerkat",
+    "official_class_name": "meerkat",
+    "official_id": 35,
+    "wnid": "n02138441"
+  },
+  "36": {
+    "internal_class_index": 197,
+    "internal_class_name": "giant schnauzer",
+    "official_class_name": "giant_schnauzer",
+    "official_id": 36,
+    "wnid": "n02097130"
+  },
+  "37": {
+    "internal_class_index": 380,
+    "internal_class_name": "titi",
+    "official_class_name": "titi",
+    "official_id": 37,
+    "wnid": "n02493509"
+  },
+  "38": {
+    "internal_class_index": 364,
+    "internal_class_name": "three-toed sloth",
+    "official_class_name": "three-toed_sloth",
+    "official_id": 38,
+    "wnid": "n02457408"
+  },
+  "39": {
+    "internal_class_index": 339,
+    "internal_class_name": "sorrel",
+    "official_class_name": "sorrel",
+    "official_id": 39,
+    "wnid": "n02389026"
+  },
+  "40": {
+    "internal_class_index": 359,
+    "internal_class_name": "black-footed ferret",
+    "official_class_name": "black-footed_ferret",
+    "official_id": 40,
+    "wnid": "n02443484"
+  },
+  "41": {
+    "internal_class_index": 251,
+    "internal_class_name": "dalmatian",
+    "official_class_name": "dalmatian",
+    "official_id": 41,
+    "wnid": "n02110341"
+  },
+  "42": {
+    "internal_class_index": 165,
+    "internal_class_name": "black-and-tan coonhound",
+    "official_class_name": "black-and-tan_coonhound",
+    "official_id": 42,
+    "wnid": "n02089078"
+  },
+  "43": {
+    "internal_class_index": 157,
+    "internal_class_name": "papillon",
+    "official_class_name": "papillon",
+    "official_id": 43,
+    "wnid": "n02086910"
+  },
+  "44": {
+    "internal_class_index": 361,
+    "internal_class_name": "skunk",
+    "official_class_name": "skunk",
+    "official_id": 44,
+    "wnid": "n02445715"
+  },
+  "45": {
+    "internal_class_index": 179,
+    "internal_class_name": "Staffordshire bullterrier",
+    "official_class_name": "Staffordshire_bullterrier",
+    "official_id": 45,
+    "wnid": "n02093256"
+  },
+  "46": {
+    "internal_class_index": 268,
+    "internal_class_name": "Mexican hairless",
+    "official_class_name": "Mexican_hairless",
+    "official_id": 46,
+    "wnid": "n02113978"
+  },
+  "47": {
+    "internal_class_index": 233,
+    "internal_class_name": "Bouvier des Flandres",
+    "official_class_name": "Bouvier_des_Flandres",
+    "official_id": 47,
+    "wnid": "n02106382"
+  },
+  "48": {
+    "internal_class_index": 356,
+    "internal_class_name": "weasel",
+    "official_class_name": "weasel",
+    "official_id": 48,
+    "wnid": "n02441942"
+  },
+  "49": {
+    "internal_class_index": 266,
+    "internal_class_name": "miniature poodle",
+    "official_class_name": "miniature_poodle",
+    "official_id": 49,
+    "wnid": "n02113712"
+  },
+  "50": {
+    "internal_class_index": 474,
+    "internal_class_name": "cardigan",
+    "official_class_name": "Cardigan",
+    "official_id": 50,
+    "wnid": "n02113186"
+  },
+  "51": {
+    "internal_class_index": 225,
+    "internal_class_name": "malinois",
+    "official_class_name": "malinois",
+    "official_id": 51,
+    "wnid": "n02105162"
+  },
+  "52": {
+    "internal_class_index": 349,
+    "internal_class_name": "bighorn",
+    "official_class_name": "bighorn",
+    "official_id": 52,
+    "wnid": "n02415577"
+  },
+  "53": {
+    "internal_class_index": 335,
+    "internal_class_name": "fox squirrel",
+    "official_class_name": "fox_squirrel",
+    "official_id": 53,
+    "wnid": "n02356798"
+  },
+  "54": {
+    "internal_class_index": 375,
+    "internal_class_name": "colobus",
+    "official_class_name": "colobus",
+    "official_id": 54,
+    "wnid": "n02488702"
+  },
+  "55": {
+    "internal_class_index": 282,
+    "internal_class_name": "tiger cat",
+    "official_class_name": "tiger_cat",
+    "official_id": 55,
+    "wnid": "n02123159"
+  },
+  "56": {
+    "internal_class_index": 204,
+    "internal_class_name": "Lhasa",
+    "official_class_name": "Lhasa",
+    "official_id": 56,
+    "wnid": "n02098413"
+  },
+  "57": {
+    "internal_class_index": 352,
+    "internal_class_name": "impala",
+    "official_class_name": "impala",
+    "official_id": 57,
+    "wnid": "n02422699"
+  },
+  "58": {
+    "internal_class_index": 272,
+    "internal_class_name": "coyote",
+    "official_class_name": "coyote",
+    "official_id": 58,
+    "wnid": "n02114855"
+  },
+  "59": {
+    "internal_class_index": 187,
+    "internal_class_name": "Yorkshire terrier",
+    "official_class_name": "Yorkshire_terrier",
+    "official_id": 59,
+    "wnid": "n02094433"
+  },
+  "60": {
+    "internal_class_index": 256,
+    "internal_class_name": "Newfoundland",
+    "official_class_name": "Newfoundland",
+    "official_id": 60,
+    "wnid": "n02111277"
+  },
+  "61": {
+    "internal_class_index": 294,
+    "internal_class_name": "brown bear",
+    "official_class_name": "brown_bear",
+    "official_id": 61,
+    "wnid": "n02132136"
+  },
+  "62": {
+    "internal_class_index": 277,
+    "internal_class_name": "red fox",
+    "official_class_name": "red_fox",
+    "official_id": 62,
+    "wnid": "n02119022"
+  },
+  "63": {
+    "internal_class_index": 174,
+    "internal_class_name": "Norwegian elkhound",
+    "official_class_name": "Norwegian_elkhound",
+    "official_id": 63,
+    "wnid": "n02091467"
+  },
+  "64": {
+    "internal_class_index": 234,
+    "internal_class_name": "Rottweiler",
+    "official_class_name": "Rottweiler",
+    "official_id": 64,
+    "wnid": "n02106550"
+  },
+  "65": {
+    "internal_class_index": 351,
+    "internal_class_name": "hartebeest",
+    "official_class_name": "hartebeest",
+    "official_id": 65,
+    "wnid": "n02422106"
+  },
+  "66": {
+    "internal_class_index": 176,
+    "internal_class_name": "Saluki",
+    "official_class_name": "Saluki",
+    "official_id": 66,
+    "wnid": "n02091831"
+  },
+  "67": {
+    "internal_class_index": 280,
+    "internal_class_name": "grey fox",
+    "official_class_name": "grey_fox",
+    "official_id": 67,
+    "wnid": "n02120505"
+  },
+  "68": {
+    "internal_class_index": 223,
+    "internal_class_name": "schipperke",
+    "official_class_name": "schipperke",
+    "official_id": 68,
+    "wnid": "n02104365"
+  },
+  "69": {
+    "internal_class_index": 154,
+    "internal_class_name": "Pekinese",
+    "official_class_name": "Pekinese",
+    "official_id": 69,
+    "wnid": "n02086079"
+  },
+  "70": {
+    "internal_class_index": 262,
+    "internal_class_name": "Brabancon griffon",
+    "official_class_name": "Brabancon_griffon",
+    "official_id": 70,
+    "wnid": "n02112706"
+  },
+  "71": {
+    "internal_class_index": 203,
+    "internal_class_name": "West Highland white terrier",
+    "official_class_name": "West_Highland_white_terrier",
+    "official_id": 71,
+    "wnid": "n02098286"
+  },
+  "72": {
+    "internal_class_index": 190,
+    "internal_class_name": "Sealyham terrier",
+    "official_class_name": "Sealyham_terrier",
+    "official_id": 72,
+    "wnid": "n02095889"
+  },
+  "73": {
+    "internal_class_index": 370,
+    "internal_class_name": "guenon",
+    "official_class_name": "guenon",
+    "official_id": 73,
+    "wnid": "n02484975"
+  },
+  "74": {
+    "internal_class_index": 298,
+    "internal_class_name": "mongoose",
+    "official_class_name": "mongoose",
+    "official_id": 74,
+    "wnid": "n02137549"
+  },
+  "75": {
+    "internal_class_index": 384,
+    "internal_class_name": "indri",
+    "official_class_name": "indri",
+    "official_id": 75,
+    "wnid": "n02500267"
+  },
+  "76": {
+    "internal_class_index": 292,
+    "internal_class_name": "tiger",
+    "official_class_name": "tiger",
+    "official_id": 76,
+    "wnid": "n02129604"
+  },
+  "77": {
+    "internal_class_index": 170,
+    "internal_class_name": "Irish wolfhound",
+    "official_class_name": "Irish_wolfhound",
+    "official_id": 77,
+    "wnid": "n02090721"
+  },
+  "78": {
+    "internal_class_index": 342,
+    "internal_class_name": "wild boar",
+    "official_class_name": "wild_boar",
+    "official_id": 78,
+    "wnid": "n02396427"
+  },
+  "79": {
+    "internal_class_index": 241,
+    "internal_class_name": "EntleBucher",
+    "official_class_name": "EntleBucher",
+    "official_id": 79,
+    "wnid": "n02108000"
+  },
+  "80": {
+    "internal_class_index": 340,
+    "internal_class_name": "zebra",
+    "official_class_name": "zebra",
+    "official_id": 80,
+    "wnid": "n02391049"
+  },
+  "81": {
+    "internal_class_index": 348,
+    "internal_class_name": "ram",
+    "official_class_name": "ram",
+    "official_id": 81,
+    "wnid": "n02412080"
+  },
+  "82": {
+    "internal_class_index": 245,
+    "internal_class_name": "French bulldog",
+    "official_class_name": "French_bulldog",
+    "official_id": 82,
+    "wnid": "n02108915"
+  },
+  "83": {
+    "internal_class_index": 365,
+    "internal_class_name": "orangutan",
+    "official_class_name": "orangutan",
+    "official_id": 83,
+    "wnid": "n02480495"
+  },
+  "84": {
+    "internal_class_index": 253,
+    "internal_class_name": "basenji",
+    "official_class_name": "basenji",
+    "official_id": 84,
+    "wnid": "n02110806"
+  },
+  "85": {
+    "internal_class_index": 288,
+    "internal_class_name": "leopard",
+    "official_class_name": "leopard",
+    "official_id": 85,
+    "wnid": "n02128385"
+  },
+  "86": {
+    "internal_class_index": 239,
+    "internal_class_name": "Bernese mountain dog",
+    "official_class_name": "Bernese_mountain_dog",
+    "official_id": 86,
+    "wnid": "n02107683"
+  },
+  "87": {
+    "internal_class_index": 153,
+    "internal_class_name": "Maltese dog",
+    "official_class_name": "Maltese_dog",
+    "official_id": 87,
+    "wnid": "n02085936"
+  },
+  "88": {
+    "internal_class_index": 185,
+    "internal_class_name": "Norfolk terrier",
+    "official_class_name": "Norfolk_terrier",
+    "official_id": 88,
+    "wnid": "n02094114"
+  },
+  "89": {
+    "internal_class_index": 158,
+    "internal_class_name": "toy terrier",
+    "official_class_name": "toy_terrier",
+    "official_id": 89,
+    "wnid": "n02087046"
+  },
+  "90": {
+    "internal_class_index": 211,
+    "internal_class_name": "vizsla",
+    "official_class_name": "vizsla",
+    "official_id": 90,
+    "wnid": "n02100583"
+  },
+  "91": {
+    "internal_class_index": 192,
+    "internal_class_name": "cairn",
+    "official_class_name": "cairn",
+    "official_id": 91,
+    "wnid": "n02096177"
+  },
+  "92": {
+    "internal_class_index": 382,
+    "internal_class_name": "squirrel monkey",
+    "official_class_name": "squirrel_monkey",
+    "official_id": 92,
+    "wnid": "n02494079"
+  },
+  "93": {
+    "internal_class_index": 224,
+    "internal_class_name": "groenendael",
+    "official_class_name": "groenendael",
+    "official_id": 93,
+    "wnid": "n02105056"
+  },
+  "94": {
+    "internal_class_index": 216,
+    "internal_class_name": "clumber",
+    "official_class_name": "clumber",
+    "official_id": 94,
+    "wnid": "n02101556"
+  },
+  "95": {
+    "internal_class_index": 284,
+    "internal_class_name": "Siamese cat",
+    "official_class_name": "Siamese_cat",
+    "official_id": 95,
+    "wnid": "n02123597"
+  },
+  "96": {
+    "internal_class_index": 367,
+    "internal_class_name": "chimpanzee",
+    "official_class_name": "chimpanzee",
+    "official_id": 96,
+    "wnid": "n02481823"
+  },
+  "97": {
+    "internal_class_index": 228,
+    "internal_class_name": "komondor",
+    "official_class_name": "komondor",
+    "official_id": 97,
+    "wnid": "n02105505"
+  },
+  "98": {
+    "internal_class_index": 160,
+    "internal_class_name": "Afghan hound",
+    "official_class_name": "Afghan_hound",
+    "official_id": 98,
+    "wnid": "n02088094"
+  },
+  "99": {
+    "internal_class_index": 152,
+    "internal_class_name": "Japanese spaniel",
+    "official_class_name": "Japanese_spaniel",
+    "official_id": 99,
+    "wnid": "n02085782"
+  },
+  "100": {
+    "internal_class_index": 376,
+    "internal_class_name": "proboscis monkey",
+    "official_class_name": "proboscis_monkey",
+    "official_id": 100,
+    "wnid": "n02489166"
+  },
+  "101": {
+    "internal_class_index": 338,
+    "internal_class_name": "guinea pig",
+    "official_class_name": "guinea_pig",
+    "official_id": 101,
+    "wnid": "n02364673"
+  },
+  "102": {
+    "internal_class_index": 270,
+    "internal_class_name": "white wolf",
+    "official_class_name": "white_wolf",
+    "official_id": 102,
+    "wnid": "n02114548"
+  },
+  "103": {
+    "internal_class_index": 296,
+    "internal_class_name": "ice bear",
+    "official_class_name": "ice_bear",
+    "official_id": 103,
+    "wnid": "n02134084"
+  },
+  "104": {
+    "internal_class_index": 366,
+    "internal_class_name": "gorilla",
+    "official_class_name": "gorilla",
+    "official_id": 104,
+    "wnid": "n02480855"
+  },
+  "105": {
+    "internal_class_index": 169,
+    "internal_class_name": "borzoi",
+    "official_class_name": "borzoi",
+    "official_id": 105,
+    "wnid": "n02090622"
+  },
+  "106": {
+    "internal_class_index": 265,
+    "internal_class_name": "toy poodle",
+    "official_class_name": "toy_poodle",
+    "official_id": 106,
+    "wnid": "n02113624"
+  },
+  "107": {
+    "internal_class_index": 183,
+    "internal_class_name": "Kerry blue terrier",
+    "official_class_name": "Kerry_blue_terrier",
+    "official_id": 107,
+    "wnid": "n02093859"
+  },
+  "108": {
+    "internal_class_index": 345,
+    "internal_class_name": "ox",
+    "official_class_name": "ox",
+    "official_id": 108,
+    "wnid": "n02403003"
+  },
+  "109": {
+    "internal_class_index": 199,
+    "internal_class_name": "Scotch terrier",
+    "official_class_name": "Scotch_terrier",
+    "official_id": 109,
+    "wnid": "n02097298"
+  },
+  "110": {
+    "internal_class_index": 244,
+    "internal_class_name": "Tibetan mastiff",
+    "official_class_name": "Tibetan_mastiff",
+    "official_id": 110,
+    "wnid": "n02108551"
+  },
+  "111": {
+    "internal_class_index": 381,
+    "internal_class_name": "spider monkey",
+    "official_class_name": "spider_monkey",
+    "official_id": 111,
+    "wnid": "n02493793"
+  },
+  "112": {
+    "internal_class_index": 236,
+    "internal_class_name": "Doberman",
+    "official_class_name": "Doberman",
+    "official_id": 112,
+    "wnid": "n02107142"
+  },
+  "113": {
+    "internal_class_index": 195,
+    "internal_class_name": "Boston bull",
+    "official_class_name": "Boston_bull",
+    "official_id": 113,
+    "wnid": "n02096585"
+  },
+  "114": {
+    "internal_class_index": 238,
+    "internal_class_name": "Greater Swiss Mountain dog",
+    "official_class_name": "Greater_Swiss_Mountain_dog",
+    "official_id": 114,
+    "wnid": "n02107574"
+  },
+  "115": {
+    "internal_class_index": 240,
+    "internal_class_name": "Appenzeller",
+    "official_class_name": "Appenzeller",
+    "official_id": 115,
+    "wnid": "n02107908"
+  },
+  "116": {
+    "internal_class_index": 155,
+    "internal_class_name": "Shih-Tzu",
+    "official_class_name": "Shih-Tzu",
+    "official_id": 116,
+    "wnid": "n02086240"
+  },
+  "117": {
+    "internal_class_index": 221,
+    "internal_class_name": "Irish water spaniel",
+    "official_class_name": "Irish_water_spaniel",
+    "official_id": 117,
+    "wnid": "n02102973"
+  },
+  "118": {
+    "internal_class_index": 259,
+    "internal_class_name": "Pomeranian",
+    "official_class_name": "Pomeranian",
+    "official_id": 118,
+    "wnid": "n02112018"
+  },
+  "119": {
+    "internal_class_index": 181,
+    "internal_class_name": "Bedlington terrier",
+    "official_class_name": "Bedlington_terrier",
+    "official_id": 119,
+    "wnid": "n02093647"
+  },
+  "120": {
+    "internal_class_index": 343,
+    "internal_class_name": "warthog",
+    "official_class_name": "warthog",
+    "official_id": 120,
+    "wnid": "n02397096"
+  },
+  "121": {
+    "internal_class_index": 354,
+    "internal_class_name": "Arabian camel",
+    "official_class_name": "Arabian_camel",
+    "official_id": 121,
+    "wnid": "n02437312"
+  },
+  "122": {
+    "internal_class_index": 369,
+    "internal_class_name": "siamang",
+    "official_class_name": "siamang",
+    "official_id": 122,
+    "wnid": "n02483708"
+  },
+  "123": {
+    "internal_class_index": 196,
+    "internal_class_name": "miniature schnauzer",
+    "official_class_name": "miniature_schnauzer",
+    "official_id": 123,
+    "wnid": "n02097047"
+  },
+  "124": {
+    "internal_class_index": 231,
+    "internal_class_name": "collie",
+    "official_class_name": "collie",
+    "official_id": 124,
+    "wnid": "n02106030"
+  },
+  "125": {
+    "internal_class_index": 207,
+    "internal_class_name": "golden retriever",
+    "official_class_name": "golden_retriever",
+    "official_id": 125,
+    "wnid": "n02099601"
+  },
+  "126": {
+    "internal_class_index": 184,
+    "internal_class_name": "Irish terrier",
+    "official_class_name": "Irish_terrier",
+    "official_id": 126,
+    "wnid": "n02093991"
+  },
+  "127": {
+    "internal_class_index": 252,
+    "internal_class_name": "affenpinscher",
+    "official_class_name": "affenpinscher",
+    "official_id": 127,
+    "wnid": "n02110627"
+  },
+  "128": {
+    "internal_class_index": 232,
+    "internal_class_name": "Border collie",
+    "official_class_name": "Border_collie",
+    "official_id": 128,
+    "wnid": "n02106166"
+  },
+  "129": {
+    "internal_class_index": 331,
+    "internal_class_name": "hare",
+    "official_class_name": "hare",
+    "official_id": 129,
+    "wnid": "n02326432"
+  },
+  "130": {
+    "internal_class_index": 242,
+    "internal_class_name": "boxer",
+    "official_class_name": "boxer",
+    "official_id": 130,
+    "wnid": "n02108089"
+  },
+  "131": {
+    "internal_class_index": 201,
+    "internal_class_name": "silky terrier",
+    "official_class_name": "silky_terrier",
+    "official_id": 131,
+    "wnid": "n02097658"
+  },
+  "132": {
+    "internal_class_index": 162,
+    "internal_class_name": "beagle",
+    "official_class_name": "beagle",
+    "official_id": 132,
+    "wnid": "n02088364"
+  },
+  "133": {
+    "internal_class_index": 255,
+    "internal_class_name": "Leonberg",
+    "official_class_name": "Leonberg",
+    "official_id": 133,
+    "wnid": "n02111129"
+  },
+  "134": {
+    "internal_class_index": 210,
+    "internal_class_name": "German short-haired pointer",
+    "official_class_name": "German_short-haired_pointer",
+    "official_id": 134,
+    "wnid": "n02100236"
+  },
+  "135": {
+    "internal_class_index": 371,
+    "internal_class_name": "patas",
+    "official_class_name": "patas",
+    "official_id": 135,
+    "wnid": "n02486261"
+  },
+  "136": {
+    "internal_class_index": 274,
+    "internal_class_name": "dhole",
+    "official_class_name": "dhole",
+    "official_id": 136,
+    "wnid": "n02115913"
+  },
+  "137": {
+    "internal_class_index": 372,
+    "internal_class_name": "baboon",
+    "official_class_name": "baboon",
+    "official_id": 137,
+    "wnid": "n02486410"
+  },
+  "138": {
+    "internal_class_index": 373,
+    "internal_class_name": "macaque",
+    "official_class_name": "macaque",
+    "official_id": 138,
+    "wnid": "n02487347"
+  },
+  "139": {
+    "internal_class_index": 209,
+    "internal_class_name": "Chesapeake Bay retriever",
+    "official_class_name": "Chesapeake_Bay_retriever",
+    "official_id": 139,
+    "wnid": "n02099849"
+  },
+  "140": {
+    "internal_class_index": 243,
+    "internal_class_name": "bull mastiff",
+    "official_class_name": "bull_mastiff",
+    "official_id": 140,
+    "wnid": "n02108422"
+  },
+  "141": {
+    "internal_class_index": 222,
+    "internal_class_name": "kuvasz",
+    "official_class_name": "kuvasz",
+    "official_id": 141,
+    "wnid": "n02104029"
+  },
+  "142": {
+    "internal_class_index": 378,
+    "internal_class_name": "capuchin",
+    "official_class_name": "capuchin",
+    "official_id": 142,
+    "wnid": "n02492035"
+  },
+  "143": {
+    "internal_class_index": 254,
+    "internal_class_name": "pug",
+    "official_class_name": "pug",
+    "official_id": 143,
+    "wnid": "n02110958"
+  },
+  "144": {
+    "internal_class_index": 206,
+    "internal_class_name": "curly-coated retriever",
+    "official_class_name": "curly-coated_retriever",
+    "official_id": 144,
+    "wnid": "n02099429"
+  },
+  "145": {
+    "internal_class_index": 186,
+    "internal_class_name": "Norwich terrier",
+    "official_class_name": "Norwich_terrier",
+    "official_id": 145,
+    "wnid": "n02094258"
+  },
+  "146": {
+    "internal_class_index": 205,
+    "internal_class_name": "flat-coated retriever",
+    "official_class_name": "flat-coated_retriever",
+    "official_id": 146,
+    "wnid": "n02099267"
+  },
+  "147": {
+    "internal_class_index": 341,
+    "internal_class_name": "hog",
+    "official_class_name": "hog",
+    "official_id": 147,
+    "wnid": "n02395406"
+  },
+  "148": {
+    "internal_class_index": 261,
+    "internal_class_name": "keeshond",
+    "official_class_name": "keeshond",
+    "official_id": 148,
+    "wnid": "n02112350"
+  },
+  "149": {
+    "internal_class_index": 248,
+    "internal_class_name": "Eskimo dog",
+    "official_class_name": "Eskimo_dog",
+    "official_id": 149,
+    "wnid": "n02109961"
+  },
+  "150": {
+    "internal_class_index": 215,
+    "internal_class_name": "Brittany spaniel",
+    "official_class_name": "Brittany_spaniel",
+    "official_id": 150,
+    "wnid": "n02101388"
+  },
+  "151": {
+    "internal_class_index": 267,
+    "internal_class_name": "standard poodle",
+    "official_class_name": "standard_poodle",
+    "official_id": 151,
+    "wnid": "n02113799"
+  },
+  "152": {
+    "internal_class_index": 189,
+    "internal_class_name": "Lakeland terrier",
+    "official_class_name": "Lakeland_terrier",
+    "official_id": 152,
+    "wnid": "n02095570"
+  },
+  "153": {
+    "internal_class_index": 289,
+    "internal_class_name": "snow leopard",
+    "official_class_name": "snow_leopard",
+    "official_id": 153,
+    "wnid": "n02128757"
+  },
+  "154": {
+    "internal_class_index": 214,
+    "internal_class_name": "Gordon setter",
+    "official_class_name": "Gordon_setter",
+    "official_id": 154,
+    "wnid": "n02101006"
+  },
+  "155": {
+    "internal_class_index": 273,
+    "internal_class_name": "dingo",
+    "official_class_name": "dingo",
+    "official_id": 155,
+    "wnid": "n02115641"
+  },
+  "156": {
+    "internal_class_index": 198,
+    "internal_class_name": "standard schnauzer",
+    "official_class_name": "standard_schnauzer",
+    "official_id": 156,
+    "wnid": "n02097209"
+  },
+  "157": {
+    "internal_class_index": 333,
+    "internal_class_name": "hamster",
+    "official_class_name": "hamster",
+    "official_id": 157,
+    "wnid": "n02342885"
+  },
+  "158": {
+    "internal_class_index": 200,
+    "internal_class_name": "Tibetan terrier",
+    "official_class_name": "Tibetan_terrier",
+    "official_id": 158,
+    "wnid": "n02097474"
+  },
+  "159": {
+    "internal_class_index": 279,
+    "internal_class_name": "Arctic fox",
+    "official_class_name": "Arctic_fox",
+    "official_id": 159,
+    "wnid": "n02120079"
+  },
+  "160": {
+    "internal_class_index": 188,
+    "internal_class_name": "wire-haired fox terrier",
+    "official_class_name": "wire-haired_fox_terrier",
+    "official_id": 160,
+    "wnid": "n02095314"
+  },
+  "161": {
+    "internal_class_index": 161,
+    "internal_class_name": "basset",
+    "official_class_name": "basset",
+    "official_id": 161,
+    "wnid": "n02088238"
+  },
+  "162": {
+    "internal_class_index": 346,
+    "internal_class_name": "water buffalo",
+    "official_class_name": "water_buffalo",
+    "official_id": 162,
+    "wnid": "n02408429"
+  },
+  "163": {
+    "internal_class_index": 295,
+    "internal_class_name": "American black bear",
+    "official_class_name": "American_black_bear",
+    "official_id": 163,
+    "wnid": "n02133161"
+  },
+  "164": {
+    "internal_class_index": 332,
+    "internal_class_name": "Angora",
+    "official_class_name": "Angora",
+    "official_id": 164,
+    "wnid": "n02328150"
+  },
+  "165": {
+    "internal_class_index": 347,
+    "internal_class_name": "bison",
+    "official_class_name": "bison",
+    "official_id": 165,
+    "wnid": "n02410509"
+  },
+  "166": {
+    "internal_class_index": 379,
+    "internal_class_name": "howler monkey",
+    "official_class_name": "howler_monkey",
+    "official_id": 166,
+    "wnid": "n02492660"
+  },
+  "167": {
+    "internal_class_index": 344,
+    "internal_class_name": "hippopotamus",
+    "official_class_name": "hippopotamus",
+    "official_id": 167,
+    "wnid": "n02398521"
+  },
+  "168": {
+    "internal_class_index": 260,
+    "internal_class_name": "chow",
+    "official_class_name": "chow",
+    "official_id": 168,
+    "wnid": "n02112137"
+  },
+  "169": {
+    "internal_class_index": 388,
+    "internal_class_name": "giant panda",
+    "official_class_name": "giant_panda",
+    "official_id": 169,
+    "wnid": "n02510455"
+  },
+  "170": {
+    "internal_class_index": 180,
+    "internal_class_name": "American Staffordshire terrier",
+    "official_class_name": "American_Staffordshire_terrier",
+    "official_id": 170,
+    "wnid": "n02093428"
+  },
+  "171": {
+    "internal_class_index": 230,
+    "internal_class_name": "Shetland sheepdog",
+    "official_class_name": "Shetland_sheepdog",
+    "official_id": 171,
+    "wnid": "n02105855"
+  },
+  "172": {
+    "internal_class_index": 257,
+    "internal_class_name": "Great Pyrenees",
+    "official_class_name": "Great_Pyrenees",
+    "official_id": 172,
+    "wnid": "n02111500"
+  },
+  "173": {
+    "internal_class_index": 151,
+    "internal_class_name": "Chihuahua",
+    "official_class_name": "Chihuahua",
+    "official_id": 173,
+    "wnid": "n02085620"
+  },
+  "174": {
+    "internal_class_index": 281,
+    "internal_class_name": "tabby",
+    "official_class_name": "tabby",
+    "official_id": 174,
+    "wnid": "n02123045"
+  },
+  "175": {
+    "internal_class_index": 377,
+    "internal_class_name": "marmoset",
+    "official_class_name": "marmoset",
+    "official_id": 175,
+    "wnid": "n02490219"
+  },
+  "176": {
+    "internal_class_index": 208,
+    "internal_class_name": "Labrador retriever",
+    "official_class_name": "Labrador_retriever",
+    "official_id": 176,
+    "wnid": "n02099712"
+  },
+  "177": {
+    "internal_class_index": 247,
+    "internal_class_name": "Saint Bernard",
+    "official_class_name": "Saint_Bernard",
+    "official_id": 177,
+    "wnid": "n02109525"
+  },
+  "178": {
+    "internal_class_index": 363,
+    "internal_class_name": "armadillo",
+    "official_class_name": "armadillo",
+    "official_id": 178,
+    "wnid": "n02454379"
+  },
+  "179": {
+    "internal_class_index": 258,
+    "internal_class_name": "Samoyed",
+    "official_class_name": "Samoyed",
+    "official_id": 179,
+    "wnid": "n02111889"
+  },
+  "180": {
+    "internal_class_index": 164,
+    "internal_class_name": "bluetick",
+    "official_class_name": "bluetick",
+    "official_id": 180,
+    "wnid": "n02088632"
+  },
+  "181": {
+    "internal_class_index": 168,
+    "internal_class_name": "redbone",
+    "official_class_name": "redbone",
+    "official_id": 181,
+    "wnid": "n02090379"
+  },
+  "182": {
+    "internal_class_index": 358,
+    "internal_class_name": "polecat",
+    "official_class_name": "polecat",
+    "official_id": 182,
+    "wnid": "n02443114"
+  },
+  "183": {
+    "internal_class_index": 336,
+    "internal_class_name": "marmot",
+    "official_class_name": "marmot",
+    "official_id": 183,
+    "wnid": "n02361337"
+  },
+  "184": {
+    "internal_class_index": 227,
+    "internal_class_name": "kelpie",
+    "official_class_name": "kelpie",
+    "official_id": 184,
+    "wnid": "n02105412"
+  },
+  "185": {
+    "internal_class_index": 368,
+    "internal_class_name": "gibbon",
+    "official_class_name": "gibbon",
+    "official_id": 185,
+    "wnid": "n02483362"
+  },
+  "186": {
+    "internal_class_index": 355,
+    "internal_class_name": "llama",
+    "official_class_name": "llama",
+    "official_id": 186,
+    "wnid": "n02437616"
+  },
+  "187": {
+    "internal_class_index": 237,
+    "internal_class_name": "miniature pinscher",
+    "official_class_name": "miniature_pinscher",
+    "official_id": 187,
+    "wnid": "n02107312"
+  },
+  "188": {
+    "internal_class_index": 330,
+    "internal_class_name": "wood rabbit",
+    "official_class_name": "wood_rabbit",
+    "official_id": 188,
+    "wnid": "n02325366"
+  },
+  "189": {
+    "internal_class_index": 171,
+    "internal_class_name": "Italian greyhound",
+    "official_class_name": "Italian_greyhound",
+    "official_id": 189,
+    "wnid": "n02091032"
+  },
+  "190": {
+    "internal_class_index": 291,
+    "internal_class_name": "lion",
+    "official_class_name": "lion",
+    "official_id": 190,
+    "wnid": "n02129165"
+  },
+  "191": {
+    "internal_class_index": 219,
+    "internal_class_name": "cocker spaniel",
+    "official_class_name": "cocker_spaniel",
+    "official_id": 191,
+    "wnid": "n02102318"
+  },
+  "192": {
+    "internal_class_index": 213,
+    "internal_class_name": "Irish setter",
+    "official_class_name": "Irish_setter",
+    "official_id": 192,
+    "wnid": "n02100877"
+  },
+  "193": {
+    "internal_class_index": 149,
+    "internal_class_name": "dugong",
+    "official_class_name": "dugong",
+    "official_id": 193,
+    "wnid": "n02074367"
+  },
+  "194": {
+    "internal_class_index": 385,
+    "internal_class_name": "Indian elephant",
+    "official_class_name": "Indian_elephant",
+    "official_id": 194,
+    "wnid": "n02504013"
+  },
+  "195": {
+    "internal_class_index": 337,
+    "internal_class_name": "beaver",
+    "official_class_name": "beaver",
+    "official_id": 195,
+    "wnid": "n02363005"
+  },
+  "196": {
+    "internal_class_index": 220,
+    "internal_class_name": "Sussex spaniel",
+    "official_class_name": "Sussex_spaniel",
+    "official_id": 196,
+    "wnid": "n02102480"
+  },
+  "197": {
+    "internal_class_index": 263,
+    "internal_class_name": "Pembroke",
+    "official_class_name": "Pembroke",
+    "official_id": 197,
+    "wnid": "n02113023"
+  },
+  "198": {
+    "internal_class_index": 156,
+    "internal_class_name": "Blenheim spaniel",
+    "official_class_name": "Blenheim_spaniel",
+    "official_id": 198,
+    "wnid": "n02086646"
+  },
+  "199": {
+    "internal_class_index": 383,
+    "internal_class_name": "Madagascar cat",
+    "official_class_name": "Madagascar_cat",
+    "official_id": 199,
+    "wnid": "n02497673"
+  },
+  "200": {
+    "internal_class_index": 159,
+    "internal_class_name": "Rhodesian ridgeback",
+    "official_class_name": "Rhodesian_ridgeback",
+    "official_id": 200,
+    "wnid": "n02087394"
+  },
+  "201": {
+    "internal_class_index": 287,
+    "internal_class_name": "lynx",
+    "official_class_name": "lynx",
+    "official_id": 201,
+    "wnid": "n02127052"
+  },
+  "202": {
+    "internal_class_index": 275,
+    "internal_class_name": "African hunting dog",
+    "official_class_name": "African_hunting_dog",
+    "official_id": 202,
+    "wnid": "n02116738"
+  },
+  "203": {
+    "internal_class_index": 374,
+    "internal_class_name": "langur",
+    "official_class_name": "langur",
+    "official_id": 203,
+    "wnid": "n02488291"
+  },
+  "204": {
+    "internal_class_index": 173,
+    "internal_class_name": "Ibizan hound",
+    "official_class_name": "Ibizan_hound",
+    "official_id": 204,
+    "wnid": "n02091244"
+  },
+  "205": {
+    "internal_class_index": 269,
+    "internal_class_name": "timber wolf",
+    "official_class_name": "timber_wolf",
+    "official_id": 205,
+    "wnid": "n02114367"
+  },
+  "206": {
+    "internal_class_index": 293,
+    "internal_class_name": "cheetah",
+    "official_class_name": "cheetah",
+    "official_id": 206,
+    "wnid": "n02130308"
+  },
+  "207": {
+    "internal_class_index": 167,
+    "internal_class_name": "English foxhound",
+    "official_class_name": "English_foxhound",
+    "official_id": 207,
+    "wnid": "n02089973"
+  },
+  "208": {
+    "internal_class_index": 226,
+    "internal_class_name": "briard",
+    "official_class_name": "briard",
+    "official_id": 208,
+    "wnid": "n02105251"
+  },
+  "209": {
+    "internal_class_index": 297,
+    "internal_class_name": "sloth bear",
+    "official_class_name": "sloth_bear",
+    "official_id": 209,
+    "wnid": "n02134418"
+  },
+  "210": {
+    "internal_class_index": 182,
+    "internal_class_name": "Border terrier",
+    "official_class_name": "Border_terrier",
+    "official_id": 210,
+    "wnid": "n02093754"
+  },
+  "211": {
+    "internal_class_index": 235,
+    "internal_class_name": "German shepherd",
+    "official_class_name": "German_shepherd",
+    "official_id": 211,
+    "wnid": "n02106662"
+  },
+  "212": {
+    "internal_class_index": 360,
+    "internal_class_name": "otter",
+    "official_class_name": "otter",
+    "official_id": 212,
+    "wnid": "n02444819"
+  },
+  "213": {
+    "internal_class_index": 105,
+    "internal_class_name": "koala",
+    "official_class_name": "koala",
+    "official_id": 213,
+    "wnid": "n01882714"
+  },
+  "214": {
+    "internal_class_index": 101,
+    "internal_class_name": "tusker",
+    "official_class_name": "tusker",
+    "official_id": 214,
+    "wnid": "n01871265"
+  },
+  "215": {
+    "internal_class_index": 102,
+    "internal_class_name": "echidna",
+    "official_class_name": "echidna",
+    "official_id": 215,
+    "wnid": "n01872401"
+  },
+  "216": {
+    "internal_class_index": 104,
+    "internal_class_name": "wallaby",
+    "official_class_name": "wallaby",
+    "official_id": 216,
+    "wnid": "n01877812"
+  },
+  "217": {
+    "internal_class_index": 103,
+    "internal_class_name": "platypus",
+    "official_class_name": "platypus",
+    "official_id": 217,
+    "wnid": "n01873310"
+  },
+  "218": {
+    "internal_class_index": 106,
+    "internal_class_name": "wombat",
+    "official_class_name": "wombat",
+    "official_id": 218,
+    "wnid": "n01883070"
+  },
+  "219": {
+    "internal_class_index": 763,
+    "internal_class_name": "revolver",
+    "official_class_name": "revolver",
+    "official_id": 219,
+    "wnid": "n04086273"
+  },
+  "220": {
+    "internal_class_index": 879,
+    "internal_class_name": "umbrella",
+    "official_class_name": "umbrella",
+    "official_id": 220,
+    "wnid": "n04507155"
+  },
+  "221": {
+    "internal_class_index": 780,
+    "internal_class_name": "schooner",
+    "official_class_name": "schooner",
+    "official_id": 221,
+    "wnid": "n04147183"
+  },
+  "222": {
+    "internal_class_index": 805,
+    "internal_class_name": "soccer ball",
+    "official_class_name": "soccer_ball",
+    "official_id": 222,
+    "wnid": "n04254680"
+  },
+  "223": {
+    "internal_class_index": 401,
+    "internal_class_name": "accordion",
+    "official_class_name": "accordion",
+    "official_id": 223,
+    "wnid": "n02672831"
+  },
+  "224": {
+    "internal_class_index": 310,
+    "internal_class_name": "ant",
+    "official_class_name": "ant",
+    "official_id": 224,
+    "wnid": "n02219486"
+  },
+  "225": {
+    "internal_class_index": 327,
+    "internal_class_name": "starfish",
+    "official_class_name": "starfish",
+    "official_id": 225,
+    "wnid": "n02317335"
+  },
+  "226": {
+    "internal_class_index": 117,
+    "internal_class_name": "chambered nautilus",
+    "official_class_name": "chambered_nautilus",
+    "official_id": 226,
+    "wnid": "n01968897"
+  },
+  "227": {
+    "internal_class_index": 579,
+    "internal_class_name": "grand piano",
+    "official_class_name": "grand_piano",
+    "official_id": 227,
+    "wnid": "n03452741"
+  },
+  "228": {
+    "internal_class_index": 620,
+    "internal_class_name": "laptop",
+    "official_class_name": "laptop",
+    "official_id": 228,
+    "wnid": "n03642806"
+  },
+  "229": {
+    "internal_class_index": 949,
+    "internal_class_name": "strawberry",
+    "official_class_name": "strawberry",
+    "official_id": 229,
+    "wnid": "n07745940"
+  },
+  "230": {
+    "internal_class_index": 404,
+    "internal_class_name": "airliner",
+    "official_class_name": "airliner",
+    "official_id": 230,
+    "wnid": "n02690373"
+  },
+  "231": {
+    "internal_class_index": 895,
+    "internal_class_name": "warplane",
+    "official_class_name": "warplane",
+    "official_id": 231,
+    "wnid": "n04552348"
+  },
+  "232": {
+    "internal_class_index": 405,
+    "internal_class_name": "airship",
+    "official_class_name": "airship",
+    "official_id": 232,
+    "wnid": "n02692877"
+  },
+  "233": {
+    "internal_class_index": 417,
+    "internal_class_name": "balloon",
+    "official_class_name": "balloon",
+    "official_id": 233,
+    "wnid": "n02782093"
+  },
+  "234": {
+    "internal_class_index": 812,
+    "internal_class_name": "space shuttle",
+    "official_class_name": "space_shuttle",
+    "official_id": 234,
+    "wnid": "n04266014"
+  },
+  "235": {
+    "internal_class_index": 554,
+    "internal_class_name": "fireboat",
+    "official_class_name": "fireboat",
+    "official_id": 235,
+    "wnid": "n03344393"
+  },
+  "236": {
+    "internal_class_index": 576,
+    "internal_class_name": "gondola",
+    "official_class_name": "gondola",
+    "official_id": 236,
+    "wnid": "n03447447"
+  },
+  "237": {
+    "internal_class_index": 814,
+    "internal_class_name": "speedboat",
+    "official_class_name": "speedboat",
+    "official_id": 237,
+    "wnid": "n04273569"
+  },
+  "238": {
+    "internal_class_index": 625,
+    "internal_class_name": "lifeboat",
+    "official_class_name": "lifeboat",
+    "official_id": 238,
+    "wnid": "n03662601"
+  },
+  "239": {
+    "internal_class_index": 472,
+    "internal_class_name": "canoe",
+    "official_class_name": "canoe",
+    "official_id": 239,
+    "wnid": "n02951358"
+  },
+  "240": {
+    "internal_class_index": 914,
+    "internal_class_name": "yawl",
+    "official_class_name": "yawl",
+    "official_id": 240,
+    "wnid": "n04612504"
+  },
+  "241": {
+    "internal_class_index": 484,
+    "internal_class_name": "catamaran",
+    "official_class_name": "catamaran",
+    "official_id": 241,
+    "wnid": "n02981792"
+  },
+  "242": {
+    "internal_class_index": 871,
+    "internal_class_name": "trimaran",
+    "official_class_name": "trimaran",
+    "official_id": 242,
+    "wnid": "n04483307"
+  },
+  "243": {
+    "internal_class_index": 510,
+    "internal_class_name": "container ship",
+    "official_class_name": "container_ship",
+    "official_id": 243,
+    "wnid": "n03095699"
+  },
+  "244": {
+    "internal_class_index": 628,
+    "internal_class_name": "liner",
+    "official_class_name": "liner",
+    "official_id": 244,
+    "wnid": "n03673027"
+  },
+  "245": {
+    "internal_class_index": 724,
+    "internal_class_name": "pirate",
+    "official_class_name": "pirate",
+    "official_id": 245,
+    "wnid": "n03947888"
+  },
+  "246": {
+    "internal_class_index": 403,
+    "internal_class_name": "aircraft carrier",
+    "official_class_name": "aircraft_carrier",
+    "official_id": 246,
+    "wnid": "n02687172"
+  },
+  "247": {
+    "internal_class_index": 833,
+    "internal_class_name": "submarine",
+    "official_class_name": "submarine",
+    "official_id": 247,
+    "wnid": "n04347754"
+  },
+  "248": {
+    "internal_class_index": 913,
+    "internal_class_name": "wreck",
+    "official_class_name": "wreck",
+    "official_id": 248,
+    "wnid": "n04606251"
+  },
+  "249": {
+    "internal_class_index": 586,
+    "internal_class_name": "half track",
+    "official_class_name": "half_track",
+    "official_id": 249,
+    "wnid": "n03478589"
+  },
+  "250": {
+    "internal_class_index": 847,
+    "internal_class_name": "tank",
+    "official_class_name": "tank",
+    "official_id": 250,
+    "wnid": "n04389033"
+  },
+  "251": {
+    "internal_class_index": 657,
+    "internal_class_name": "missile",
+    "official_class_name": "missile",
+    "official_id": 251,
+    "wnid": "n03773504"
+  },
+  "252": {
+    "internal_class_index": 450,
+    "internal_class_name": "bobsled",
+    "official_class_name": "bobsled",
+    "official_id": 252,
+    "wnid": "n02860847"
+  },
+  "253": {
+    "internal_class_index": 537,
+    "internal_class_name": "dogsled",
+    "official_class_name": "dogsled",
+    "official_id": 253,
+    "wnid": "n03218198"
+  },
+  "254": {
+    "internal_class_index": 444,
+    "internal_class_name": "bicycle-built-for-two",
+    "official_class_name": "bicycle-built-for-two",
+    "official_id": 254,
+    "wnid": "n02835271"
+  },
+  "255": {
+    "internal_class_index": 671,
+    "internal_class_name": "mountain bike",
+    "official_class_name": "mountain_bike",
+    "official_id": 255,
+    "wnid": "n03792782"
+  },
+  "256": {
+    "internal_class_index": 565,
+    "internal_class_name": "freight car",
+    "official_class_name": "freight_car",
+    "official_id": 256,
+    "wnid": "n03393912"
+  },
+  "257": {
+    "internal_class_index": 705,
+    "internal_class_name": "passenger car",
+    "official_class_name": "passenger_car",
+    "official_id": 257,
+    "wnid": "n03895866"
+  },
+  "258": {
+    "internal_class_index": 428,
+    "internal_class_name": "barrow",
+    "official_class_name": "barrow",
+    "official_id": 258,
+    "wnid": "n02797295"
+  },
+  "259": {
+    "internal_class_index": 791,
+    "internal_class_name": "shopping cart",
+    "official_class_name": "shopping_cart",
+    "official_id": 259,
+    "wnid": "n04204347"
+  },
+  "260": {
+    "internal_class_index": 670,
+    "internal_class_name": "motor scooter",
+    "official_class_name": "motor_scooter",
+    "official_id": 260,
+    "wnid": "n03791053"
+  },
+  "261": {
+    "internal_class_index": 561,
+    "internal_class_name": "forklift",
+    "official_class_name": "forklift",
+    "official_id": 261,
+    "wnid": "n03384352"
+  },
+  "262": {
+    "internal_class_index": 547,
+    "internal_class_name": "electric locomotive",
+    "official_class_name": "electric_locomotive",
+    "official_id": 262,
+    "wnid": "n03272562"
+  },
+  "263": {
+    "internal_class_index": 820,
+    "internal_class_name": "steam locomotive",
+    "official_class_name": "steam_locomotive",
+    "official_id": 263,
+    "wnid": "n04310018"
+  },
+  "264": {
+    "internal_class_index": 408,
+    "internal_class_name": "amphibian",
+    "official_class_name": "amphibian",
+    "official_id": 264,
+    "wnid": "n02704792"
+  },
+  "265": {
+    "internal_class_index": 407,
+    "internal_class_name": "ambulance",
+    "official_class_name": "ambulance",
+    "official_id": 265,
+    "wnid": "n02701002"
+  },
+  "266": {
+    "internal_class_index": 436,
+    "internal_class_name": "beach wagon",
+    "official_class_name": "beach_wagon",
+    "official_id": 266,
+    "wnid": "n02814533"
+  },
+  "267": {
+    "internal_class_index": 468,
+    "internal_class_name": "cab",
+    "official_class_name": "cab",
+    "official_id": 267,
+    "wnid": "n02930766"
+  },
+  "268": {
+    "internal_class_index": 511,
+    "internal_class_name": "convertible",
+    "official_class_name": "convertible",
+    "official_id": 268,
+    "wnid": "n03100240"
+  },
+  "269": {
+    "internal_class_index": 609,
+    "internal_class_name": "jeep",
+    "official_class_name": "jeep",
+    "official_id": 269,
+    "wnid": "n03594945"
+  },
+  "270": {
+    "internal_class_index": 627,
+    "internal_class_name": "limousine",
+    "official_class_name": "limousine",
+    "official_id": 270,
+    "wnid": "n03670208"
+  },
+  "271": {
+    "internal_class_index": 656,
+    "internal_class_name": "minivan",
+    "official_class_name": "minivan",
+    "official_id": 271,
+    "wnid": "n03770679"
+  },
+  "272": {
+    "internal_class_index": 661,
+    "internal_class_name": "Model T",
+    "official_class_name": "Model_T",
+    "official_id": 272,
+    "wnid": "n03777568"
+  },
+  "273": {
+    "internal_class_index": 751,
+    "internal_class_name": "racer",
+    "official_class_name": "racer",
+    "official_id": 273,
+    "wnid": "n04037443"
+  },
+  "274": {
+    "internal_class_index": 817,
+    "internal_class_name": "sports car",
+    "official_class_name": "sports_car",
+    "official_id": 274,
+    "wnid": "n04285008"
+  },
+  "275": {
+    "internal_class_index": 573,
+    "internal_class_name": "go-kart",
+    "official_class_name": "go-kart",
+    "official_id": 275,
+    "wnid": "n03444034"
+  },
+  "276": {
+    "internal_class_index": 575,
+    "internal_class_name": "golfcart",
+    "official_class_name": "golfcart",
+    "official_id": 276,
+    "wnid": "n03445924"
+  },
+  "277": {
+    "internal_class_index": 665,
+    "internal_class_name": "moped",
+    "official_class_name": "moped",
+    "official_id": 277,
+    "wnid": "n03785016"
+  },
+  "278": {
+    "internal_class_index": 803,
+    "internal_class_name": "snowplow",
+    "official_class_name": "snowplow",
+    "official_id": 278,
+    "wnid": "n04252225"
+  },
+  "279": {
+    "internal_class_index": 555,
+    "internal_class_name": "fire engine",
+    "official_class_name": "fire_engine",
+    "official_id": 279,
+    "wnid": "n03345487"
+  },
+  "280": {
+    "internal_class_index": 569,
+    "internal_class_name": "garbage truck",
+    "official_class_name": "garbage_truck",
+    "official_id": 280,
+    "wnid": "n03417042"
+  },
+  "281": {
+    "internal_class_index": 717,
+    "internal_class_name": "pickup",
+    "official_class_name": "pickup",
+    "official_id": 281,
+    "wnid": "n03930630"
+  },
+  "282": {
+    "internal_class_index": 864,
+    "internal_class_name": "tow truck",
+    "official_class_name": "tow_truck",
+    "official_id": 282,
+    "wnid": "n04461696"
+  },
+  "283": {
+    "internal_class_index": 867,
+    "internal_class_name": "trailer truck",
+    "official_class_name": "trailer_truck",
+    "official_id": 283,
+    "wnid": "n04467665"
+  },
+  "284": {
+    "internal_class_index": 675,
+    "internal_class_name": "moving van",
+    "official_class_name": "moving_van",
+    "official_id": 284,
+    "wnid": "n03796401"
+  },
+  "285": {
+    "internal_class_index": 734,
+    "internal_class_name": "police van",
+    "official_class_name": "police_van",
+    "official_id": 285,
+    "wnid": "n03977966"
+  },
+  "286": {
+    "internal_class_index": 757,
+    "internal_class_name": "recreational vehicle",
+    "official_class_name": "recreational_vehicle",
+    "official_id": 286,
+    "wnid": "n04065272"
+  },
+  "287": {
+    "internal_class_index": 829,
+    "internal_class_name": "streetcar",
+    "official_class_name": "streetcar",
+    "official_id": 287,
+    "wnid": "n04335435"
+  },
+  "288": {
+    "internal_class_index": 802,
+    "internal_class_name": "snowmobile",
+    "official_class_name": "snowmobile",
+    "official_id": 288,
+    "wnid": "n04252077"
+  },
+  "289": {
+    "internal_class_index": 866,
+    "internal_class_name": "tractor",
+    "official_class_name": "tractor",
+    "official_id": 289,
+    "wnid": "n04465501"
+  },
+  "290": {
+    "internal_class_index": 660,
+    "internal_class_name": "mobile home",
+    "official_class_name": "mobile_home",
+    "official_id": 290,
+    "wnid": "n03776460"
+  },
+  "291": {
+    "internal_class_index": 870,
+    "internal_class_name": "tricycle",
+    "official_class_name": "tricycle",
+    "official_id": 291,
+    "wnid": "n04482393"
+  },
+  "292": {
+    "internal_class_index": 880,
+    "internal_class_name": "unicycle",
+    "official_class_name": "unicycle",
+    "official_id": 292,
+    "wnid": "n04509417"
+  },
+  "293": {
+    "internal_class_index": 603,
+    "internal_class_name": "horse cart",
+    "official_class_name": "horse_cart",
+    "official_id": 293,
+    "wnid": "n03538406"
+  },
+  "294": {
+    "internal_class_index": 612,
+    "internal_class_name": "jinrikisha",
+    "official_class_name": "jinrikisha",
+    "official_id": 294,
+    "wnid": "n03599486"
+  },
+  "295": {
+    "internal_class_index": 690,
+    "internal_class_name": "oxcart",
+    "official_class_name": "oxcart",
+    "official_id": 295,
+    "wnid": "n03868242"
+  },
+  "296": {
+    "internal_class_index": 431,
+    "internal_class_name": "bassinet",
+    "official_class_name": "bassinet",
+    "official_id": 296,
+    "wnid": "n02804414"
+  },
+  "297": {
+    "internal_class_index": 516,
+    "internal_class_name": "cradle",
+    "official_class_name": "cradle",
+    "official_id": 297,
+    "wnid": "n03125729"
+  },
+  "298": {
+    "internal_class_index": 520,
+    "internal_class_name": "crib",
+    "official_class_name": "crib",
+    "official_id": 298,
+    "wnid": "n03131574"
+  },
+  "299": {
+    "internal_class_index": 564,
+    "internal_class_name": "four-poster",
+    "official_class_name": "four-poster",
+    "official_id": 299,
+    "wnid": "n03388549"
+  },
+  "300": {
+    "internal_class_index": 453,
+    "internal_class_name": "bookcase",
+    "official_class_name": "bookcase",
+    "official_id": 300,
+    "wnid": "n02870880"
+  },
+  "301": {
+    "internal_class_index": 495,
+    "internal_class_name": "china cabinet",
+    "official_class_name": "china_cabinet",
+    "official_id": 301,
+    "wnid": "n03018349"
+  },
+  "302": {
+    "internal_class_index": 648,
+    "internal_class_name": "medicine chest",
+    "official_class_name": "medicine_chest",
+    "official_id": 302,
+    "wnid": "n03742115"
+  },
+  "303": {
+    "internal_class_index": 493,
+    "internal_class_name": "chiffonier",
+    "official_class_name": "chiffonier",
+    "official_id": 303,
+    "wnid": "n03016953"
+  },
+  "304": {
+    "internal_class_index": 846,
+    "internal_class_name": "table lamp",
+    "official_class_name": "table_lamp",
+    "official_id": 304,
+    "wnid": "n04380533"
+  },
+  "305": {
+    "internal_class_index": 553,
+    "internal_class_name": "file",
+    "official_class_name": "file",
+    "official_id": 305,
+    "wnid": "n03337140"
+  },
+  "306": {
+    "internal_class_index": 703,
+    "internal_class_name": "park bench",
+    "official_class_name": "park_bench",
+    "official_id": 306,
+    "wnid": "n03891251"
+  },
+  "307": {
+    "internal_class_index": 423,
+    "internal_class_name": "barber chair",
+    "official_class_name": "barber_chair",
+    "official_id": 307,
+    "wnid": "n02791124"
+  },
+  "308": {
+    "internal_class_index": 857,
+    "internal_class_name": "throne",
+    "official_class_name": "throne",
+    "official_id": 308,
+    "wnid": "n04429376"
+  },
+  "309": {
+    "internal_class_index": 559,
+    "internal_class_name": "folding chair",
+    "official_class_name": "folding_chair",
+    "official_id": 309,
+    "wnid": "n03376595"
+  },
+  "310": {
+    "internal_class_index": 765,
+    "internal_class_name": "rocking chair",
+    "official_class_name": "rocking_chair",
+    "official_id": 310,
+    "wnid": "n04099969"
+  },
+  "311": {
+    "internal_class_index": 831,
+    "internal_class_name": "studio couch",
+    "official_class_name": "studio_couch",
+    "official_id": 311,
+    "wnid": "n04344873"
+  },
+  "312": {
+    "internal_class_index": 861,
+    "internal_class_name": "toilet seat",
+    "official_class_name": "toilet_seat",
+    "official_id": 312,
+    "wnid": "n04447861"
+  },
+  "313": {
+    "internal_class_index": 526,
+    "internal_class_name": "desk",
+    "official_class_name": "desk",
+    "official_id": 313,
+    "wnid": "n03179701"
+  },
+  "314": {
+    "internal_class_index": 736,
+    "internal_class_name": "pool table",
+    "official_class_name": "pool_table",
+    "official_id": 314,
+    "wnid": "n03982430"
+  },
+  "315": {
+    "internal_class_index": 532,
+    "internal_class_name": "dining table",
+    "official_class_name": "dining_table",
+    "official_id": 315,
+    "wnid": "n03201208"
+  },
+  "316": {
+    "internal_class_index": 548,
+    "internal_class_name": "entertainment center",
+    "official_class_name": "entertainment_center",
+    "official_id": 316,
+    "wnid": "n03290653"
+  },
+  "317": {
+    "internal_class_index": 894,
+    "internal_class_name": "wardrobe",
+    "official_class_name": "wardrobe",
+    "official_id": 317,
+    "wnid": "n04550184"
+  },
+  "318": {
+    "internal_class_index": 948,
+    "internal_class_name": "Granny Smith",
+    "official_class_name": "Granny_Smith",
+    "official_id": 318,
+    "wnid": "n07742313"
+  },
+  "319": {
+    "internal_class_index": 950,
+    "internal_class_name": "orange",
+    "official_class_name": "orange",
+    "official_id": 319,
+    "wnid": "n07747607"
+  },
+  "320": {
+    "internal_class_index": 951,
+    "internal_class_name": "lemon",
+    "official_class_name": "lemon",
+    "official_id": 320,
+    "wnid": "n07749582"
+  },
+  "321": {
+    "internal_class_index": 952,
+    "internal_class_name": "fig",
+    "official_class_name": "fig",
+    "official_id": 321,
+    "wnid": "n07753113"
+  },
+  "322": {
+    "internal_class_index": 953,
+    "internal_class_name": "pineapple",
+    "official_class_name": "pineapple",
+    "official_id": 322,
+    "wnid": "n07753275"
+  },
+  "323": {
+    "internal_class_index": 954,
+    "internal_class_name": "banana",
+    "official_class_name": "banana",
+    "official_id": 323,
+    "wnid": "n07753592"
+  },
+  "324": {
+    "internal_class_index": 955,
+    "internal_class_name": "jackfruit",
+    "official_class_name": "jackfruit",
+    "official_id": 324,
+    "wnid": "n07754684"
+  },
+  "325": {
+    "internal_class_index": 956,
+    "internal_class_name": "custard apple",
+    "official_class_name": "custard_apple",
+    "official_id": 325,
+    "wnid": "n07760859"
+  },
+  "326": {
+    "internal_class_index": 957,
+    "internal_class_name": "pomegranate",
+    "official_class_name": "pomegranate",
+    "official_id": 326,
+    "wnid": "n07768694"
+  },
+  "327": {
+    "internal_class_index": 988,
+    "internal_class_name": "acorn",
+    "official_class_name": "acorn",
+    "official_id": 327,
+    "wnid": "n12267677"
+  },
+  "328": {
+    "internal_class_index": 989,
+    "internal_class_name": "hip",
+    "official_class_name": "hip",
+    "official_id": 328,
+    "wnid": "n12620546"
+  },
+  "329": {
+    "internal_class_index": 998,
+    "internal_class_name": "ear",
+    "official_class_name": "ear",
+    "official_id": 329,
+    "wnid": "n13133613"
+  },
+  "330": {
+    "internal_class_index": 984,
+    "internal_class_name": "rapeseed",
+    "official_class_name": "rapeseed",
+    "official_id": 330,
+    "wnid": "n11879895"
+  },
+  "331": {
+    "internal_class_index": 987,
+    "internal_class_name": "corn",
+    "official_class_name": "corn",
+    "official_id": 331,
+    "wnid": "n12144580"
+  },
+  "332": {
+    "internal_class_index": 990,
+    "internal_class_name": "buckeye",
+    "official_class_name": "buckeye",
+    "official_id": 332,
+    "wnid": "n12768682"
+  },
+  "333": {
+    "internal_class_index": 687,
+    "internal_class_name": "organ",
+    "official_class_name": "organ",
+    "official_id": 333,
+    "wnid": "n03854065"
+  },
+  "334": {
+    "internal_class_index": 881,
+    "internal_class_name": "upright",
+    "official_class_name": "upright",
+    "official_id": 334,
+    "wnid": "n04515003"
+  },
+  "335": {
+    "internal_class_index": 494,
+    "internal_class_name": "chime",
+    "official_class_name": "chime",
+    "official_id": 335,
+    "wnid": "n03017168"
+  },
+  "336": {
+    "internal_class_index": 541,
+    "internal_class_name": "drum",
+    "official_class_name": "drum",
+    "official_id": 336,
+    "wnid": "n03249569"
+  },
+  "337": {
+    "internal_class_index": 577,
+    "internal_class_name": "gong",
+    "official_class_name": "gong",
+    "official_id": 337,
+    "wnid": "n03447721"
+  },
+  "338": {
+    "internal_class_index": 641,
+    "internal_class_name": "maraca",
+    "official_class_name": "maraca",
+    "official_id": 338,
+    "wnid": "n03720891"
+  },
+  "339": {
+    "internal_class_index": 642,
+    "internal_class_name": "marimba",
+    "official_class_name": "marimba",
+    "official_id": 339,
+    "wnid": "n03721384"
+  },
+  "340": {
+    "internal_class_index": 822,
+    "internal_class_name": "steel drum",
+    "official_class_name": "steel_drum",
+    "official_id": 340,
+    "wnid": "n04311174"
+  },
+  "341": {
+    "internal_class_index": 420,
+    "internal_class_name": "banjo",
+    "official_class_name": "banjo",
+    "official_id": 341,
+    "wnid": "n02787622"
+  },
+  "342": {
+    "internal_class_index": 486,
+    "internal_class_name": "cello",
+    "official_class_name": "cello",
+    "official_id": 342,
+    "wnid": "n02992211"
+  },
+  "343": {
+    "internal_class_index": 889,
+    "internal_class_name": "violin",
+    "official_class_name": "violin",
+    "official_id": 343,
+    "wnid": "n04536866"
+  },
+  "344": {
+    "internal_class_index": 594,
+    "internal_class_name": "harp",
+    "official_class_name": "harp",
+    "official_id": 344,
+    "wnid": "n03495258"
+  },
+  "345": {
+    "internal_class_index": 402,
+    "internal_class_name": "acoustic guitar",
+    "official_class_name": "acoustic_guitar",
+    "official_id": 345,
+    "wnid": "n02676566"
+  },
+  "346": {
+    "internal_class_index": 546,
+    "internal_class_name": "electric guitar",
+    "official_class_name": "electric_guitar",
+    "official_id": 346,
+    "wnid": "n03272010"
+  },
+  "347": {
+    "internal_class_index": 513,
+    "internal_class_name": "cornet",
+    "official_class_name": "cornet",
+    "official_id": 347,
+    "wnid": "n03110669"
+  },
+  "348": {
+    "internal_class_index": 566,
+    "internal_class_name": "French horn",
+    "official_class_name": "French_horn",
+    "official_id": 348,
+    "wnid": "n03394916"
+  },
+  "349": {
+    "internal_class_index": 875,
+    "internal_class_name": "trombone",
+    "official_class_name": "trombone",
+    "official_id": 349,
+    "wnid": "n04487394"
+  },
+  "350": {
+    "internal_class_index": 593,
+    "internal_class_name": "harmonica",
+    "official_class_name": "harmonica",
+    "official_id": 350,
+    "wnid": "n03494278"
+  },
+  "351": {
+    "internal_class_index": 684,
+    "internal_class_name": "ocarina",
+    "official_class_name": "ocarina",
+    "official_id": 351,
+    "wnid": "n03840681"
+  },
+  "352": {
+    "internal_class_index": 699,
+    "internal_class_name": "panpipe",
+    "official_class_name": "panpipe",
+    "official_id": 352,
+    "wnid": "n03884397"
+  },
+  "353": {
+    "internal_class_index": 432,
+    "internal_class_name": "bassoon",
+    "official_class_name": "bassoon",
+    "official_id": 353,
+    "wnid": "n02804610"
+  },
+  "354": {
+    "internal_class_index": 683,
+    "internal_class_name": "oboe",
+    "official_class_name": "oboe",
+    "official_id": 354,
+    "wnid": "n03838899"
+  },
+  "355": {
+    "internal_class_index": 776,
+    "internal_class_name": "sax",
+    "official_class_name": "sax",
+    "official_id": 355,
+    "wnid": "n04141076"
+  },
+  "356": {
+    "internal_class_index": 558,
+    "internal_class_name": "flute",
+    "official_class_name": "flute",
+    "official_id": 356,
+    "wnid": "n03372029"
+  },
+  "357": {
+    "internal_class_index": 985,
+    "internal_class_name": "daisy",
+    "official_class_name": "daisy",
+    "official_id": 357,
+    "wnid": "n11939491"
+  },
+  "358": {
+    "internal_class_index": 986,
+    "internal_class_name": "yellow lady's slipper",
+    "official_class_name": "yellow_lady's_slipper",
+    "official_id": 358,
+    "wnid": "n12057211"
+  },
+  "359": {
+    "internal_class_index": 972,
+    "internal_class_name": "cliff",
+    "official_class_name": "cliff",
+    "official_id": 359,
+    "wnid": "n09246464"
+  },
+  "360": {
+    "internal_class_index": 979,
+    "internal_class_name": "valley",
+    "official_class_name": "valley",
+    "official_id": 360,
+    "wnid": "n09468604"
+  },
+  "361": {
+    "internal_class_index": 970,
+    "internal_class_name": "alp",
+    "official_class_name": "alp",
+    "official_id": 361,
+    "wnid": "n09193705"
+  },
+  "362": {
+    "internal_class_index": 980,
+    "internal_class_name": "volcano",
+    "official_class_name": "volcano",
+    "official_id": 362,
+    "wnid": "n09472597"
+  },
+  "363": {
+    "internal_class_index": 976,
+    "internal_class_name": "promontory",
+    "official_class_name": "promontory",
+    "official_id": 363,
+    "wnid": "n09399592"
+  },
+  "364": {
+    "internal_class_index": 977,
+    "internal_class_name": "sandbar",
+    "official_class_name": "sandbar",
+    "official_id": 364,
+    "wnid": "n09421951"
+  },
+  "365": {
+    "internal_class_index": 973,
+    "internal_class_name": "coral reef",
+    "official_class_name": "coral_reef",
+    "official_id": 365,
+    "wnid": "n09256479"
+  },
+  "366": {
+    "internal_class_index": 975,
+    "internal_class_name": "lakeside",
+    "official_class_name": "lakeside",
+    "official_id": 366,
+    "wnid": "n09332890"
+  },
+  "367": {
+    "internal_class_index": 978,
+    "internal_class_name": "seashore",
+    "official_class_name": "seashore",
+    "official_id": 367,
+    "wnid": "n09428293"
+  },
+  "368": {
+    "internal_class_index": 974,
+    "internal_class_name": "geyser",
+    "official_class_name": "geyser",
+    "official_id": 368,
+    "wnid": "n09288635"
+  },
+  "369": {
+    "internal_class_index": 596,
+    "internal_class_name": "hatchet",
+    "official_class_name": "hatchet",
+    "official_id": 369,
+    "wnid": "n03498962"
+  },
+  "370": {
+    "internal_class_index": 499,
+    "internal_class_name": "cleaver",
+    "official_class_name": "cleaver",
+    "official_id": 370,
+    "wnid": "n03041632"
+  },
+  "371": {
+    "internal_class_index": 623,
+    "internal_class_name": "letter opener",
+    "official_class_name": "letter_opener",
+    "official_id": 371,
+    "wnid": "n03658185"
+  },
+  "372": {
+    "internal_class_index": 726,
+    "internal_class_name": "plane",
+    "official_class_name": "plane",
+    "official_id": 372,
+    "wnid": "n03954731"
+  },
+  "373": {
+    "internal_class_index": 740,
+    "internal_class_name": "power drill",
+    "official_class_name": "power_drill",
+    "official_id": 373,
+    "wnid": "n03995372"
+  },
+  "374": {
+    "internal_class_index": 621,
+    "internal_class_name": "lawn mower",
+    "official_class_name": "lawn_mower",
+    "official_id": 374,
+    "wnid": "n03649909"
+  },
+  "375": {
+    "internal_class_index": 587,
+    "internal_class_name": "hammer",
+    "official_class_name": "hammer",
+    "official_id": 375,
+    "wnid": "n03481172"
+  },
+  "376": {
+    "internal_class_index": 512,
+    "internal_class_name": "corkscrew",
+    "official_class_name": "corkscrew",
+    "official_id": 376,
+    "wnid": "n03109150"
+  },
+  "377": {
+    "internal_class_index": 473,
+    "internal_class_name": "can opener",
+    "official_class_name": "can_opener",
+    "official_id": 377,
+    "wnid": "n02951585"
+  },
+  "378": {
+    "internal_class_index": 731,
+    "internal_class_name": "plunger",
+    "official_class_name": "plunger",
+    "official_id": 378,
+    "wnid": "n03970156"
+  },
+  "379": {
+    "internal_class_index": 784,
+    "internal_class_name": "screwdriver",
+    "official_class_name": "screwdriver",
+    "official_id": 379,
+    "wnid": "n04154565"
+  },
+  "380": {
+    "internal_class_index": 792,
+    "internal_class_name": "shovel",
+    "official_class_name": "shovel",
+    "official_id": 380,
+    "wnid": "n04208210"
+  },
+  "381": {
+    "internal_class_index": 730,
+    "internal_class_name": "plow",
+    "official_class_name": "plow",
+    "official_id": 381,
+    "wnid": "n03967562"
+  },
+  "382": {
+    "internal_class_index": 491,
+    "internal_class_name": "chain saw",
+    "official_class_name": "chain_saw",
+    "official_id": 382,
+    "wnid": "n03000684"
+  },
+  "383": {
+    "internal_class_index": 7,
+    "internal_class_name": "cock",
+    "official_class_name": "cock",
+    "official_id": 383,
+    "wnid": "n01514668"
+  },
+  "384": {
+    "internal_class_index": 8,
+    "internal_class_name": "hen",
+    "official_class_name": "hen",
+    "official_id": 384,
+    "wnid": "n01514859"
+  },
+  "385": {
+    "internal_class_index": 9,
+    "internal_class_name": "ostrich",
+    "official_class_name": "ostrich",
+    "official_id": 385,
+    "wnid": "n01518878"
+  },
+  "386": {
+    "internal_class_index": 10,
+    "internal_class_name": "brambling",
+    "official_class_name": "brambling",
+    "official_id": 386,
+    "wnid": "n01530575"
+  },
+  "387": {
+    "internal_class_index": 11,
+    "internal_class_name": "goldfinch",
+    "official_class_name": "goldfinch",
+    "official_id": 387,
+    "wnid": "n01531178"
+  },
+  "388": {
+    "internal_class_index": 12,
+    "internal_class_name": "house finch",
+    "official_class_name": "house_finch",
+    "official_id": 388,
+    "wnid": "n01532829"
+  },
+  "389": {
+    "internal_class_index": 13,
+    "internal_class_name": "junco",
+    "official_class_name": "junco",
+    "official_id": 389,
+    "wnid": "n01534433"
+  },
+  "390": {
+    "internal_class_index": 14,
+    "internal_class_name": "indigo bunting",
+    "official_class_name": "indigo_bunting",
+    "official_id": 390,
+    "wnid": "n01537544"
+  },
+  "391": {
+    "internal_class_index": 15,
+    "internal_class_name": "robin",
+    "official_class_name": "robin",
+    "official_id": 391,
+    "wnid": "n01558993"
+  },
+  "392": {
+    "internal_class_index": 16,
+    "internal_class_name": "bulbul",
+    "official_class_name": "bulbul",
+    "official_id": 392,
+    "wnid": "n01560419"
+  },
+  "393": {
+    "internal_class_index": 17,
+    "internal_class_name": "jay",
+    "official_class_name": "jay",
+    "official_id": 393,
+    "wnid": "n01580077"
+  },
+  "394": {
+    "internal_class_index": 18,
+    "internal_class_name": "magpie",
+    "official_class_name": "magpie",
+    "official_id": 394,
+    "wnid": "n01582220"
+  },
+  "395": {
+    "internal_class_index": 19,
+    "internal_class_name": "chickadee",
+    "official_class_name": "chickadee",
+    "official_id": 395,
+    "wnid": "n01592084"
+  },
+  "396": {
+    "internal_class_index": 20,
+    "internal_class_name": "water ouzel",
+    "official_class_name": "water_ouzel",
+    "official_id": 396,
+    "wnid": "n01601694"
+  },
+  "397": {
+    "internal_class_index": 21,
+    "internal_class_name": "kite",
+    "official_class_name": "kite",
+    "official_id": 397,
+    "wnid": "n01608432"
+  },
+  "398": {
+    "internal_class_index": 22,
+    "internal_class_name": "bald eagle",
+    "official_class_name": "bald_eagle",
+    "official_id": 398,
+    "wnid": "n01614925"
+  },
+  "399": {
+    "internal_class_index": 23,
+    "internal_class_name": "vulture",
+    "official_class_name": "vulture",
+    "official_id": 399,
+    "wnid": "n01616318"
+  },
+  "400": {
+    "internal_class_index": 24,
+    "internal_class_name": "great grey owl",
+    "official_class_name": "great_grey_owl",
+    "official_id": 400,
+    "wnid": "n01622779"
+  },
+  "401": {
+    "internal_class_index": 80,
+    "internal_class_name": "black grouse",
+    "official_class_name": "black_grouse",
+    "official_id": 401,
+    "wnid": "n01795545"
+  },
+  "402": {
+    "internal_class_index": 81,
+    "internal_class_name": "ptarmigan",
+    "official_class_name": "ptarmigan",
+    "official_id": 402,
+    "wnid": "n01796340"
+  },
+  "403": {
+    "internal_class_index": 82,
+    "internal_class_name": "ruffed grouse",
+    "official_class_name": "ruffed_grouse",
+    "official_id": 403,
+    "wnid": "n01797886"
+  },
+  "404": {
+    "internal_class_index": 83,
+    "internal_class_name": "prairie chicken",
+    "official_class_name": "prairie_chicken",
+    "official_id": 404,
+    "wnid": "n01798484"
+  },
+  "405": {
+    "internal_class_index": 84,
+    "internal_class_name": "peacock",
+    "official_class_name": "peacock",
+    "official_id": 405,
+    "wnid": "n01806143"
+  },
+  "406": {
+    "internal_class_index": 85,
+    "internal_class_name": "quail",
+    "official_class_name": "quail",
+    "official_id": 406,
+    "wnid": "n01806567"
+  },
+  "407": {
+    "internal_class_index": 86,
+    "internal_class_name": "partridge",
+    "official_class_name": "partridge",
+    "official_id": 407,
+    "wnid": "n01807496"
+  },
+  "408": {
+    "internal_class_index": 87,
+    "internal_class_name": "African grey",
+    "official_class_name": "African_grey",
+    "official_id": 408,
+    "wnid": "n01817953"
+  },
+  "409": {
+    "internal_class_index": 88,
+    "internal_class_name": "macaw",
+    "official_class_name": "macaw",
+    "official_id": 409,
+    "wnid": "n01818515"
+  },
+  "410": {
+    "internal_class_index": 89,
+    "internal_class_name": "sulphur-crested cockatoo",
+    "official_class_name": "sulphur-crested_cockatoo",
+    "official_id": 410,
+    "wnid": "n01819313"
+  },
+  "411": {
+    "internal_class_index": 90,
+    "internal_class_name": "lorikeet",
+    "official_class_name": "lorikeet",
+    "official_id": 411,
+    "wnid": "n01820546"
+  },
+  "412": {
+    "internal_class_index": 91,
+    "internal_class_name": "coucal",
+    "official_class_name": "coucal",
+    "official_id": 412,
+    "wnid": "n01824575"
+  },
+  "413": {
+    "internal_class_index": 92,
+    "internal_class_name": "bee eater",
+    "official_class_name": "bee_eater",
+    "official_id": 413,
+    "wnid": "n01828970"
+  },
+  "414": {
+    "internal_class_index": 93,
+    "internal_class_name": "hornbill",
+    "official_class_name": "hornbill",
+    "official_id": 414,
+    "wnid": "n01829413"
+  },
+  "415": {
+    "internal_class_index": 94,
+    "internal_class_name": "hummingbird",
+    "official_class_name": "hummingbird",
+    "official_id": 415,
+    "wnid": "n01833805"
+  },
+  "416": {
+    "internal_class_index": 95,
+    "internal_class_name": "jacamar",
+    "official_class_name": "jacamar",
+    "official_id": 416,
+    "wnid": "n01843065"
+  },
+  "417": {
+    "internal_class_index": 96,
+    "internal_class_name": "toucan",
+    "official_class_name": "toucan",
+    "official_id": 417,
+    "wnid": "n01843383"
+  },
+  "418": {
+    "internal_class_index": 97,
+    "internal_class_name": "drake",
+    "official_class_name": "drake",
+    "official_id": 418,
+    "wnid": "n01847000"
+  },
+  "419": {
+    "internal_class_index": 98,
+    "internal_class_name": "red-breasted merganser",
+    "official_class_name": "red-breasted_merganser",
+    "official_id": 419,
+    "wnid": "n01855032"
+  },
+  "420": {
+    "internal_class_index": 99,
+    "internal_class_name": "goose",
+    "official_class_name": "goose",
+    "official_id": 420,
+    "wnid": "n01855672"
+  },
+  "421": {
+    "internal_class_index": 100,
+    "internal_class_name": "black swan",
+    "official_class_name": "black_swan",
+    "official_id": 421,
+    "wnid": "n01860187"
+  },
+  "422": {
+    "internal_class_index": 127,
+    "internal_class_name": "white stork",
+    "official_class_name": "white_stork",
+    "official_id": 422,
+    "wnid": "n02002556"
+  },
+  "423": {
+    "internal_class_index": 128,
+    "internal_class_name": "black stork",
+    "official_class_name": "black_stork",
+    "official_id": 423,
+    "wnid": "n02002724"
+  },
+  "424": {
+    "internal_class_index": 129,
+    "internal_class_name": "spoonbill",
+    "official_class_name": "spoonbill",
+    "official_id": 424,
+    "wnid": "n02006656"
+  },
+  "425": {
+    "internal_class_index": 130,
+    "internal_class_name": "flamingo",
+    "official_class_name": "flamingo",
+    "official_id": 425,
+    "wnid": "n02007558"
+  },
+  "426": {
+    "internal_class_index": 132,
+    "internal_class_name": "American egret",
+    "official_class_name": "American_egret",
+    "official_id": 426,
+    "wnid": "n02009912"
+  },
+  "427": {
+    "internal_class_index": 131,
+    "internal_class_name": "little blue heron",
+    "official_class_name": "little_blue_heron",
+    "official_id": 427,
+    "wnid": "n02009229"
+  },
+  "428": {
+    "internal_class_index": 133,
+    "internal_class_name": "bittern",
+    "official_class_name": "bittern",
+    "official_id": 428,
+    "wnid": "n02011460"
+  },
+  "429": {
+    "internal_class_index": 517,
+    "internal_class_name": "crane",
+    "official_class_name": "crane",
+    "official_id": 429,
+    "wnid": "n02012849"
+  },
+  "430": {
+    "internal_class_index": 135,
+    "internal_class_name": "limpkin",
+    "official_class_name": "limpkin",
+    "official_id": 430,
+    "wnid": "n02013706"
+  },
+  "431": {
+    "internal_class_index": 137,
+    "internal_class_name": "American coot",
+    "official_class_name": "American_coot",
+    "official_id": 431,
+    "wnid": "n02018207"
+  },
+  "432": {
+    "internal_class_index": 138,
+    "internal_class_name": "bustard",
+    "official_class_name": "bustard",
+    "official_id": 432,
+    "wnid": "n02018795"
+  },
+  "433": {
+    "internal_class_index": 139,
+    "internal_class_name": "ruddy turnstone",
+    "official_class_name": "ruddy_turnstone",
+    "official_id": 433,
+    "wnid": "n02025239"
+  },
+  "434": {
+    "internal_class_index": 140,
+    "internal_class_name": "red-backed sandpiper",
+    "official_class_name": "red-backed_sandpiper",
+    "official_id": 434,
+    "wnid": "n02027492"
+  },
+  "435": {
+    "internal_class_index": 141,
+    "internal_class_name": "redshank",
+    "official_class_name": "redshank",
+    "official_id": 435,
+    "wnid": "n02028035"
+  },
+  "436": {
+    "internal_class_index": 142,
+    "internal_class_name": "dowitcher",
+    "official_class_name": "dowitcher",
+    "official_id": 436,
+    "wnid": "n02033041"
+  },
+  "437": {
+    "internal_class_index": 143,
+    "internal_class_name": "oystercatcher",
+    "official_class_name": "oystercatcher",
+    "official_id": 437,
+    "wnid": "n02037110"
+  },
+  "438": {
+    "internal_class_index": 136,
+    "internal_class_name": "European gallinule",
+    "official_class_name": "European_gallinule",
+    "official_id": 438,
+    "wnid": "n02017213"
+  },
+  "439": {
+    "internal_class_index": 144,
+    "internal_class_name": "pelican",
+    "official_class_name": "pelican",
+    "official_id": 439,
+    "wnid": "n02051845"
+  },
+  "440": {
+    "internal_class_index": 145,
+    "internal_class_name": "king penguin",
+    "official_class_name": "king_penguin",
+    "official_id": 440,
+    "wnid": "n02056570"
+  },
+  "441": {
+    "internal_class_index": 146,
+    "internal_class_name": "albatross",
+    "official_class_name": "albatross",
+    "official_id": 441,
+    "wnid": "n02058221"
+  },
+  "442": {
+    "internal_class_index": 2,
+    "internal_class_name": "great white shark",
+    "official_class_name": "great_white_shark",
+    "official_id": 442,
+    "wnid": "n01484850"
+  },
+  "443": {
+    "internal_class_index": 3,
+    "internal_class_name": "tiger shark",
+    "official_class_name": "tiger_shark",
+    "official_id": 443,
+    "wnid": "n01491361"
+  },
+  "444": {
+    "internal_class_index": 4,
+    "internal_class_name": "hammerhead",
+    "official_class_name": "hammerhead",
+    "official_id": 444,
+    "wnid": "n01494475"
+  },
+  "445": {
+    "internal_class_index": 5,
+    "internal_class_name": "electric ray",
+    "official_class_name": "electric_ray",
+    "official_id": 445,
+    "wnid": "n01496331"
+  },
+  "446": {
+    "internal_class_index": 6,
+    "internal_class_name": "stingray",
+    "official_class_name": "stingray",
+    "official_id": 446,
+    "wnid": "n01498041"
+  },
+  "447": {
+    "internal_class_index": 389,
+    "internal_class_name": "barracouta",
+    "official_class_name": "barracouta",
+    "official_id": 447,
+    "wnid": "n02514041"
+  },
+  "448": {
+    "internal_class_index": 391,
+    "internal_class_name": "coho",
+    "official_class_name": "coho",
+    "official_id": 448,
+    "wnid": "n02536864"
+  },
+  "449": {
+    "internal_class_index": 0,
+    "internal_class_name": "tench",
+    "official_class_name": "tench",
+    "official_id": 449,
+    "wnid": "n01440764"
+  },
+  "450": {
+    "internal_class_index": 1,
+    "internal_class_name": "goldfish",
+    "official_class_name": "goldfish",
+    "official_id": 450,
+    "wnid": "n01443537"
+  },
+  "451": {
+    "internal_class_index": 390,
+    "internal_class_name": "eel",
+    "official_class_name": "eel",
+    "official_id": 451,
+    "wnid": "n02526121"
+  },
+  "452": {
+    "internal_class_index": 392,
+    "internal_class_name": "rock beauty",
+    "official_class_name": "rock_beauty",
+    "official_id": 452,
+    "wnid": "n02606052"
+  },
+  "453": {
+    "internal_class_index": 393,
+    "internal_class_name": "anemone fish",
+    "official_class_name": "anemone_fish",
+    "official_id": 453,
+    "wnid": "n02607072"
+  },
+  "454": {
+    "internal_class_index": 396,
+    "internal_class_name": "lionfish",
+    "official_class_name": "lionfish",
+    "official_id": 454,
+    "wnid": "n02643566"
+  },
+  "455": {
+    "internal_class_index": 397,
+    "internal_class_name": "puffer",
+    "official_class_name": "puffer",
+    "official_id": 455,
+    "wnid": "n02655020"
+  },
+  "456": {
+    "internal_class_index": 394,
+    "internal_class_name": "sturgeon",
+    "official_class_name": "sturgeon",
+    "official_id": 456,
+    "wnid": "n02640242"
+  },
+  "457": {
+    "internal_class_index": 395,
+    "internal_class_name": "gar",
+    "official_class_name": "gar",
+    "official_id": 457,
+    "wnid": "n02641379"
+  },
+  "458": {
+    "internal_class_index": 33,
+    "internal_class_name": "loggerhead",
+    "official_class_name": "loggerhead",
+    "official_id": 458,
+    "wnid": "n01664065"
+  },
+  "459": {
+    "internal_class_index": 34,
+    "internal_class_name": "leatherback turtle",
+    "official_class_name": "leatherback_turtle",
+    "official_id": 459,
+    "wnid": "n01665541"
+  },
+  "460": {
+    "internal_class_index": 35,
+    "internal_class_name": "mud turtle",
+    "official_class_name": "mud_turtle",
+    "official_id": 460,
+    "wnid": "n01667114"
+  },
+  "461": {
+    "internal_class_index": 36,
+    "internal_class_name": "terrapin",
+    "official_class_name": "terrapin",
+    "official_id": 461,
+    "wnid": "n01667778"
+  },
+  "462": {
+    "internal_class_index": 37,
+    "internal_class_name": "box turtle",
+    "official_class_name": "box_turtle",
+    "official_id": 462,
+    "wnid": "n01669191"
+  },
+  "463": {
+    "internal_class_index": 38,
+    "internal_class_name": "banded gecko",
+    "official_class_name": "banded_gecko",
+    "official_id": 463,
+    "wnid": "n01675722"
+  },
+  "464": {
+    "internal_class_index": 39,
+    "internal_class_name": "common iguana",
+    "official_class_name": "common_iguana",
+    "official_id": 464,
+    "wnid": "n01677366"
+  },
+  "465": {
+    "internal_class_index": 40,
+    "internal_class_name": "American chameleon",
+    "official_class_name": "American_chameleon",
+    "official_id": 465,
+    "wnid": "n01682714"
+  },
+  "466": {
+    "internal_class_index": 41,
+    "internal_class_name": "whiptail",
+    "official_class_name": "whiptail",
+    "official_id": 466,
+    "wnid": "n01685808"
+  },
+  "467": {
+    "internal_class_index": 42,
+    "internal_class_name": "agama",
+    "official_class_name": "agama",
+    "official_id": 467,
+    "wnid": "n01687978"
+  },
+  "468": {
+    "internal_class_index": 43,
+    "internal_class_name": "frilled lizard",
+    "official_class_name": "frilled_lizard",
+    "official_id": 468,
+    "wnid": "n01688243"
+  },
+  "469": {
+    "internal_class_index": 44,
+    "internal_class_name": "alligator lizard",
+    "official_class_name": "alligator_lizard",
+    "official_id": 469,
+    "wnid": "n01689811"
+  },
+  "470": {
+    "internal_class_index": 45,
+    "internal_class_name": "Gila monster",
+    "official_class_name": "Gila_monster",
+    "official_id": 470,
+    "wnid": "n01692333"
+  },
+  "471": {
+    "internal_class_index": 46,
+    "internal_class_name": "green lizard",
+    "official_class_name": "green_lizard",
+    "official_id": 471,
+    "wnid": "n01693334"
+  },
+  "472": {
+    "internal_class_index": 47,
+    "internal_class_name": "African chameleon",
+    "official_class_name": "African_chameleon",
+    "official_id": 472,
+    "wnid": "n01694178"
+  },
+  "473": {
+    "internal_class_index": 48,
+    "internal_class_name": "Komodo dragon",
+    "official_class_name": "Komodo_dragon",
+    "official_id": 473,
+    "wnid": "n01695060"
+  },
+  "474": {
+    "internal_class_index": 51,
+    "internal_class_name": "triceratops",
+    "official_class_name": "triceratops",
+    "official_id": 474,
+    "wnid": "n01704323"
+  },
+  "475": {
+    "internal_class_index": 49,
+    "internal_class_name": "African crocodile",
+    "official_class_name": "African_crocodile",
+    "official_id": 475,
+    "wnid": "n01697457"
+  },
+  "476": {
+    "internal_class_index": 50,
+    "internal_class_name": "American alligator",
+    "official_class_name": "American_alligator",
+    "official_id": 476,
+    "wnid": "n01698640"
+  },
+  "477": {
+    "internal_class_index": 52,
+    "internal_class_name": "thunder snake",
+    "official_class_name": "thunder_snake",
+    "official_id": 477,
+    "wnid": "n01728572"
+  },
+  "478": {
+    "internal_class_index": 53,
+    "internal_class_name": "ringneck snake",
+    "official_class_name": "ringneck_snake",
+    "official_id": 478,
+    "wnid": "n01728920"
+  },
+  "479": {
+    "internal_class_index": 54,
+    "internal_class_name": "hognose snake",
+    "official_class_name": "hognose_snake",
+    "official_id": 479,
+    "wnid": "n01729322"
+  },
+  "480": {
+    "internal_class_index": 55,
+    "internal_class_name": "green snake",
+    "official_class_name": "green_snake",
+    "official_id": 480,
+    "wnid": "n01729977"
+  },
+  "481": {
+    "internal_class_index": 56,
+    "internal_class_name": "king snake",
+    "official_class_name": "king_snake",
+    "official_id": 481,
+    "wnid": "n01734418"
+  },
+  "482": {
+    "internal_class_index": 57,
+    "internal_class_name": "garter snake",
+    "official_class_name": "garter_snake",
+    "official_id": 482,
+    "wnid": "n01735189"
+  },
+  "483": {
+    "internal_class_index": 58,
+    "internal_class_name": "water snake",
+    "official_class_name": "water_snake",
+    "official_id": 483,
+    "wnid": "n01737021"
+  },
+  "484": {
+    "internal_class_index": 59,
+    "internal_class_name": "vine snake",
+    "official_class_name": "vine_snake",
+    "official_id": 484,
+    "wnid": "n01739381"
+  },
+  "485": {
+    "internal_class_index": 60,
+    "internal_class_name": "night snake",
+    "official_class_name": "night_snake",
+    "official_id": 485,
+    "wnid": "n01740131"
+  },
+  "486": {
+    "internal_class_index": 61,
+    "internal_class_name": "boa constrictor",
+    "official_class_name": "boa_constrictor",
+    "official_id": 486,
+    "wnid": "n01742172"
+  },
+  "487": {
+    "internal_class_index": 62,
+    "internal_class_name": "rock python",
+    "official_class_name": "rock_python",
+    "official_id": 487,
+    "wnid": "n01744401"
+  },
+  "488": {
+    "internal_class_index": 63,
+    "internal_class_name": "Indian cobra",
+    "official_class_name": "Indian_cobra",
+    "official_id": 488,
+    "wnid": "n01748264"
+  },
+  "489": {
+    "internal_class_index": 64,
+    "internal_class_name": "green mamba",
+    "official_class_name": "green_mamba",
+    "official_id": 489,
+    "wnid": "n01749939"
+  },
+  "490": {
+    "internal_class_index": 65,
+    "internal_class_name": "sea snake",
+    "official_class_name": "sea_snake",
+    "official_id": 490,
+    "wnid": "n01751748"
+  },
+  "491": {
+    "internal_class_index": 66,
+    "internal_class_name": "horned viper",
+    "official_class_name": "horned_viper",
+    "official_id": 491,
+    "wnid": "n01753488"
+  },
+  "492": {
+    "internal_class_index": 67,
+    "internal_class_name": "diamondback",
+    "official_class_name": "diamondback",
+    "official_id": 492,
+    "wnid": "n01755581"
+  },
+  "493": {
+    "internal_class_index": 68,
+    "internal_class_name": "sidewinder",
+    "official_class_name": "sidewinder",
+    "official_id": 493,
+    "wnid": "n01756291"
+  },
+  "494": {
+    "internal_class_index": 25,
+    "internal_class_name": "European fire salamander",
+    "official_class_name": "European_fire_salamander",
+    "official_id": 494,
+    "wnid": "n01629819"
+  },
+  "495": {
+    "internal_class_index": 26,
+    "internal_class_name": "common newt",
+    "official_class_name": "common_newt",
+    "official_id": 495,
+    "wnid": "n01630670"
+  },
+  "496": {
+    "internal_class_index": 27,
+    "internal_class_name": "eft",
+    "official_class_name": "eft",
+    "official_id": 496,
+    "wnid": "n01631663"
+  },
+  "497": {
+    "internal_class_index": 28,
+    "internal_class_name": "spotted salamander",
+    "official_class_name": "spotted_salamander",
+    "official_id": 497,
+    "wnid": "n01632458"
+  },
+  "498": {
+    "internal_class_index": 29,
+    "internal_class_name": "axolotl",
+    "official_class_name": "axolotl",
+    "official_id": 498,
+    "wnid": "n01632777"
+  },
+  "499": {
+    "internal_class_index": 30,
+    "internal_class_name": "bullfrog",
+    "official_class_name": "bullfrog",
+    "official_id": 499,
+    "wnid": "n01641577"
+  },
+  "500": {
+    "internal_class_index": 31,
+    "internal_class_name": "tree frog",
+    "official_class_name": "tree_frog",
+    "official_id": 500,
+    "wnid": "n01644373"
+  },
+  "501": {
+    "internal_class_index": 32,
+    "internal_class_name": "tailed frog",
+    "official_class_name": "tailed_frog",
+    "official_id": 501,
+    "wnid": "n01644900"
+  },
+  "502": {
+    "internal_class_index": 902,
+    "internal_class_name": "whistle",
+    "official_class_name": "whistle",
+    "official_id": 502,
+    "wnid": "n04579432"
+  },
+  "503": {
+    "internal_class_index": 908,
+    "internal_class_name": "wing",
+    "official_class_name": "wing",
+    "official_id": 503,
+    "wnid": "n04592741"
+  },
+  "504": {
+    "internal_class_index": 696,
+    "internal_class_name": "paintbrush",
+    "official_class_name": "paintbrush",
+    "official_id": 504,
+    "wnid": "n03876231"
+  },
+  "505": {
+    "internal_class_index": 589,
+    "internal_class_name": "hand blower",
+    "official_class_name": "hand_blower",
+    "official_id": 505,
+    "wnid": "n03483316"
+  },
+  "506": {
+    "internal_class_index": 691,
+    "internal_class_name": "oxygen mask",
+    "official_class_name": "oxygen_mask",
+    "official_id": 506,
+    "wnid": "n03868863"
+  },
+  "507": {
+    "internal_class_index": 801,
+    "internal_class_name": "snorkel",
+    "official_class_name": "snorkel",
+    "official_id": 507,
+    "wnid": "n04251144"
+  },
+  "508": {
+    "internal_class_index": 632,
+    "internal_class_name": "loudspeaker",
+    "official_class_name": "loudspeaker",
+    "official_id": 508,
+    "wnid": "n03691459"
+  },
+  "509": {
+    "internal_class_index": 650,
+    "internal_class_name": "microphone",
+    "official_class_name": "microphone",
+    "official_id": 509,
+    "wnid": "n03759954"
+  },
+  "510": {
+    "internal_class_index": 782,
+    "internal_class_name": "screen",
+    "official_class_name": "screen",
+    "official_id": 510,
+    "wnid": "n04152593"
+  },
+  "511": {
+    "internal_class_index": 673,
+    "internal_class_name": "mouse",
+    "official_class_name": "mouse",
+    "official_id": 511,
+    "wnid": "n03793489"
+  },
+  "512": {
+    "internal_class_index": 545,
+    "internal_class_name": "electric fan",
+    "official_class_name": "electric_fan",
+    "official_id": 512,
+    "wnid": "n03271574"
+  },
+  "513": {
+    "internal_class_index": 686,
+    "internal_class_name": "oil filter",
+    "official_class_name": "oil_filter",
+    "official_id": 513,
+    "wnid": "n03843555"
+  },
+  "514": {
+    "internal_class_index": 828,
+    "internal_class_name": "strainer",
+    "official_class_name": "strainer",
+    "official_id": 514,
+    "wnid": "n04332243"
+  },
+  "515": {
+    "internal_class_index": 811,
+    "internal_class_name": "space heater",
+    "official_class_name": "space_heater",
+    "official_id": 515,
+    "wnid": "n04265275"
+  },
+  "516": {
+    "internal_class_index": 827,
+    "internal_class_name": "stove",
+    "official_class_name": "stove",
+    "official_id": 516,
+    "wnid": "n04330267"
+  },
+  "517": {
+    "internal_class_index": 583,
+    "internal_class_name": "guillotine",
+    "official_class_name": "guillotine",
+    "official_id": 517,
+    "wnid": "n03467068"
+  },
+  "518": {
+    "internal_class_index": 426,
+    "internal_class_name": "barometer",
+    "official_class_name": "barometer",
+    "official_id": 518,
+    "wnid": "n02794156"
+  },
+  "519": {
+    "internal_class_index": 769,
+    "internal_class_name": "rule",
+    "official_class_name": "rule",
+    "official_id": 519,
+    "wnid": "n04118776"
+  },
+  "520": {
+    "internal_class_index": 685,
+    "internal_class_name": "odometer",
+    "official_class_name": "odometer",
+    "official_id": 520,
+    "wnid": "n03841143"
+  },
+  "521": {
+    "internal_class_index": 778,
+    "internal_class_name": "scale",
+    "official_class_name": "scale",
+    "official_id": 521,
+    "wnid": "n04141975"
+  },
+  "522": {
+    "internal_class_index": 409,
+    "internal_class_name": "analog clock",
+    "official_class_name": "analog_clock",
+    "official_id": 522,
+    "wnid": "n02708093"
+  },
+  "523": {
+    "internal_class_index": 530,
+    "internal_class_name": "digital clock",
+    "official_class_name": "digital_clock",
+    "official_id": 523,
+    "wnid": "n03196217"
+  },
+  "524": {
+    "internal_class_index": 892,
+    "internal_class_name": "wall clock",
+    "official_class_name": "wall_clock",
+    "official_id": 524,
+    "wnid": "n04548280"
+  },
+  "525": {
+    "internal_class_index": 604,
+    "internal_class_name": "hourglass",
+    "official_class_name": "hourglass",
+    "official_id": 525,
+    "wnid": "n03544143"
+  },
+  "526": {
+    "internal_class_index": 835,
+    "internal_class_name": "sundial",
+    "official_class_name": "sundial",
+    "official_id": 526,
+    "wnid": "n04355338"
+  },
+  "527": {
+    "internal_class_index": 704,
+    "internal_class_name": "parking meter",
+    "official_class_name": "parking_meter",
+    "official_id": 527,
+    "wnid": "n03891332"
+  },
+  "528": {
+    "internal_class_index": 826,
+    "internal_class_name": "stopwatch",
+    "official_class_name": "stopwatch",
+    "official_id": 528,
+    "wnid": "n04328186"
+  },
+  "529": {
+    "internal_class_index": 531,
+    "internal_class_name": "digital watch",
+    "official_class_name": "digital_watch",
+    "official_id": 529,
+    "wnid": "n03197337"
+  },
+  "530": {
+    "internal_class_index": 823,
+    "internal_class_name": "stethoscope",
+    "official_class_name": "stethoscope",
+    "official_id": 530,
+    "wnid": "n04317175"
+  },
+  "531": {
+    "internal_class_index": 845,
+    "internal_class_name": "syringe",
+    "official_class_name": "syringe",
+    "official_id": 531,
+    "wnid": "n04376876"
+  },
+  "532": {
+    "internal_class_index": 635,
+    "internal_class_name": "magnetic compass",
+    "official_class_name": "magnetic_compass",
+    "official_id": 532,
+    "wnid": "n03706229"
+  },
+  "533": {
+    "internal_class_index": 447,
+    "internal_class_name": "binoculars",
+    "official_class_name": "binoculars",
+    "official_id": 533,
+    "wnid": "n02841315"
+  },
+  "534": {
+    "internal_class_index": 745,
+    "internal_class_name": "projector",
+    "official_class_name": "projector",
+    "official_id": 534,
+    "wnid": "n04009552"
+  },
+  "535": {
+    "internal_class_index": 837,
+    "internal_class_name": "sunglasses",
+    "official_class_name": "sunglasses",
+    "official_id": 535,
+    "wnid": "n04356056"
+  },
+  "536": {
+    "internal_class_index": 633,
+    "internal_class_name": "loupe",
+    "official_class_name": "loupe",
+    "official_id": 536,
+    "wnid": "n03692522"
+  },
+  "537": {
+    "internal_class_index": 755,
+    "internal_class_name": "radio telescope",
+    "official_class_name": "radio_telescope",
+    "official_id": 537,
+    "wnid": "n04044716"
+  },
+  "538": {
+    "internal_class_index": 456,
+    "internal_class_name": "bow",
+    "official_class_name": "bow",
+    "official_id": 538,
+    "wnid": "n02879718"
+  },
+  "539": {
+    "internal_class_index": 471,
+    "internal_class_name": "cannon",
+    "official_class_name": "cannon",
+    "official_id": 539,
+    "wnid": "n02950826"
+  },
+  "540": {
+    "internal_class_index": 413,
+    "internal_class_name": "assault rifle",
+    "official_class_name": "assault_rifle",
+    "official_id": 540,
+    "wnid": "n02749479"
+  },
+  "541": {
+    "internal_class_index": 764,
+    "internal_class_name": "rifle",
+    "official_class_name": "rifle",
+    "official_id": 541,
+    "wnid": "n04090263"
+  },
+  "542": {
+    "internal_class_index": 744,
+    "internal_class_name": "projectile",
+    "official_class_name": "projectile",
+    "official_id": 542,
+    "wnid": "n04008634"
+  },
+  "543": {
+    "internal_class_index": 508,
+    "internal_class_name": "computer keyboard",
+    "official_class_name": "computer_keyboard",
+    "official_id": 543,
+    "wnid": "n03085013"
+  },
+  "544": {
+    "internal_class_index": 878,
+    "internal_class_name": "typewriter keyboard",
+    "official_class_name": "typewriter_keyboard",
+    "official_id": 544,
+    "wnid": "n04505470"
+  },
+  "545": {
+    "internal_class_index": 517,
+    "internal_class_name": "crane",
+    "official_class_name": "crane",
+    "official_id": 545,
+    "wnid": "n03126707"
+  },
+  "546": {
+    "internal_class_index": 626,
+    "internal_class_name": "lighter",
+    "official_class_name": "lighter",
+    "official_id": 546,
+    "wnid": "n03666591"
+  },
+  "547": {
+    "internal_class_index": 398,
+    "internal_class_name": "abacus",
+    "official_class_name": "abacus",
+    "official_id": 547,
+    "wnid": "n02666196"
+  },
+  "548": {
+    "internal_class_index": 480,
+    "internal_class_name": "cash machine",
+    "official_class_name": "cash_machine",
+    "official_id": 548,
+    "wnid": "n02977058"
+  },
+  "549": {
+    "internal_class_index": 798,
+    "internal_class_name": "slide rule",
+    "official_class_name": "slide_rule",
+    "official_id": 549,
+    "wnid": "n04238763"
+  },
+  "550": {
+    "internal_class_index": 527,
+    "internal_class_name": "desktop computer",
+    "official_class_name": "desktop_computer",
+    "official_id": 550,
+    "wnid": "n03180011"
+  },
+  "551": {
+    "internal_class_index": 590,
+    "internal_class_name": "hand-held computer",
+    "official_class_name": "hand-held_computer",
+    "official_id": 551,
+    "wnid": "n03485407"
+  },
+  "552": {
+    "internal_class_index": 681,
+    "internal_class_name": "notebook",
+    "official_class_name": "notebook",
+    "official_id": 552,
+    "wnid": "n03832673"
+  },
+  "553": {
+    "internal_class_index": 916,
+    "internal_class_name": "web site",
+    "official_class_name": "web_site",
+    "official_id": 553,
+    "wnid": "n06359193"
+  },
+  "554": {
+    "internal_class_index": 595,
+    "internal_class_name": "harvester",
+    "official_class_name": "harvester",
+    "official_id": 554,
+    "wnid": "n03496892"
+  },
+  "555": {
+    "internal_class_index": 856,
+    "internal_class_name": "thresher",
+    "official_class_name": "thresher",
+    "official_id": 555,
+    "wnid": "n04428191"
+  },
+  "556": {
+    "internal_class_index": 742,
+    "internal_class_name": "printer",
+    "official_class_name": "printer",
+    "official_id": 556,
+    "wnid": "n04004767"
+  },
+  "557": {
+    "internal_class_index": 800,
+    "internal_class_name": "slot",
+    "official_class_name": "slot",
+    "official_id": 557,
+    "wnid": "n04243546"
+  },
+  "558": {
+    "internal_class_index": 886,
+    "internal_class_name": "vending machine",
+    "official_class_name": "vending_machine",
+    "official_id": 558,
+    "wnid": "n04525305"
+  },
+  "559": {
+    "internal_class_index": 786,
+    "internal_class_name": "sewing machine",
+    "official_class_name": "sewing_machine",
+    "official_id": 559,
+    "wnid": "n04179913"
+  },
+  "560": {
+    "internal_class_index": 613,
+    "internal_class_name": "joystick",
+    "official_class_name": "joystick",
+    "official_id": 560,
+    "wnid": "n03602883"
+  },
+  "561": {
+    "internal_class_index": 844,
+    "internal_class_name": "switch",
+    "official_class_name": "switch",
+    "official_id": 561,
+    "wnid": "n04372370"
+  },
+  "562": {
+    "internal_class_index": 600,
+    "internal_class_name": "hook",
+    "official_class_name": "hook",
+    "official_id": 562,
+    "wnid": "n03532672"
+  },
+  "563": {
+    "internal_class_index": 479,
+    "internal_class_name": "car wheel",
+    "official_class_name": "car_wheel",
+    "official_id": 563,
+    "wnid": "n02974003"
+  },
+  "564": {
+    "internal_class_index": 694,
+    "internal_class_name": "paddlewheel",
+    "official_class_name": "paddlewheel",
+    "official_id": 564,
+    "wnid": "n03874293"
+  },
+  "565": {
+    "internal_class_index": 723,
+    "internal_class_name": "pinwheel",
+    "official_class_name": "pinwheel",
+    "official_id": 565,
+    "wnid": "n03944341"
+  },
+  "566": {
+    "internal_class_index": 739,
+    "internal_class_name": "potter's wheel",
+    "official_class_name": "potter's_wheel",
+    "official_id": 566,
+    "wnid": "n03992509"
+  },
+  "567": {
+    "internal_class_index": 571,
+    "internal_class_name": "gas pump",
+    "official_class_name": "gas_pump",
+    "official_id": 567,
+    "wnid": "n03425413"
+  },
+  "568": {
+    "internal_class_index": 476,
+    "internal_class_name": "carousel",
+    "official_class_name": "carousel",
+    "official_id": 568,
+    "wnid": "n02966193"
+  },
+  "569": {
+    "internal_class_index": 843,
+    "internal_class_name": "swing",
+    "official_class_name": "swing",
+    "official_id": 569,
+    "wnid": "n04371774"
+  },
+  "570": {
+    "internal_class_index": 758,
+    "internal_class_name": "reel",
+    "official_class_name": "reel",
+    "official_id": 570,
+    "wnid": "n04067472"
+  },
+  "571": {
+    "internal_class_index": 753,
+    "internal_class_name": "radiator",
+    "official_class_name": "radiator",
+    "official_id": 571,
+    "wnid": "n04040759"
+  },
+  "572": {
+    "internal_class_index": 746,
+    "internal_class_name": "puck",
+    "official_class_name": "puck",
+    "official_id": 572,
+    "wnid": "n04019541"
+  },
+  "573": {
+    "internal_class_index": 592,
+    "internal_class_name": "hard disc",
+    "official_class_name": "hard_disc",
+    "official_id": 573,
+    "wnid": "n03492542"
+  },
+  "574": {
+    "internal_class_index": 836,
+    "internal_class_name": "sunglass",
+    "official_class_name": "sunglass",
+    "official_id": 574,
+    "wnid": "n04355933"
+  },
+  "575": {
+    "internal_class_index": 714,
+    "internal_class_name": "pick",
+    "official_class_name": "pick",
+    "official_id": 575,
+    "wnid": "n03929660"
+  },
+  "576": {
+    "internal_class_index": 475,
+    "internal_class_name": "car mirror",
+    "official_class_name": "car_mirror",
+    "official_id": 576,
+    "wnid": "n02965783"
+  },
+  "577": {
+    "internal_class_index": 807,
+    "internal_class_name": "solar dish",
+    "official_class_name": "solar_dish",
+    "official_id": 577,
+    "wnid": "n04258138"
+  },
+  "578": {
+    "internal_class_index": 761,
+    "internal_class_name": "remote control",
+    "official_class_name": "remote_control",
+    "official_id": 578,
+    "wnid": "n04074963"
+  },
+  "579": {
+    "internal_class_index": 535,
+    "internal_class_name": "disk brake",
+    "official_class_name": "disk_brake",
+    "official_id": 579,
+    "wnid": "n03208938"
+  },
+  "580": {
+    "internal_class_index": 464,
+    "internal_class_name": "buckle",
+    "official_class_name": "buckle",
+    "official_id": 580,
+    "wnid": "n02910353"
+  },
+  "581": {
+    "internal_class_index": 584,
+    "internal_class_name": "hair slide",
+    "official_class_name": "hair_slide",
+    "official_id": 581,
+    "wnid": "n03476684"
+  },
+  "582": {
+    "internal_class_index": 616,
+    "internal_class_name": "knot",
+    "official_class_name": "knot",
+    "official_id": 582,
+    "wnid": "n03627232"
+  },
+  "583": {
+    "internal_class_index": 507,
+    "internal_class_name": "combination lock",
+    "official_class_name": "combination_lock",
+    "official_id": 583,
+    "wnid": "n03075370"
+  },
+  "584": {
+    "internal_class_index": 695,
+    "internal_class_name": "padlock",
+    "official_class_name": "padlock",
+    "official_id": 584,
+    "wnid": "n03874599"
+  },
+  "585": {
+    "internal_class_index": 677,
+    "internal_class_name": "nail",
+    "official_class_name": "nail",
+    "official_id": 585,
+    "wnid": "n03804744"
+  },
+  "586": {
+    "internal_class_index": 772,
+    "internal_class_name": "safety pin",
+    "official_class_name": "safety_pin",
+    "official_id": 586,
+    "wnid": "n04127249"
+  },
+  "587": {
+    "internal_class_index": 783,
+    "internal_class_name": "screw",
+    "official_class_name": "screw",
+    "official_id": 587,
+    "wnid": "n04153751"
+  },
+  "588": {
+    "internal_class_index": 676,
+    "internal_class_name": "muzzle",
+    "official_class_name": "muzzle",
+    "official_id": 588,
+    "wnid": "n03803284"
+  },
+  "589": {
+    "internal_class_index": 785,
+    "internal_class_name": "seat belt",
+    "official_class_name": "seat_belt",
+    "official_id": 589,
+    "wnid": "n04162706"
+  },
+  "590": {
+    "internal_class_index": 795,
+    "internal_class_name": "ski",
+    "official_class_name": "ski",
+    "official_id": 590,
+    "wnid": "n04228054"
+  },
+  "591": {
+    "internal_class_index": 470,
+    "internal_class_name": "candle",
+    "official_class_name": "candle",
+    "official_id": 591,
+    "wnid": "n02948072"
+  },
+  "592": {
+    "internal_class_index": 607,
+    "internal_class_name": "jack-o'-lantern",
+    "official_class_name": "jack-o'-lantern",
+    "official_id": 592,
+    "wnid": "n03590841"
+  },
+  "593": {
+    "internal_class_index": 818,
+    "internal_class_name": "spotlight",
+    "official_class_name": "spotlight",
+    "official_id": 593,
+    "wnid": "n04286575"
+  },
+  "594": {
+    "internal_class_index": 862,
+    "internal_class_name": "torch",
+    "official_class_name": "torch",
+    "official_id": 594,
+    "wnid": "n04456115"
+  },
+  "595": {
+    "internal_class_index": 678,
+    "internal_class_name": "neck brace",
+    "official_class_name": "neck_brace",
+    "official_id": 595,
+    "wnid": "n03814639"
+  },
+  "596": {
+    "internal_class_index": 718,
+    "internal_class_name": "pier",
+    "official_class_name": "pier",
+    "official_id": 596,
+    "wnid": "n03933933"
+  },
+  "597": {
+    "internal_class_index": 872,
+    "internal_class_name": "tripod",
+    "official_class_name": "tripod",
+    "official_id": 597,
+    "wnid": "n04485082"
+  },
+  "598": {
+    "internal_class_index": 645,
+    "internal_class_name": "maypole",
+    "official_class_name": "maypole",
+    "official_id": 598,
+    "wnid": "n03733131"
+  },
+  "599": {
+    "internal_class_index": 674,
+    "internal_class_name": "mousetrap",
+    "official_class_name": "mousetrap",
+    "official_id": 599,
+    "wnid": "n03794056"
+  },
+  "600": {
+    "internal_class_index": 815,
+    "internal_class_name": "spider web",
+    "official_class_name": "spider_web",
+    "official_id": 600,
+    "wnid": "n04275548"
+  },
+  "601": {
+    "internal_class_index": 69,
+    "internal_class_name": "trilobite",
+    "official_class_name": "trilobite",
+    "official_id": 601,
+    "wnid": "n01768244"
+  },
+  "602": {
+    "internal_class_index": 70,
+    "internal_class_name": "harvestman",
+    "official_class_name": "harvestman",
+    "official_id": 602,
+    "wnid": "n01770081"
+  },
+  "603": {
+    "internal_class_index": 71,
+    "internal_class_name": "scorpion",
+    "official_class_name": "scorpion",
+    "official_id": 603,
+    "wnid": "n01770393"
+  },
+  "604": {
+    "internal_class_index": 72,
+    "internal_class_name": "black and gold garden spider",
+    "official_class_name": "black_and_gold_garden_spider",
+    "official_id": 604,
+    "wnid": "n01773157"
+  },
+  "605": {
+    "internal_class_index": 73,
+    "internal_class_name": "barn spider",
+    "official_class_name": "barn_spider",
+    "official_id": 605,
+    "wnid": "n01773549"
+  },
+  "606": {
+    "internal_class_index": 74,
+    "internal_class_name": "garden spider",
+    "official_class_name": "garden_spider",
+    "official_id": 606,
+    "wnid": "n01773797"
+  },
+  "607": {
+    "internal_class_index": 75,
+    "internal_class_name": "black widow",
+    "official_class_name": "black_widow",
+    "official_id": 607,
+    "wnid": "n01774384"
+  },
+  "608": {
+    "internal_class_index": 76,
+    "internal_class_name": "tarantula",
+    "official_class_name": "tarantula",
+    "official_id": 608,
+    "wnid": "n01774750"
+  },
+  "609": {
+    "internal_class_index": 77,
+    "internal_class_name": "wolf spider",
+    "official_class_name": "wolf_spider",
+    "official_id": 609,
+    "wnid": "n01775062"
+  },
+  "610": {
+    "internal_class_index": 78,
+    "internal_class_name": "tick",
+    "official_class_name": "tick",
+    "official_id": 610,
+    "wnid": "n01776313"
+  },
+  "611": {
+    "internal_class_index": 79,
+    "internal_class_name": "centipede",
+    "official_class_name": "centipede",
+    "official_id": 611,
+    "wnid": "n01784675"
+  },
+  "612": {
+    "internal_class_index": 126,
+    "internal_class_name": "isopod",
+    "official_class_name": "isopod",
+    "official_id": 612,
+    "wnid": "n01990800"
+  },
+  "613": {
+    "internal_class_index": 118,
+    "internal_class_name": "Dungeness crab",
+    "official_class_name": "Dungeness_crab",
+    "official_id": 613,
+    "wnid": "n01978287"
+  },
+  "614": {
+    "internal_class_index": 119,
+    "internal_class_name": "rock crab",
+    "official_class_name": "rock_crab",
+    "official_id": 614,
+    "wnid": "n01978455"
+  },
+  "615": {
+    "internal_class_index": 120,
+    "internal_class_name": "fiddler crab",
+    "official_class_name": "fiddler_crab",
+    "official_id": 615,
+    "wnid": "n01980166"
+  },
+  "616": {
+    "internal_class_index": 121,
+    "internal_class_name": "king crab",
+    "official_class_name": "king_crab",
+    "official_id": 616,
+    "wnid": "n01981276"
+  },
+  "617": {
+    "internal_class_index": 122,
+    "internal_class_name": "American lobster",
+    "official_class_name": "American_lobster",
+    "official_id": 617,
+    "wnid": "n01983481"
+  },
+  "618": {
+    "internal_class_index": 123,
+    "internal_class_name": "spiny lobster",
+    "official_class_name": "spiny_lobster",
+    "official_id": 618,
+    "wnid": "n01984695"
+  },
+  "619": {
+    "internal_class_index": 124,
+    "internal_class_name": "crayfish",
+    "official_class_name": "crayfish",
+    "official_id": 619,
+    "wnid": "n01985128"
+  },
+  "620": {
+    "internal_class_index": 125,
+    "internal_class_name": "hermit crab",
+    "official_class_name": "hermit_crab",
+    "official_id": 620,
+    "wnid": "n01986214"
+  },
+  "621": {
+    "internal_class_index": 300,
+    "internal_class_name": "tiger beetle",
+    "official_class_name": "tiger_beetle",
+    "official_id": 621,
+    "wnid": "n02165105"
+  },
+  "622": {
+    "internal_class_index": 301,
+    "internal_class_name": "ladybug",
+    "official_class_name": "ladybug",
+    "official_id": 622,
+    "wnid": "n02165456"
+  },
+  "623": {
+    "internal_class_index": 302,
+    "internal_class_name": "ground beetle",
+    "official_class_name": "ground_beetle",
+    "official_id": 623,
+    "wnid": "n02167151"
+  },
+  "624": {
+    "internal_class_index": 303,
+    "internal_class_name": "long-horned beetle",
+    "official_class_name": "long-horned_beetle",
+    "official_id": 624,
+    "wnid": "n02168699"
+  },
+  "625": {
+    "internal_class_index": 304,
+    "internal_class_name": "leaf beetle",
+    "official_class_name": "leaf_beetle",
+    "official_id": 625,
+    "wnid": "n02169497"
+  },
+  "626": {
+    "internal_class_index": 305,
+    "internal_class_name": "dung beetle",
+    "official_class_name": "dung_beetle",
+    "official_id": 626,
+    "wnid": "n02172182"
+  },
+  "627": {
+    "internal_class_index": 306,
+    "internal_class_name": "rhinoceros beetle",
+    "official_class_name": "rhinoceros_beetle",
+    "official_id": 627,
+    "wnid": "n02174001"
+  },
+  "628": {
+    "internal_class_index": 307,
+    "internal_class_name": "weevil",
+    "official_class_name": "weevil",
+    "official_id": 628,
+    "wnid": "n02177972"
+  },
+  "629": {
+    "internal_class_index": 308,
+    "internal_class_name": "fly",
+    "official_class_name": "fly",
+    "official_id": 629,
+    "wnid": "n02190166"
+  },
+  "630": {
+    "internal_class_index": 309,
+    "internal_class_name": "bee",
+    "official_class_name": "bee",
+    "official_id": 630,
+    "wnid": "n02206856"
+  },
+  "631": {
+    "internal_class_index": 311,
+    "internal_class_name": "grasshopper",
+    "official_class_name": "grasshopper",
+    "official_id": 631,
+    "wnid": "n02226429"
+  },
+  "632": {
+    "internal_class_index": 312,
+    "internal_class_name": "cricket",
+    "official_class_name": "cricket",
+    "official_id": 632,
+    "wnid": "n02229544"
+  },
+  "633": {
+    "internal_class_index": 313,
+    "internal_class_name": "walking stick",
+    "official_class_name": "walking_stick",
+    "official_id": 633,
+    "wnid": "n02231487"
+  },
+  "634": {
+    "internal_class_index": 314,
+    "internal_class_name": "cockroach",
+    "official_class_name": "cockroach",
+    "official_id": 634,
+    "wnid": "n02233338"
+  },
+  "635": {
+    "internal_class_index": 315,
+    "internal_class_name": "mantis",
+    "official_class_name": "mantis",
+    "official_id": 635,
+    "wnid": "n02236044"
+  },
+  "636": {
+    "internal_class_index": 316,
+    "internal_class_name": "cicada",
+    "official_class_name": "cicada",
+    "official_id": 636,
+    "wnid": "n02256656"
+  },
+  "637": {
+    "internal_class_index": 317,
+    "internal_class_name": "leafhopper",
+    "official_class_name": "leafhopper",
+    "official_id": 637,
+    "wnid": "n02259212"
+  },
+  "638": {
+    "internal_class_index": 318,
+    "internal_class_name": "lacewing",
+    "official_class_name": "lacewing",
+    "official_id": 638,
+    "wnid": "n02264363"
+  },
+  "639": {
+    "internal_class_index": 319,
+    "internal_class_name": "dragonfly",
+    "official_class_name": "dragonfly",
+    "official_id": 639,
+    "wnid": "n02268443"
+  },
+  "640": {
+    "internal_class_index": 320,
+    "internal_class_name": "damselfly",
+    "official_class_name": "damselfly",
+    "official_id": 640,
+    "wnid": "n02268853"
+  },
+  "641": {
+    "internal_class_index": 321,
+    "internal_class_name": "admiral",
+    "official_class_name": "admiral",
+    "official_id": 641,
+    "wnid": "n02276258"
+  },
+  "642": {
+    "internal_class_index": 322,
+    "internal_class_name": "ringlet",
+    "official_class_name": "ringlet",
+    "official_id": 642,
+    "wnid": "n02277742"
+  },
+  "643": {
+    "internal_class_index": 323,
+    "internal_class_name": "monarch",
+    "official_class_name": "monarch",
+    "official_id": 643,
+    "wnid": "n02279972"
+  },
+  "644": {
+    "internal_class_index": 324,
+    "internal_class_name": "cabbage butterfly",
+    "official_class_name": "cabbage_butterfly",
+    "official_id": 644,
+    "wnid": "n02280649"
+  },
+  "645": {
+    "internal_class_index": 325,
+    "internal_class_name": "sulphur butterfly",
+    "official_class_name": "sulphur_butterfly",
+    "official_id": 645,
+    "wnid": "n02281406"
+  },
+  "646": {
+    "internal_class_index": 326,
+    "internal_class_name": "lycaenid",
+    "official_class_name": "lycaenid",
+    "official_id": 646,
+    "wnid": "n02281787"
+  },
+  "647": {
+    "internal_class_index": 107,
+    "internal_class_name": "jellyfish",
+    "official_class_name": "jellyfish",
+    "official_id": 647,
+    "wnid": "n01910747"
+  },
+  "648": {
+    "internal_class_index": 108,
+    "internal_class_name": "sea anemone",
+    "official_class_name": "sea_anemone",
+    "official_id": 648,
+    "wnid": "n01914609"
+  },
+  "649": {
+    "internal_class_index": 109,
+    "internal_class_name": "brain coral",
+    "official_class_name": "brain_coral",
+    "official_id": 649,
+    "wnid": "n01917289"
+  },
+  "650": {
+    "internal_class_index": 110,
+    "internal_class_name": "flatworm",
+    "official_class_name": "flatworm",
+    "official_id": 650,
+    "wnid": "n01924916"
+  },
+  "651": {
+    "internal_class_index": 111,
+    "internal_class_name": "nematode",
+    "official_class_name": "nematode",
+    "official_id": 651,
+    "wnid": "n01930112"
+  },
+  "652": {
+    "internal_class_index": 112,
+    "internal_class_name": "conch",
+    "official_class_name": "conch",
+    "official_id": 652,
+    "wnid": "n01943899"
+  },
+  "653": {
+    "internal_class_index": 113,
+    "internal_class_name": "snail",
+    "official_class_name": "snail",
+    "official_id": 653,
+    "wnid": "n01944390"
+  },
+  "654": {
+    "internal_class_index": 114,
+    "internal_class_name": "slug",
+    "official_class_name": "slug",
+    "official_id": 654,
+    "wnid": "n01945685"
+  },
+  "655": {
+    "internal_class_index": 115,
+    "internal_class_name": "sea slug",
+    "official_class_name": "sea_slug",
+    "official_id": 655,
+    "wnid": "n01950731"
+  },
+  "656": {
+    "internal_class_index": 116,
+    "internal_class_name": "chiton",
+    "official_class_name": "chiton",
+    "official_id": 656,
+    "wnid": "n01955084"
+  },
+  "657": {
+    "internal_class_index": 328,
+    "internal_class_name": "sea urchin",
+    "official_class_name": "sea_urchin",
+    "official_id": 657,
+    "wnid": "n02319095"
+  },
+  "658": {
+    "internal_class_index": 329,
+    "internal_class_name": "sea cucumber",
+    "official_class_name": "sea_cucumber",
+    "official_id": 658,
+    "wnid": "n02321529"
+  },
+  "659": {
+    "internal_class_index": 606,
+    "internal_class_name": "iron",
+    "official_class_name": "iron",
+    "official_id": 659,
+    "wnid": "n03584829"
+  },
+  "660": {
+    "internal_class_index": 550,
+    "internal_class_name": "espresso maker",
+    "official_class_name": "espresso_maker",
+    "official_id": 660,
+    "wnid": "n03297495"
+  },
+  "661": {
+    "internal_class_index": 651,
+    "internal_class_name": "microwave",
+    "official_class_name": "microwave",
+    "official_id": 661,
+    "wnid": "n03761084"
+  },
+  "662": {
+    "internal_class_index": 544,
+    "internal_class_name": "Dutch oven",
+    "official_class_name": "Dutch_oven",
+    "official_id": 662,
+    "wnid": "n03259280"
+  },
+  "663": {
+    "internal_class_index": 766,
+    "internal_class_name": "rotisserie",
+    "official_class_name": "rotisserie",
+    "official_id": 663,
+    "wnid": "n04111531"
+  },
+  "664": {
+    "internal_class_index": 859,
+    "internal_class_name": "toaster",
+    "official_class_name": "toaster",
+    "official_id": 664,
+    "wnid": "n04442312"
+  },
+  "665": {
+    "internal_class_index": 891,
+    "internal_class_name": "waffle iron",
+    "official_class_name": "waffle_iron",
+    "official_id": 665,
+    "wnid": "n04542943"
+  },
+  "666": {
+    "internal_class_index": 882,
+    "internal_class_name": "vacuum",
+    "official_class_name": "vacuum",
+    "official_id": 666,
+    "wnid": "n04517823"
+  },
+  "667": {
+    "internal_class_index": 534,
+    "internal_class_name": "dishwasher",
+    "official_class_name": "dishwasher",
+    "official_id": 667,
+    "wnid": "n03207941"
+  },
+  "668": {
+    "internal_class_index": 760,
+    "internal_class_name": "refrigerator",
+    "official_class_name": "refrigerator",
+    "official_id": 668,
+    "wnid": "n04070727"
+  },
+  "669": {
+    "internal_class_index": 897,
+    "internal_class_name": "washer",
+    "official_class_name": "washer",
+    "official_id": 669,
+    "wnid": "n04554684"
+  },
+  "670": {
+    "internal_class_index": 521,
+    "internal_class_name": "Crock Pot",
+    "official_class_name": "Crock_Pot",
+    "official_id": 670,
+    "wnid": "n03133878"
+  },
+  "671": {
+    "internal_class_index": 567,
+    "internal_class_name": "frying pan",
+    "official_class_name": "frying_pan",
+    "official_id": 671,
+    "wnid": "n03400231"
+  },
+  "672": {
+    "internal_class_index": 909,
+    "internal_class_name": "wok",
+    "official_class_name": "wok",
+    "official_id": 672,
+    "wnid": "n04596742"
+  },
+  "673": {
+    "internal_class_index": 469,
+    "internal_class_name": "caldron",
+    "official_class_name": "caldron",
+    "official_id": 673,
+    "wnid": "n02939185"
+  },
+  "674": {
+    "internal_class_index": 505,
+    "internal_class_name": "coffeepot",
+    "official_class_name": "coffeepot",
+    "official_id": 674,
+    "wnid": "n03063689"
+  },
+  "675": {
+    "internal_class_index": 849,
+    "internal_class_name": "teapot",
+    "official_class_name": "teapot",
+    "official_id": 675,
+    "wnid": "n04398044"
+  },
+  "676": {
+    "internal_class_index": 813,
+    "internal_class_name": "spatula",
+    "official_class_name": "spatula",
+    "official_id": 676,
+    "wnid": "n04270147"
+  },
+  "677": {
+    "internal_class_index": 406,
+    "internal_class_name": "altar",
+    "official_class_name": "altar",
+    "official_id": 677,
+    "wnid": "n02699494"
+  },
+  "678": {
+    "internal_class_index": 873,
+    "internal_class_name": "triumphal arch",
+    "official_class_name": "triumphal_arch",
+    "official_id": 678,
+    "wnid": "n04486054"
+  },
+  "679": {
+    "internal_class_index": 706,
+    "internal_class_name": "patio",
+    "official_class_name": "patio",
+    "official_id": 679,
+    "wnid": "n03899768"
+  },
+  "680": {
+    "internal_class_index": 821,
+    "internal_class_name": "steel arch bridge",
+    "official_class_name": "steel_arch_bridge",
+    "official_id": 680,
+    "wnid": "n04311004"
+  },
+  "681": {
+    "internal_class_index": 839,
+    "internal_class_name": "suspension bridge",
+    "official_class_name": "suspension_bridge",
+    "official_id": 681,
+    "wnid": "n04366367"
+  },
+  "682": {
+    "internal_class_index": 888,
+    "internal_class_name": "viaduct",
+    "official_class_name": "viaduct",
+    "official_id": 682,
+    "wnid": "n04532670"
+  },
+  "683": {
+    "internal_class_index": 425,
+    "internal_class_name": "barn",
+    "official_class_name": "barn",
+    "official_id": 683,
+    "wnid": "n02793495"
+  },
+  "684": {
+    "internal_class_index": 580,
+    "internal_class_name": "greenhouse",
+    "official_class_name": "greenhouse",
+    "official_id": 684,
+    "wnid": "n03457902"
+  },
+  "685": {
+    "internal_class_index": 698,
+    "internal_class_name": "palace",
+    "official_class_name": "palace",
+    "official_id": 685,
+    "wnid": "n03877845"
+  },
+  "686": {
+    "internal_class_index": 663,
+    "internal_class_name": "monastery",
+    "official_class_name": "monastery",
+    "official_id": 686,
+    "wnid": "n03781244"
+  },
+  "687": {
+    "internal_class_index": 624,
+    "internal_class_name": "library",
+    "official_class_name": "library",
+    "official_id": 687,
+    "wnid": "n03661043"
+  },
+  "688": {
+    "internal_class_index": 410,
+    "internal_class_name": "apiary",
+    "official_class_name": "apiary",
+    "official_id": 688,
+    "wnid": "n02727426"
+  },
+  "689": {
+    "internal_class_index": 449,
+    "internal_class_name": "boathouse",
+    "official_class_name": "boathouse",
+    "official_id": 689,
+    "wnid": "n02859443"
+  },
+  "690": {
+    "internal_class_index": 497,
+    "internal_class_name": "church",
+    "official_class_name": "church",
+    "official_id": 690,
+    "wnid": "n03028079"
+  },
+  "691": {
+    "internal_class_index": 668,
+    "internal_class_name": "mosque",
+    "official_class_name": "mosque",
+    "official_id": 691,
+    "wnid": "n03788195"
+  },
+  "692": {
+    "internal_class_index": 832,
+    "internal_class_name": "stupa",
+    "official_class_name": "stupa",
+    "official_id": 692,
+    "wnid": "n04346328"
+  },
+  "693": {
+    "internal_class_index": 727,
+    "internal_class_name": "planetarium",
+    "official_class_name": "planetarium",
+    "official_id": 693,
+    "wnid": "n03956157"
+  },
+  "694": {
+    "internal_class_index": 762,
+    "internal_class_name": "restaurant",
+    "official_class_name": "restaurant",
+    "official_id": 694,
+    "wnid": "n04081281"
+  },
+  "695": {
+    "internal_class_index": 498,
+    "internal_class_name": "cinema",
+    "official_class_name": "cinema",
+    "official_id": 695,
+    "wnid": "n03032252"
+  },
+  "696": {
+    "internal_class_index": 598,
+    "internal_class_name": "home theater",
+    "official_class_name": "home_theater",
+    "official_id": 696,
+    "wnid": "n03529860"
+  },
+  "697": {
+    "internal_class_index": 634,
+    "internal_class_name": "lumbermill",
+    "official_class_name": "lumbermill",
+    "official_id": 697,
+    "wnid": "n03697007"
+  },
+  "698": {
+    "internal_class_index": 506,
+    "internal_class_name": "coil",
+    "official_class_name": "coil",
+    "official_id": 698,
+    "wnid": "n03065424"
+  },
+  "699": {
+    "internal_class_index": 682,
+    "internal_class_name": "obelisk",
+    "official_class_name": "obelisk",
+    "official_id": 699,
+    "wnid": "n03837869"
+  },
+  "700": {
+    "internal_class_index": 863,
+    "internal_class_name": "totem pole",
+    "official_class_name": "totem_pole",
+    "official_id": 700,
+    "wnid": "n04458633"
+  },
+  "701": {
+    "internal_class_index": 483,
+    "internal_class_name": "castle",
+    "official_class_name": "castle",
+    "official_id": 701,
+    "wnid": "n02980441"
+  },
+  "702": {
+    "internal_class_index": 743,
+    "internal_class_name": "prison",
+    "official_class_name": "prison",
+    "official_id": 702,
+    "wnid": "n04005630"
+  },
+  "703": {
+    "internal_class_index": 582,
+    "internal_class_name": "grocery store",
+    "official_class_name": "grocery_store",
+    "official_id": 703,
+    "wnid": "n03461385"
+  },
+  "704": {
+    "internal_class_index": 415,
+    "internal_class_name": "bakery",
+    "official_class_name": "bakery",
+    "official_id": 704,
+    "wnid": "n02776631"
+  },
+  "705": {
+    "internal_class_index": 424,
+    "internal_class_name": "barbershop",
+    "official_class_name": "barbershop",
+    "official_id": 705,
+    "wnid": "n02791270"
+  },
+  "706": {
+    "internal_class_index": 454,
+    "internal_class_name": "bookshop",
+    "official_class_name": "bookshop",
+    "official_id": 706,
+    "wnid": "n02871525"
+  },
+  "707": {
+    "internal_class_index": 467,
+    "internal_class_name": "butcher shop",
+    "official_class_name": "butcher_shop",
+    "official_id": 707,
+    "wnid": "n02927161"
+  },
+  "708": {
+    "internal_class_index": 509,
+    "internal_class_name": "confectionery",
+    "official_class_name": "confectionery",
+    "official_id": 708,
+    "wnid": "n03089624"
+  },
+  "709": {
+    "internal_class_index": 788,
+    "internal_class_name": "shoe shop",
+    "official_class_name": "shoe_shop",
+    "official_id": 709,
+    "wnid": "n04200800"
+  },
+  "710": {
+    "internal_class_index": 860,
+    "internal_class_name": "tobacco shop",
+    "official_class_name": "tobacco_shop",
+    "official_id": 710,
+    "wnid": "n04443257"
+  },
+  "711": {
+    "internal_class_index": 865,
+    "internal_class_name": "toyshop",
+    "official_class_name": "toyshop",
+    "official_id": 711,
+    "wnid": "n04462240"
+  },
+  "712": {
+    "internal_class_index": 562,
+    "internal_class_name": "fountain",
+    "official_class_name": "fountain",
+    "official_id": 712,
+    "wnid": "n03388043"
+  },
+  "713": {
+    "internal_class_index": 500,
+    "internal_class_name": "cliff dwelling",
+    "official_class_name": "cliff_dwelling",
+    "official_id": 713,
+    "wnid": "n03042490"
+  },
+  "714": {
+    "internal_class_index": 915,
+    "internal_class_name": "yurt",
+    "official_class_name": "yurt",
+    "official_id": 714,
+    "wnid": "n04613696"
+  },
+  "715": {
+    "internal_class_index": 536,
+    "internal_class_name": "dock",
+    "official_class_name": "dock",
+    "official_id": 715,
+    "wnid": "n03216828"
+  },
+  "716": {
+    "internal_class_index": 458,
+    "internal_class_name": "brass",
+    "official_class_name": "brass",
+    "official_id": 716,
+    "wnid": "n02892201"
+  },
+  "717": {
+    "internal_class_index": 649,
+    "internal_class_name": "megalith",
+    "official_class_name": "megalith",
+    "official_id": 717,
+    "wnid": "n03743016"
+  },
+  "718": {
+    "internal_class_index": 421,
+    "internal_class_name": "bannister",
+    "official_class_name": "bannister",
+    "official_id": 718,
+    "wnid": "n02788148"
+  },
+  "719": {
+    "internal_class_index": 460,
+    "internal_class_name": "breakwater",
+    "official_class_name": "breakwater",
+    "official_id": 719,
+    "wnid": "n02894605"
+  },
+  "720": {
+    "internal_class_index": 525,
+    "internal_class_name": "dam",
+    "official_class_name": "dam",
+    "official_id": 720,
+    "wnid": "n03160309"
+  },
+  "721": {
+    "internal_class_index": 489,
+    "internal_class_name": "chainlink fence",
+    "official_class_name": "chainlink_fence",
+    "official_id": 721,
+    "wnid": "n03000134"
+  },
+  "722": {
+    "internal_class_index": 716,
+    "internal_class_name": "picket fence",
+    "official_class_name": "picket_fence",
+    "official_id": 722,
+    "wnid": "n03930313"
+  },
+  "723": {
+    "internal_class_index": 912,
+    "internal_class_name": "worm fence",
+    "official_class_name": "worm_fence",
+    "official_id": 723,
+    "wnid": "n04604644"
+  },
+  "724": {
+    "internal_class_index": 825,
+    "internal_class_name": "stone wall",
+    "official_class_name": "stone_wall",
+    "official_id": 724,
+    "wnid": "n04326547"
+  },
+  "725": {
+    "internal_class_index": 581,
+    "internal_class_name": "grille",
+    "official_class_name": "grille",
+    "official_id": 725,
+    "wnid": "n03459775"
+  },
+  "726": {
+    "internal_class_index": 799,
+    "internal_class_name": "sliding door",
+    "official_class_name": "sliding_door",
+    "official_id": 726,
+    "wnid": "n04239074"
+  },
+  "727": {
+    "internal_class_index": 877,
+    "internal_class_name": "turnstile",
+    "official_class_name": "turnstile",
+    "official_id": 727,
+    "wnid": "n04501370"
+  },
+  "728": {
+    "internal_class_index": 672,
+    "internal_class_name": "mountain tent",
+    "official_class_name": "mountain_tent",
+    "official_id": 728,
+    "wnid": "n03792972"
+  },
+  "729": {
+    "internal_class_index": 781,
+    "internal_class_name": "scoreboard",
+    "official_class_name": "scoreboard",
+    "official_id": 729,
+    "wnid": "n04149813"
+  },
+  "730": {
+    "internal_class_index": 599,
+    "internal_class_name": "honeycomb",
+    "official_class_name": "honeycomb",
+    "official_id": 730,
+    "wnid": "n03530642"
+  },
+  "731": {
+    "internal_class_index": 729,
+    "internal_class_name": "plate rack",
+    "official_class_name": "plate_rack",
+    "official_id": 731,
+    "wnid": "n03961711"
+  },
+  "732": {
+    "internal_class_index": 708,
+    "internal_class_name": "pedestal",
+    "official_class_name": "pedestal",
+    "official_id": 732,
+    "wnid": "n03903868"
+  },
+  "733": {
+    "internal_class_index": 437,
+    "internal_class_name": "beacon",
+    "official_class_name": "beacon",
+    "official_id": 733,
+    "wnid": "n02814860"
+  },
+  "734": {
+    "internal_class_index": 935,
+    "internal_class_name": "mashed potato",
+    "official_class_name": "mashed_potato",
+    "official_id": 734,
+    "wnid": "n07711569"
+  },
+  "735": {
+    "internal_class_index": 945,
+    "internal_class_name": "bell pepper",
+    "official_class_name": "bell_pepper",
+    "official_id": 735,
+    "wnid": "n07720875"
+  },
+  "736": {
+    "internal_class_index": 936,
+    "internal_class_name": "head cabbage",
+    "official_class_name": "head_cabbage",
+    "official_id": 736,
+    "wnid": "n07714571"
+  },
+  "737": {
+    "internal_class_index": 937,
+    "internal_class_name": "broccoli",
+    "official_class_name": "broccoli",
+    "official_id": 737,
+    "wnid": "n07714990"
+  },
+  "738": {
+    "internal_class_index": 938,
+    "internal_class_name": "cauliflower",
+    "official_class_name": "cauliflower",
+    "official_id": 738,
+    "wnid": "n07715103"
+  },
+  "739": {
+    "internal_class_index": 939,
+    "internal_class_name": "zucchini",
+    "official_class_name": "zucchini",
+    "official_id": 739,
+    "wnid": "n07716358"
+  },
+  "740": {
+    "internal_class_index": 940,
+    "internal_class_name": "spaghetti squash",
+    "official_class_name": "spaghetti_squash",
+    "official_id": 740,
+    "wnid": "n07716906"
+  },
+  "741": {
+    "internal_class_index": 941,
+    "internal_class_name": "acorn squash",
+    "official_class_name": "acorn_squash",
+    "official_id": 741,
+    "wnid": "n07717410"
+  },
+  "742": {
+    "internal_class_index": 942,
+    "internal_class_name": "butternut squash",
+    "official_class_name": "butternut_squash",
+    "official_id": 742,
+    "wnid": "n07717556"
+  },
+  "743": {
+    "internal_class_index": 943,
+    "internal_class_name": "cucumber",
+    "official_class_name": "cucumber",
+    "official_id": 743,
+    "wnid": "n07718472"
+  },
+  "744": {
+    "internal_class_index": 944,
+    "internal_class_name": "artichoke",
+    "official_class_name": "artichoke",
+    "official_id": 744,
+    "wnid": "n07718747"
+  },
+  "745": {
+    "internal_class_index": 946,
+    "internal_class_name": "cardoon",
+    "official_class_name": "cardoon",
+    "official_id": 745,
+    "wnid": "n07730033"
+  },
+  "746": {
+    "internal_class_index": 947,
+    "internal_class_name": "mushroom",
+    "official_class_name": "mushroom",
+    "official_id": 746,
+    "wnid": "n07734744"
+  },
+  "747": {
+    "internal_class_index": 794,
+    "internal_class_name": "shower curtain",
+    "official_class_name": "shower_curtain",
+    "official_id": 747,
+    "wnid": "n04209239"
+  },
+  "748": {
+    "internal_class_index": 608,
+    "internal_class_name": "jean",
+    "official_class_name": "jean",
+    "official_id": 748,
+    "wnid": "n03594734"
+  },
+  "749": {
+    "internal_class_index": 478,
+    "internal_class_name": "carton",
+    "official_class_name": "carton",
+    "official_id": 749,
+    "wnid": "n02971356"
+  },
+  "750": {
+    "internal_class_index": 591,
+    "internal_class_name": "handkerchief",
+    "official_class_name": "handkerchief",
+    "official_id": 750,
+    "wnid": "n03485794"
+  },
+  "751": {
+    "internal_class_index": 774,
+    "internal_class_name": "sandal",
+    "official_class_name": "sandal",
+    "official_id": 751,
+    "wnid": "n04133789"
+  },
+  "752": {
+    "internal_class_index": 412,
+    "internal_class_name": "ashcan",
+    "official_class_name": "ashcan",
+    "official_id": 752,
+    "wnid": "n02747177"
+  },
+  "753": {
+    "internal_class_index": 771,
+    "internal_class_name": "safe",
+    "official_class_name": "safe",
+    "official_id": 753,
+    "wnid": "n04125021"
+  },
+  "754": {
+    "internal_class_index": 923,
+    "internal_class_name": "plate",
+    "official_class_name": "plate",
+    "official_id": 754,
+    "wnid": "n07579787"
+  },
+  "755": {
+    "internal_class_index": 679,
+    "internal_class_name": "necklace",
+    "official_class_name": "necklace",
+    "official_id": 755,
+    "wnid": "n03814906"
+  },
+  "756": {
+    "internal_class_index": 522,
+    "internal_class_name": "croquet ball",
+    "official_class_name": "croquet_ball",
+    "official_id": 756,
+    "wnid": "n03134739"
+  },
+  "757": {
+    "internal_class_index": 568,
+    "internal_class_name": "fur coat",
+    "official_class_name": "fur_coat",
+    "official_id": 757,
+    "wnid": "n03404251"
+  },
+  "758": {
+    "internal_class_index": 855,
+    "internal_class_name": "thimble",
+    "official_class_name": "thimble",
+    "official_id": 758,
+    "wnid": "n04423845"
+  },
+  "759": {
+    "internal_class_index": 697,
+    "internal_class_name": "pajama",
+    "official_class_name": "pajama",
+    "official_id": 759,
+    "wnid": "n03877472"
+  },
+  "760": {
+    "internal_class_index": 770,
+    "internal_class_name": "running shoe",
+    "official_class_name": "running_shoe",
+    "official_id": 760,
+    "wnid": "n04120489"
+  },
+  "761": {
+    "internal_class_index": 503,
+    "internal_class_name": "cocktail shaker",
+    "official_class_name": "cocktail_shaker",
+    "official_id": 761,
+    "wnid": "n03062245"
+  },
+  "762": {
+    "internal_class_index": 492,
+    "internal_class_name": "chest",
+    "official_class_name": "chest",
+    "official_id": 762,
+    "wnid": "n03014705"
+  },
+  "763": {
+    "internal_class_index": 640,
+    "internal_class_name": "manhole cover",
+    "official_class_name": "manhole_cover",
+    "official_id": 763,
+    "wnid": "n03717622"
+  },
+  "764": {
+    "internal_class_index": 662,
+    "internal_class_name": "modem",
+    "official_class_name": "modem",
+    "official_id": 764,
+    "wnid": "n03777754"
+  },
+  "765": {
+    "internal_class_index": 876,
+    "internal_class_name": "tub",
+    "official_class_name": "tub",
+    "official_id": 765,
+    "wnid": "n04493381"
+  },
+  "766": {
+    "internal_class_index": 868,
+    "internal_class_name": "tray",
+    "official_class_name": "tray",
+    "official_id": 766,
+    "wnid": "n04476259"
+  },
+  "767": {
+    "internal_class_index": 416,
+    "internal_class_name": "balance beam",
+    "official_class_name": "balance_beam",
+    "official_id": 767,
+    "wnid": "n02777292"
+  },
+  "768": {
+    "internal_class_index": 931,
+    "internal_class_name": "bagel",
+    "official_class_name": "bagel",
+    "official_id": 768,
+    "wnid": "n07693725"
+  },
+  "769": {
+    "internal_class_index": 741,
+    "internal_class_name": "prayer rug",
+    "official_class_name": "prayer_rug",
+    "official_id": 769,
+    "wnid": "n03998194"
+  },
+  "770": {
+    "internal_class_index": 614,
+    "internal_class_name": "kimono",
+    "official_class_name": "kimono",
+    "official_id": 770,
+    "wnid": "n03617480"
+  },
+  "771": {
+    "internal_class_index": 926,
+    "internal_class_name": "hot pot",
+    "official_class_name": "hot_pot",
+    "official_id": 771,
+    "wnid": "n07590611"
+  },
+  "772": {
+    "internal_class_index": 901,
+    "internal_class_name": "whiskey jug",
+    "official_class_name": "whiskey_jug",
+    "official_id": 772,
+    "wnid": "n04579145"
+  },
+  "773": {
+    "internal_class_index": 615,
+    "internal_class_name": "knee pad",
+    "official_class_name": "knee_pad",
+    "official_id": 773,
+    "wnid": "n03623198"
+  },
+  "774": {
+    "internal_class_index": 921,
+    "internal_class_name": "book jacket",
+    "official_class_name": "book_jacket",
+    "official_id": 774,
+    "wnid": "n07248320"
+  },
+  "775": {
+    "internal_class_index": 816,
+    "internal_class_name": "spindle",
+    "official_class_name": "spindle",
+    "official_id": 775,
+    "wnid": "n04277352"
+  },
+  "776": {
+    "internal_class_index": 796,
+    "internal_class_name": "ski mask",
+    "official_class_name": "ski_mask",
+    "official_id": 776,
+    "wnid": "n04229816"
+  },
+  "777": {
+    "internal_class_index": 440,
+    "internal_class_name": "beer bottle",
+    "official_class_name": "beer_bottle",
+    "official_id": 777,
+    "wnid": "n02823428"
+  },
+  "778": {
+    "internal_class_index": 518,
+    "internal_class_name": "crash helmet",
+    "official_class_name": "crash_helmet",
+    "official_id": 778,
+    "wnid": "n03127747"
+  },
+  "779": {
+    "internal_class_index": 455,
+    "internal_class_name": "bottlecap",
+    "official_class_name": "bottlecap",
+    "official_id": 779,
+    "wnid": "n02877765"
+  },
+  "780": {
+    "internal_class_index": 858,
+    "internal_class_name": "tile roof",
+    "official_class_name": "tile_roof",
+    "official_id": 780,
+    "wnid": "n04435653"
+  },
+  "781": {
+    "internal_class_index": 643,
+    "internal_class_name": "mask",
+    "official_class_name": "mask",
+    "official_id": 781,
+    "wnid": "n03724870"
+  },
+  "782": {
+    "internal_class_index": 638,
+    "internal_class_name": "maillot",
+    "official_class_name": "maillot",
+    "official_id": 782,
+    "wnid": "n03710637"
+  },
+  "783": {
+    "internal_class_index": 712,
+    "internal_class_name": "Petri dish",
+    "official_class_name": "Petri_dish",
+    "official_id": 783,
+    "wnid": "n03920288"
+  },
+  "784": {
+    "internal_class_index": 560,
+    "internal_class_name": "football helmet",
+    "official_class_name": "football_helmet",
+    "official_id": 784,
+    "wnid": "n03379051"
+  },
+  "785": {
+    "internal_class_index": 433,
+    "internal_class_name": "bathing cap",
+    "official_class_name": "bathing_cap",
+    "official_id": 785,
+    "wnid": "n02807133"
+  },
+  "786": {
+    "internal_class_index": 850,
+    "internal_class_name": "teddy",
+    "official_class_name": "teddy",
+    "official_id": 786,
+    "wnid": "n04399382"
+  },
+  "787": {
+    "internal_class_index": 597,
+    "internal_class_name": "holster",
+    "official_class_name": "holster",
+    "official_id": 787,
+    "wnid": "n03527444"
+  },
+  "788": {
+    "internal_class_index": 737,
+    "internal_class_name": "pop bottle",
+    "official_class_name": "pop_bottle",
+    "official_id": 788,
+    "wnid": "n03983396"
+  },
+  "789": {
+    "internal_class_index": 713,
+    "internal_class_name": "photocopier",
+    "official_class_name": "photocopier",
+    "official_id": 789,
+    "wnid": "n03924679"
+  },
+  "790": {
+    "internal_class_index": 887,
+    "internal_class_name": "vestment",
+    "official_class_name": "vestment",
+    "official_id": 790,
+    "wnid": "n04532106"
+  },
+  "791": {
+    "internal_class_index": 918,
+    "internal_class_name": "crossword puzzle",
+    "official_class_name": "crossword_puzzle",
+    "official_id": 791,
+    "wnid": "n06785654"
+  },
+  "792": {
+    "internal_class_index": 574,
+    "internal_class_name": "golf ball",
+    "official_class_name": "golf_ball",
+    "official_id": 792,
+    "wnid": "n03445777"
+  },
+  "793": {
+    "internal_class_index": 927,
+    "internal_class_name": "trifle",
+    "official_class_name": "trifle",
+    "official_id": 793,
+    "wnid": "n07613480"
+  },
+  "794": {
+    "internal_class_index": 834,
+    "internal_class_name": "suit",
+    "official_class_name": "suit",
+    "official_id": 794,
+    "wnid": "n04350905"
+  },
+  "795": {
+    "internal_class_index": 900,
+    "internal_class_name": "water tower",
+    "official_class_name": "water_tower",
+    "official_id": 795,
+    "wnid": "n04562935"
+  },
+  "796": {
+    "internal_class_index": 552,
+    "internal_class_name": "feather boa",
+    "official_class_name": "feather_boa",
+    "official_id": 796,
+    "wnid": "n03325584"
+  },
+  "797": {
+    "internal_class_index": 501,
+    "internal_class_name": "cloak",
+    "official_class_name": "cloak",
+    "official_id": 797,
+    "wnid": "n03045698"
+  },
+  "798": {
+    "internal_class_index": 966,
+    "internal_class_name": "red wine",
+    "official_class_name": "red_wine",
+    "official_id": 798,
+    "wnid": "n07892512"
+  },
+  "799": {
+    "internal_class_index": 542,
+    "internal_class_name": "drumstick",
+    "official_class_name": "drumstick",
+    "official_id": 799,
+    "wnid": "n03250847"
+  },
+  "800": {
+    "internal_class_index": 787,
+    "internal_class_name": "shield",
+    "official_class_name": "shield",
+    "official_id": 800,
+    "wnid": "n04192698"
+  },
+  "801": {
+    "internal_class_index": 496,
+    "internal_class_name": "Christmas stocking",
+    "official_class_name": "Christmas_stocking",
+    "official_id": 801,
+    "wnid": "n03026506"
+  },
+  "802": {
+    "internal_class_index": 601,
+    "internal_class_name": "hoopskirt",
+    "official_class_name": "hoopskirt",
+    "official_id": 802,
+    "wnid": "n03534580"
+  },
+  "803": {
+    "internal_class_index": 922,
+    "internal_class_name": "menu",
+    "official_class_name": "menu",
+    "official_id": 803,
+    "wnid": "n07565083"
+  },
+  "804": {
+    "internal_class_index": 819,
+    "internal_class_name": "stage",
+    "official_class_name": "stage",
+    "official_id": 804,
+    "wnid": "n04296562"
+  },
+  "805": {
+    "internal_class_index": 452,
+    "internal_class_name": "bonnet",
+    "official_class_name": "bonnet",
+    "official_id": 805,
+    "wnid": "n02869837"
+  },
+  "806": {
+    "internal_class_index": 962,
+    "internal_class_name": "meat loaf",
+    "official_class_name": "meat_loaf",
+    "official_id": 806,
+    "wnid": "n07871810"
+  },
+  "807": {
+    "internal_class_index": 429,
+    "internal_class_name": "baseball",
+    "official_class_name": "baseball",
+    "official_id": 807,
+    "wnid": "n02799071"
+  },
+  "808": {
+    "internal_class_index": 551,
+    "internal_class_name": "face powder",
+    "official_class_name": "face_powder",
+    "official_id": 808,
+    "wnid": "n03314780"
+  },
+  "809": {
+    "internal_class_index": 777,
+    "internal_class_name": "scabbard",
+    "official_class_name": "scabbard",
+    "official_id": 809,
+    "wnid": "n04141327"
+  },
+  "810": {
+    "internal_class_index": 838,
+    "internal_class_name": "sunscreen",
+    "official_class_name": "sunscreen",
+    "official_id": 810,
+    "wnid": "n04357314"
+  },
+  "811": {
+    "internal_class_index": 441,
+    "internal_class_name": "beer glass",
+    "official_class_name": "beer_glass",
+    "official_id": 811,
+    "wnid": "n02823750"
+  },
+  "812": {
+    "internal_class_index": 996,
+    "internal_class_name": "hen-of-the-woods",
+    "official_class_name": "hen-of-the-woods",
+    "official_id": 812,
+    "wnid": "n13052670"
+  },
+  "813": {
+    "internal_class_index": 924,
+    "internal_class_name": "guacamole",
+    "official_class_name": "guacamole",
+    "official_id": 813,
+    "wnid": "n07583066"
+  },
+  "814": {
+    "internal_class_index": 619,
+    "internal_class_name": "lampshade",
+    "official_class_name": "lampshade",
+    "official_id": 814,
+    "wnid": "n03637318"
+  },
+  "815": {
+    "internal_class_index": 911,
+    "internal_class_name": "wool",
+    "official_class_name": "wool",
+    "official_id": 815,
+    "wnid": "n04599235"
+  },
+  "816": {
+    "internal_class_index": 958,
+    "internal_class_name": "hay",
+    "official_class_name": "hay",
+    "official_id": 816,
+    "wnid": "n07802026"
+  },
+  "817": {
+    "internal_class_index": 457,
+    "internal_class_name": "bow tie",
+    "official_class_name": "bow_tie",
+    "official_id": 817,
+    "wnid": "n02883205"
+  },
+  "818": {
+    "internal_class_index": 636,
+    "internal_class_name": "mailbag",
+    "official_class_name": "mailbag",
+    "official_id": 818,
+    "wnid": "n03709823"
+  },
+  "819": {
+    "internal_class_index": 899,
+    "internal_class_name": "water jug",
+    "official_class_name": "water_jug",
+    "official_id": 819,
+    "wnid": "n04560804"
+  },
+  "820": {
+    "internal_class_index": 463,
+    "internal_class_name": "bucket",
+    "official_class_name": "bucket",
+    "official_id": 820,
+    "wnid": "n02909870"
+  },
+  "821": {
+    "internal_class_index": 533,
+    "internal_class_name": "dishrag",
+    "official_class_name": "dishrag",
+    "official_id": 821,
+    "wnid": "n03207743"
+  },
+  "822": {
+    "internal_class_index": 809,
+    "internal_class_name": "soup bowl",
+    "official_class_name": "soup_bowl",
+    "official_id": 822,
+    "wnid": "n04263257"
+  },
+  "823": {
+    "internal_class_index": 969,
+    "internal_class_name": "eggnog",
+    "official_class_name": "eggnog",
+    "official_id": 823,
+    "wnid": "n07932039"
+  },
+  "824": {
+    "internal_class_index": 666,
+    "internal_class_name": "mortar",
+    "official_class_name": "mortar",
+    "official_id": 824,
+    "wnid": "n03786901"
+  },
+  "825": {
+    "internal_class_index": 869,
+    "internal_class_name": "trench coat",
+    "official_class_name": "trench_coat",
+    "official_id": 825,
+    "wnid": "n04479046"
+  },
+  "826": {
+    "internal_class_index": 693,
+    "internal_class_name": "paddle",
+    "official_class_name": "paddle",
+    "official_id": 826,
+    "wnid": "n03873416"
+  },
+  "827": {
+    "internal_class_index": 488,
+    "internal_class_name": "chain",
+    "official_class_name": "chain",
+    "official_id": 827,
+    "wnid": "n02999410"
+  },
+  "828": {
+    "internal_class_index": 840,
+    "internal_class_name": "swab",
+    "official_class_name": "swab",
+    "official_id": 828,
+    "wnid": "n04367480"
+  },
+  "829": {
+    "internal_class_index": 659,
+    "internal_class_name": "mixing bowl",
+    "official_class_name": "mixing_bowl",
+    "official_id": 829,
+    "wnid": "n03775546"
+  },
+  "830": {
+    "internal_class_index": 964,
+    "internal_class_name": "potpie",
+    "official_class_name": "potpie",
+    "official_id": 830,
+    "wnid": "n07875152"
+  },
+  "831": {
+    "internal_class_index": 907,
+    "internal_class_name": "wine bottle",
+    "official_class_name": "wine_bottle",
+    "official_id": 831,
+    "wnid": "n04591713"
+  },
+  "832": {
+    "internal_class_index": 789,
+    "internal_class_name": "shoji",
+    "official_class_name": "shoji",
+    "official_id": 832,
+    "wnid": "n04201297"
+  },
+  "833": {
+    "internal_class_index": 465,
+    "internal_class_name": "bulletproof vest",
+    "official_class_name": "bulletproof_vest",
+    "official_id": 833,
+    "wnid": "n02916936"
+  },
+  "834": {
+    "internal_class_index": 540,
+    "internal_class_name": "drilling platform",
+    "official_class_name": "drilling_platform",
+    "official_id": 834,
+    "wnid": "n03240683"
+  },
+  "835": {
+    "internal_class_index": 446,
+    "internal_class_name": "binder",
+    "official_class_name": "binder",
+    "official_id": 835,
+    "wnid": "n02840245"
+  },
+  "836": {
+    "internal_class_index": 474,
+    "internal_class_name": "cardigan",
+    "official_class_name": "cardigan",
+    "official_id": 836,
+    "wnid": "n02963159"
+  },
+  "837": {
+    "internal_class_index": 841,
+    "internal_class_name": "sweatshirt",
+    "official_class_name": "sweatshirt",
+    "official_id": 837,
+    "wnid": "n04370456"
+  },
+  "838": {
+    "internal_class_index": 738,
+    "internal_class_name": "pot",
+    "official_class_name": "pot",
+    "official_id": 838,
+    "wnid": "n03991062"
+  },
+  "839": {
+    "internal_class_index": 448,
+    "internal_class_name": "birdhouse",
+    "official_class_name": "birdhouse",
+    "official_id": 839,
+    "wnid": "n02843684"
+  },
+  "840": {
+    "internal_class_index": 588,
+    "internal_class_name": "hamper",
+    "official_class_name": "hamper",
+    "official_id": 840,
+    "wnid": "n03482405"
+  },
+  "841": {
+    "internal_class_index": 722,
+    "internal_class_name": "ping-pong ball",
+    "official_class_name": "ping-pong_ball",
+    "official_id": 841,
+    "wnid": "n03942813"
+  },
+  "842": {
+    "internal_class_index": 709,
+    "internal_class_name": "pencil box",
+    "official_class_name": "pencil_box",
+    "official_id": 842,
+    "wnid": "n03908618"
+  },
+  "843": {
+    "internal_class_index": 707,
+    "internal_class_name": "pay-phone",
+    "official_class_name": "pay-phone",
+    "official_id": 843,
+    "wnid": "n03902125"
+  },
+  "844": {
+    "internal_class_index": 925,
+    "internal_class_name": "consomme",
+    "official_class_name": "consomme",
+    "official_id": 844,
+    "wnid": "n07584110"
+  },
+  "845": {
+    "internal_class_index": 411,
+    "internal_class_name": "apron",
+    "official_class_name": "apron",
+    "official_id": 845,
+    "wnid": "n02730930"
+  },
+  "846": {
+    "internal_class_index": 747,
+    "internal_class_name": "punching bag",
+    "official_class_name": "punching_bag",
+    "official_id": 846,
+    "wnid": "n04023962"
+  },
+  "847": {
+    "internal_class_index": 414,
+    "internal_class_name": "backpack",
+    "official_class_name": "backpack",
+    "official_id": 847,
+    "wnid": "n02769748"
+  },
+  "848": {
+    "internal_class_index": 982,
+    "internal_class_name": "groom",
+    "official_class_name": "groom",
+    "official_id": 848,
+    "wnid": "n10148035"
+  },
+  "849": {
+    "internal_class_index": 439,
+    "internal_class_name": "bearskin",
+    "official_class_name": "bearskin",
+    "official_id": 849,
+    "wnid": "n02817516"
+  },
+  "850": {
+    "internal_class_index": 710,
+    "internal_class_name": "pencil sharpener",
+    "official_class_name": "pencil_sharpener",
+    "official_id": 850,
+    "wnid": "n03908714"
+  },
+  "851": {
+    "internal_class_index": 462,
+    "internal_class_name": "broom",
+    "official_class_name": "broom",
+    "official_id": 851,
+    "wnid": "n02906734"
+  },
+  "852": {
+    "internal_class_index": 669,
+    "internal_class_name": "mosquito net",
+    "official_class_name": "mosquito_net",
+    "official_id": 852,
+    "wnid": "n03788365"
+  },
+  "853": {
+    "internal_class_index": 399,
+    "internal_class_name": "abaya",
+    "official_class_name": "abaya",
+    "official_id": 853,
+    "wnid": "n02667093"
+  },
+  "854": {
+    "internal_class_index": 667,
+    "internal_class_name": "mortarboard",
+    "official_class_name": "mortarboard",
+    "official_id": 854,
+    "wnid": "n03787032"
+  },
+  "855": {
+    "internal_class_index": 735,
+    "internal_class_name": "poncho",
+    "official_class_name": "poncho",
+    "official_id": 855,
+    "wnid": "n03980874"
+  },
+  "856": {
+    "internal_class_index": 523,
+    "internal_class_name": "crutch",
+    "official_class_name": "crutch",
+    "official_id": 856,
+    "wnid": "n03141823"
+  },
+  "857": {
+    "internal_class_index": 732,
+    "internal_class_name": "Polaroid camera",
+    "official_class_name": "Polaroid_camera",
+    "official_id": 857,
+    "wnid": "n03976467"
+  },
+  "858": {
+    "internal_class_index": 810,
+    "internal_class_name": "space bar",
+    "official_class_name": "space_bar",
+    "official_id": 858,
+    "wnid": "n04264628"
+  },
+  "859": {
+    "internal_class_index": 968,
+    "internal_class_name": "cup",
+    "official_class_name": "cup",
+    "official_id": 859,
+    "wnid": "n07930864"
+  },
+  "860": {
+    "internal_class_index": 752,
+    "internal_class_name": "racket",
+    "official_class_name": "racket",
+    "official_id": 860,
+    "wnid": "n04039381"
+  },
+  "861": {
+    "internal_class_index": 920,
+    "internal_class_name": "traffic light",
+    "official_class_name": "traffic_light",
+    "official_id": 861,
+    "wnid": "n06874185"
+  },
+  "862": {
+    "internal_class_index": 749,
+    "internal_class_name": "quill",
+    "official_class_name": "quill",
+    "official_id": 862,
+    "wnid": "n04033901"
+  },
+  "863": {
+    "internal_class_index": 754,
+    "internal_class_name": "radio",
+    "official_class_name": "radio",
+    "official_id": 863,
+    "wnid": "n04041544"
+  },
+  "864": {
+    "internal_class_index": 961,
+    "internal_class_name": "dough",
+    "official_class_name": "dough",
+    "official_id": 864,
+    "wnid": "n07860988"
+  },
+  "865": {
+    "internal_class_index": 524,
+    "internal_class_name": "cuirass",
+    "official_class_name": "cuirass",
+    "official_id": 865,
+    "wnid": "n03146219"
+  },
+  "866": {
+    "internal_class_index": 652,
+    "internal_class_name": "military uniform",
+    "official_class_name": "military_uniform",
+    "official_id": 866,
+    "wnid": "n03763968"
+  },
+  "867": {
+    "internal_class_index": 629,
+    "internal_class_name": "lipstick",
+    "official_class_name": "lipstick",
+    "official_id": 867,
+    "wnid": "n03676483"
+  },
+  "868": {
+    "internal_class_index": 793,
+    "internal_class_name": "shower cap",
+    "official_class_name": "shower_cap",
+    "official_id": 868,
+    "wnid": "n04209133"
+  },
+  "869": {
+    "internal_class_index": 664,
+    "internal_class_name": "monitor",
+    "official_class_name": "monitor",
+    "official_id": 869,
+    "wnid": "n03782006"
+  },
+  "870": {
+    "internal_class_index": 688,
+    "internal_class_name": "oscilloscope",
+    "official_class_name": "oscilloscope",
+    "official_id": 870,
+    "wnid": "n03857828"
+  },
+  "871": {
+    "internal_class_index": 658,
+    "internal_class_name": "mitten",
+    "official_class_name": "mitten",
+    "official_id": 871,
+    "wnid": "n03775071"
+  },
+  "872": {
+    "internal_class_index": 459,
+    "internal_class_name": "brassiere",
+    "official_class_name": "brassiere",
+    "official_id": 872,
+    "wnid": "n02892767"
+  },
+  "873": {
+    "internal_class_index": 930,
+    "internal_class_name": "French loaf",
+    "official_class_name": "French_loaf",
+    "official_id": 873,
+    "wnid": "n07684084"
+  },
+  "874": {
+    "internal_class_index": 883,
+    "internal_class_name": "vase",
+    "official_class_name": "vase",
+    "official_id": 874,
+    "wnid": "n04522168"
+  },
+  "875": {
+    "internal_class_index": 653,
+    "internal_class_name": "milk can",
+    "official_class_name": "milk_can",
+    "official_id": 875,
+    "wnid": "n03764736"
+  },
+  "876": {
+    "internal_class_index": 768,
+    "internal_class_name": "rugby ball",
+    "official_class_name": "rugby_ball",
+    "official_id": 876,
+    "wnid": "n04118538"
+  },
+  "877": {
+    "internal_class_index": 700,
+    "internal_class_name": "paper towel",
+    "official_class_name": "paper_towel",
+    "official_id": 877,
+    "wnid": "n03887697"
+  },
+  "878": {
+    "internal_class_index": 995,
+    "internal_class_name": "earthstar",
+    "official_class_name": "earthstar",
+    "official_id": 878,
+    "wnid": "n13044778"
+  },
+  "879": {
+    "internal_class_index": 549,
+    "internal_class_name": "envelope",
+    "official_class_name": "envelope",
+    "official_id": 879,
+    "wnid": "n03291819"
+  },
+  "880": {
+    "internal_class_index": 655,
+    "internal_class_name": "miniskirt",
+    "official_class_name": "miniskirt",
+    "official_id": 880,
+    "wnid": "n03770439"
+  },
+  "881": {
+    "internal_class_index": 515,
+    "internal_class_name": "cowboy hat",
+    "official_class_name": "cowboy_hat",
+    "official_id": 881,
+    "wnid": "n03124170"
+  },
+  "882": {
+    "internal_class_index": 874,
+    "internal_class_name": "trolleybus",
+    "official_class_name": "trolleybus",
+    "official_id": 882,
+    "wnid": "n04487081"
+  },
+  "883": {
+    "internal_class_index": 711,
+    "internal_class_name": "perfume",
+    "official_class_name": "perfume",
+    "official_id": 883,
+    "wnid": "n03916031"
+  },
+  "884": {
+    "internal_class_index": 435,
+    "internal_class_name": "bathtub",
+    "official_class_name": "bathtub",
+    "official_id": 884,
+    "wnid": "n02808440"
+  },
+  "885": {
+    "internal_class_index": 934,
+    "internal_class_name": "hotdog",
+    "official_class_name": "hotdog",
+    "official_id": 885,
+    "wnid": "n07697537"
+  },
+  "886": {
+    "internal_class_index": 991,
+    "internal_class_name": "coral fungus",
+    "official_class_name": "coral_fungus",
+    "official_id": 886,
+    "wnid": "n12985857"
+  },
+  "887": {
+    "internal_class_index": 466,
+    "internal_class_name": "bullet train",
+    "official_class_name": "bullet_train",
+    "official_id": 887,
+    "wnid": "n02917067"
+  },
+  "888": {
+    "internal_class_index": 721,
+    "internal_class_name": "pillow",
+    "official_class_name": "pillow",
+    "official_id": 888,
+    "wnid": "n03938244"
+  },
+  "889": {
+    "internal_class_index": 999,
+    "internal_class_name": "toilet tissue",
+    "official_class_name": "toilet_tissue",
+    "official_id": 889,
+    "wnid": "n15075141"
+  },
+  "890": {
+    "internal_class_index": 481,
+    "internal_class_name": "cassette",
+    "official_class_name": "cassette",
+    "official_id": 890,
+    "wnid": "n02978881"
+  },
+  "891": {
+    "internal_class_index": 477,
+    "internal_class_name": "carpenter's kit",
+    "official_class_name": "carpenter's_kit",
+    "official_id": 891,
+    "wnid": "n02966687"
+  },
+  "892": {
+    "internal_class_index": 618,
+    "internal_class_name": "ladle",
+    "official_class_name": "ladle",
+    "official_id": 892,
+    "wnid": "n03633091"
+  },
+  "893": {
+    "internal_class_index": 994,
+    "internal_class_name": "stinkhorn",
+    "official_class_name": "stinkhorn",
+    "official_id": 893,
+    "wnid": "n13040303"
+  },
+  "894": {
+    "internal_class_index": 631,
+    "internal_class_name": "lotion",
+    "official_class_name": "lotion",
+    "official_id": 894,
+    "wnid": "n03690938"
+  },
+  "895": {
+    "internal_class_index": 585,
+    "internal_class_name": "hair spray",
+    "official_class_name": "hair_spray",
+    "official_id": 895,
+    "wnid": "n03476991"
+  },
+  "896": {
+    "internal_class_index": 400,
+    "internal_class_name": "academic gown",
+    "official_class_name": "academic_gown",
+    "official_id": 896,
+    "wnid": "n02669723"
+  },
+  "897": {
+    "internal_class_index": 538,
+    "internal_class_name": "dome",
+    "official_class_name": "dome",
+    "official_id": 897,
+    "wnid": "n03220513"
+  },
+  "898": {
+    "internal_class_index": 519,
+    "internal_class_name": "crate",
+    "official_class_name": "crate",
+    "official_id": 898,
+    "wnid": "n03127925"
+  },
+  "899": {
+    "internal_class_index": 903,
+    "internal_class_name": "wig",
+    "official_class_name": "wig",
+    "official_id": 899,
+    "wnid": "n04584207"
+  },
+  "900": {
+    "internal_class_index": 965,
+    "internal_class_name": "burrito",
+    "official_class_name": "burrito",
+    "official_id": 900,
+    "wnid": "n07880968"
+  },
+  "901": {
+    "internal_class_index": 720,
+    "internal_class_name": "pill bottle",
+    "official_class_name": "pill_bottle",
+    "official_id": 901,
+    "wnid": "n03937543"
+  },
+  "902": {
+    "internal_class_index": 490,
+    "internal_class_name": "chain mail",
+    "official_class_name": "chain_mail",
+    "official_id": 902,
+    "wnid": "n03000247"
+  },
+  "903": {
+    "internal_class_index": 854,
+    "internal_class_name": "theater curtain",
+    "official_class_name": "theater_curtain",
+    "official_id": 903,
+    "wnid": "n04418357"
+  },
+  "904": {
+    "internal_class_index": 905,
+    "internal_class_name": "window shade",
+    "official_class_name": "window_shade",
+    "official_id": 904,
+    "wnid": "n04590129"
+  },
+  "905": {
+    "internal_class_index": 427,
+    "internal_class_name": "barrel",
+    "official_class_name": "barrel",
+    "official_id": 905,
+    "wnid": "n02795169"
+  },
+  "906": {
+    "internal_class_index": 896,
+    "internal_class_name": "washbasin",
+    "official_class_name": "washbasin",
+    "official_id": 906,
+    "wnid": "n04553703"
+  },
+  "907": {
+    "internal_class_index": 418,
+    "internal_class_name": "ballpoint",
+    "official_class_name": "ballpoint",
+    "official_id": 907,
+    "wnid": "n02783161"
+  },
+  "908": {
+    "internal_class_index": 430,
+    "internal_class_name": "basketball",
+    "official_class_name": "basketball",
+    "official_id": 908,
+    "wnid": "n02802426"
+  },
+  "909": {
+    "internal_class_index": 434,
+    "internal_class_name": "bath towel",
+    "official_class_name": "bath_towel",
+    "official_id": 909,
+    "wnid": "n02808304"
+  },
+  "910": {
+    "internal_class_index": 514,
+    "internal_class_name": "cowboy boot",
+    "official_class_name": "cowboy_boot",
+    "official_id": 910,
+    "wnid": "n03124043"
+  },
+  "911": {
+    "internal_class_index": 578,
+    "internal_class_name": "gown",
+    "official_class_name": "gown",
+    "official_id": 911,
+    "wnid": "n03450230"
+  },
+  "912": {
+    "internal_class_index": 904,
+    "internal_class_name": "window screen",
+    "official_class_name": "window_screen",
+    "official_id": 912,
+    "wnid": "n04589890"
+  },
+  "913": {
+    "internal_class_index": 992,
+    "internal_class_name": "agaric",
+    "official_class_name": "agaric",
+    "official_id": 913,
+    "wnid": "n12998815"
+  },
+  "914": {
+    "internal_class_index": 487,
+    "internal_class_name": "cellular telephone",
+    "official_class_name": "cellular_telephone",
+    "official_id": 914,
+    "wnid": "n02992529"
+  },
+  "915": {
+    "internal_class_index": 680,
+    "internal_class_name": "nipple",
+    "official_class_name": "nipple",
+    "official_id": 915,
+    "wnid": "n03825788"
+  },
+  "916": {
+    "internal_class_index": 422,
+    "internal_class_name": "barbell",
+    "official_class_name": "barbell",
+    "official_id": 916,
+    "wnid": "n02790996"
+  },
+  "917": {
+    "internal_class_index": 637,
+    "internal_class_name": "mailbox",
+    "official_class_name": "mailbox",
+    "official_id": 917,
+    "wnid": "n03710193"
+  },
+  "918": {
+    "internal_class_index": 617,
+    "internal_class_name": "lab coat",
+    "official_class_name": "lab_coat",
+    "official_id": 918,
+    "wnid": "n03630383"
+  },
+  "919": {
+    "internal_class_index": 556,
+    "internal_class_name": "fire screen",
+    "official_class_name": "fire_screen",
+    "official_id": 919,
+    "wnid": "n03347037"
+  },
+  "920": {
+    "internal_class_index": 654,
+    "internal_class_name": "minibus",
+    "official_class_name": "minibus",
+    "official_id": 920,
+    "wnid": "n03769881"
+  },
+  "921": {
+    "internal_class_index": 692,
+    "internal_class_name": "packet",
+    "official_class_name": "packet",
+    "official_id": 921,
+    "wnid": "n03871628"
+  },
+  "922": {
+    "internal_class_index": 646,
+    "internal_class_name": "maze",
+    "official_class_name": "maze",
+    "official_id": 922,
+    "wnid": "n03733281"
+  },
+  "923": {
+    "internal_class_index": 733,
+    "internal_class_name": "pole",
+    "official_class_name": "pole",
+    "official_id": 923,
+    "wnid": "n03976657"
+  },
+  "924": {
+    "internal_class_index": 602,
+    "internal_class_name": "horizontal bar",
+    "official_class_name": "horizontal_bar",
+    "official_id": 924,
+    "wnid": "n03535780"
+  },
+  "925": {
+    "internal_class_index": 808,
+    "internal_class_name": "sombrero",
+    "official_class_name": "sombrero",
+    "official_id": 925,
+    "wnid": "n04259630"
+  },
+  "926": {
+    "internal_class_index": 715,
+    "internal_class_name": "pickelhaube",
+    "official_class_name": "pickelhaube",
+    "official_id": 926,
+    "wnid": "n03929855"
+  },
+  "927": {
+    "internal_class_index": 756,
+    "internal_class_name": "rain barrel",
+    "official_class_name": "rain_barrel",
+    "official_id": 927,
+    "wnid": "n04049303"
+  },
+  "928": {
+    "internal_class_index": 893,
+    "internal_class_name": "wallet",
+    "official_class_name": "wallet",
+    "official_id": 928,
+    "wnid": "n04548362"
+  },
+  "929": {
+    "internal_class_index": 482,
+    "internal_class_name": "cassette player",
+    "official_class_name": "cassette_player",
+    "official_id": 929,
+    "wnid": "n02979186"
+  },
+  "930": {
+    "internal_class_index": 917,
+    "internal_class_name": "comic book",
+    "official_class_name": "comic_book",
+    "official_id": 930,
+    "wnid": "n06596364"
+  },
+  "931": {
+    "internal_class_index": 719,
+    "internal_class_name": "piggy bank",
+    "official_class_name": "piggy_bank",
+    "official_id": 931,
+    "wnid": "n03935335"
+  },
+  "932": {
+    "internal_class_index": 919,
+    "internal_class_name": "street sign",
+    "official_class_name": "street_sign",
+    "official_id": 932,
+    "wnid": "n06794110"
+  },
+  "933": {
+    "internal_class_index": 442,
+    "internal_class_name": "bell cote",
+    "official_class_name": "bell_cote",
+    "official_id": 933,
+    "wnid": "n02825657"
+  },
+  "934": {
+    "internal_class_index": 563,
+    "internal_class_name": "fountain pen",
+    "official_class_name": "fountain_pen",
+    "official_id": 934,
+    "wnid": "n03388183"
+  },
+  "935": {
+    "internal_class_index": 906,
+    "internal_class_name": "Windsor tie",
+    "official_class_name": "Windsor_tie",
+    "official_id": 935,
+    "wnid": "n04591157"
+  },
+  "936": {
+    "internal_class_index": 890,
+    "internal_class_name": "volleyball",
+    "official_class_name": "volleyball",
+    "official_id": 936,
+    "wnid": "n04540053"
+  },
+  "937": {
+    "internal_class_index": 689,
+    "internal_class_name": "overskirt",
+    "official_class_name": "overskirt",
+    "official_id": 937,
+    "wnid": "n03866082"
+  },
+  "938": {
+    "internal_class_index": 775,
+    "internal_class_name": "sarong",
+    "official_class_name": "sarong",
+    "official_id": 938,
+    "wnid": "n04136333"
+  },
+  "939": {
+    "internal_class_index": 748,
+    "internal_class_name": "purse",
+    "official_class_name": "purse",
+    "official_id": 939,
+    "wnid": "n04026417"
+  },
+  "940": {
+    "internal_class_index": 451,
+    "internal_class_name": "bolo tie",
+    "official_class_name": "bolo_tie",
+    "official_id": 940,
+    "wnid": "n02865351"
+  },
+  "941": {
+    "internal_class_index": 443,
+    "internal_class_name": "bib",
+    "official_class_name": "bib",
+    "official_id": 941,
+    "wnid": "n02834397"
+  },
+  "942": {
+    "internal_class_index": 701,
+    "internal_class_name": "parachute",
+    "official_class_name": "parachute",
+    "official_id": 942,
+    "wnid": "n03888257"
+  },
+  "943": {
+    "internal_class_index": 797,
+    "internal_class_name": "sleeping bag",
+    "official_class_name": "sleeping_bag",
+    "official_id": 943,
+    "wnid": "n04235860"
+  },
+  "944": {
+    "internal_class_index": 851,
+    "internal_class_name": "television",
+    "official_class_name": "television",
+    "official_id": 944,
+    "wnid": "n04404412"
+  },
+  "945": {
+    "internal_class_index": 842,
+    "internal_class_name": "swimming trunks",
+    "official_class_name": "swimming_trunks",
+    "official_id": 945,
+    "wnid": "n04371430"
+  },
+  "946": {
+    "internal_class_index": 647,
+    "internal_class_name": "measuring cup",
+    "official_class_name": "measuring_cup",
+    "official_id": 946,
+    "wnid": "n03733805"
+  },
+  "947": {
+    "internal_class_index": 967,
+    "internal_class_name": "espresso",
+    "official_class_name": "espresso",
+    "official_id": 947,
+    "wnid": "n07920052"
+  },
+  "948": {
+    "internal_class_index": 963,
+    "internal_class_name": "pizza",
+    "official_class_name": "pizza",
+    "official_id": 948,
+    "wnid": "n07873807"
+  },
+  "949": {
+    "internal_class_index": 461,
+    "internal_class_name": "breastplate",
+    "official_class_name": "breastplate",
+    "official_id": 949,
+    "wnid": "n02895154"
+  },
+  "950": {
+    "internal_class_index": 790,
+    "internal_class_name": "shopping basket",
+    "official_class_name": "shopping_basket",
+    "official_id": 950,
+    "wnid": "n04204238"
+  },
+  "951": {
+    "internal_class_index": 910,
+    "internal_class_name": "wooden spoon",
+    "official_class_name": "wooden_spoon",
+    "official_id": 951,
+    "wnid": "n04597913"
+  },
+  "952": {
+    "internal_class_index": 773,
+    "internal_class_name": "saltshaker",
+    "official_class_name": "saltshaker",
+    "official_id": 952,
+    "wnid": "n04131690"
+  },
+  "953": {
+    "internal_class_index": 960,
+    "internal_class_name": "chocolate sauce",
+    "official_class_name": "chocolate_sauce",
+    "official_id": 953,
+    "wnid": "n07836838"
+  },
+  "954": {
+    "internal_class_index": 981,
+    "internal_class_name": "ballplayer",
+    "official_class_name": "ballplayer",
+    "official_id": 954,
+    "wnid": "n09835506"
+  },
+  "955": {
+    "internal_class_index": 572,
+    "internal_class_name": "goblet",
+    "official_class_name": "goblet",
+    "official_id": 955,
+    "wnid": "n03443371"
+  },
+  "956": {
+    "internal_class_index": 993,
+    "internal_class_name": "gyromitra",
+    "official_class_name": "gyromitra",
+    "official_id": 956,
+    "wnid": "n13037406"
+  },
+  "957": {
+    "internal_class_index": 830,
+    "internal_class_name": "stretcher",
+    "official_class_name": "stretcher",
+    "official_id": 957,
+    "wnid": "n04336792"
+  },
+  "958": {
+    "internal_class_index": 898,
+    "internal_class_name": "water bottle",
+    "official_class_name": "water_bottle",
+    "official_id": 958,
+    "wnid": "n04557648"
+  },
+  "959": {
+    "internal_class_index": 528,
+    "internal_class_name": "dial telephone",
+    "official_class_name": "dial_telephone",
+    "official_id": 959,
+    "wnid": "n03187595"
+  },
+  "960": {
+    "internal_class_index": 804,
+    "internal_class_name": "soap dispenser",
+    "official_class_name": "soap_dispenser",
+    "official_id": 960,
+    "wnid": "n04254120"
+  },
+  "961": {
+    "internal_class_index": 610,
+    "internal_class_name": "jersey",
+    "official_class_name": "jersey",
+    "official_id": 961,
+    "wnid": "n03595614"
+  },
+  "962": {
+    "internal_class_index": 779,
+    "internal_class_name": "school bus",
+    "official_class_name": "school_bus",
+    "official_id": 962,
+    "wnid": "n04146614"
+  },
+  "963": {
+    "internal_class_index": 611,
+    "internal_class_name": "jigsaw puzzle",
+    "official_class_name": "jigsaw_puzzle",
+    "official_id": 963,
+    "wnid": "n03598930"
+  },
+  "964": {
+    "internal_class_index": 728,
+    "internal_class_name": "plastic bag",
+    "official_class_name": "plastic_bag",
+    "official_id": 964,
+    "wnid": "n03958227"
+  },
+  "965": {
+    "internal_class_index": 759,
+    "internal_class_name": "reflex camera",
+    "official_class_name": "reflex_camera",
+    "official_id": 965,
+    "wnid": "n04069434"
+  },
+  "966": {
+    "internal_class_index": 529,
+    "internal_class_name": "diaper",
+    "official_class_name": "diaper",
+    "official_id": 966,
+    "wnid": "n03188531"
+  },
+  "967": {
+    "internal_class_index": 419,
+    "internal_class_name": "Band Aid",
+    "official_class_name": "Band_Aid",
+    "official_id": 967,
+    "wnid": "n02786058"
+  },
+  "968": {
+    "internal_class_index": 929,
+    "internal_class_name": "ice lolly",
+    "official_class_name": "ice_lolly",
+    "official_id": 968,
+    "wnid": "n07615774"
+  },
+  "969": {
+    "internal_class_index": 885,
+    "internal_class_name": "velvet",
+    "official_class_name": "velvet",
+    "official_id": 969,
+    "wnid": "n04525038"
+  },
+  "970": {
+    "internal_class_index": 852,
+    "internal_class_name": "tennis ball",
+    "official_class_name": "tennis_ball",
+    "official_id": 970,
+    "wnid": "n04409515"
+  },
+  "971": {
+    "internal_class_index": 570,
+    "internal_class_name": "gasmask",
+    "official_class_name": "gasmask",
+    "official_id": 971,
+    "wnid": "n03424325"
+  },
+  "972": {
+    "internal_class_index": 539,
+    "internal_class_name": "doormat",
+    "official_class_name": "doormat",
+    "official_id": 972,
+    "wnid": "n03223299"
+  },
+  "973": {
+    "internal_class_index": 630,
+    "internal_class_name": "Loafer",
+    "official_class_name": "Loafer",
+    "official_id": 973,
+    "wnid": "n03680355"
+  },
+  "974": {
+    "internal_class_index": 928,
+    "internal_class_name": "ice cream",
+    "official_class_name": "ice_cream",
+    "official_id": 974,
+    "wnid": "n07614500"
+  },
+  "975": {
+    "internal_class_index": 932,
+    "internal_class_name": "pretzel",
+    "official_class_name": "pretzel",
+    "official_id": 975,
+    "wnid": "n07695742"
+  },
+  "976": {
+    "internal_class_index": 750,
+    "internal_class_name": "quilt",
+    "official_class_name": "quilt",
+    "official_id": 976,
+    "wnid": "n04033995"
+  },
+  "977": {
+    "internal_class_index": 638,
+    "internal_class_name": "maillot",
+    "official_class_name": "maillot",
+    "official_id": 977,
+    "wnid": "n03710721"
+  },
+  "978": {
+    "internal_class_index": 848,
+    "internal_class_name": "tape player",
+    "official_class_name": "tape_player",
+    "official_id": 978,
+    "wnid": "n04392985"
+  },
+  "979": {
+    "internal_class_index": 502,
+    "internal_class_name": "clog",
+    "official_class_name": "clog",
+    "official_id": 979,
+    "wnid": "n03047690"
+  },
+  "980": {
+    "internal_class_index": 605,
+    "internal_class_name": "iPod",
+    "official_class_name": "iPod",
+    "official_id": 980,
+    "wnid": "n03584254"
+  },
+  "981": {
+    "internal_class_index": 997,
+    "internal_class_name": "bolete",
+    "official_class_name": "bolete",
+    "official_id": 981,
+    "wnid": "n13054560"
+  },
+  "982": {
+    "internal_class_index": 983,
+    "internal_class_name": "scuba diver",
+    "official_class_name": "scuba_diver",
+    "official_id": 982,
+    "wnid": "n10565667"
+  },
+  "983": {
+    "internal_class_index": 725,
+    "internal_class_name": "pitcher",
+    "official_class_name": "pitcher",
+    "official_id": 983,
+    "wnid": "n03950228"
+  },
+  "984": {
+    "internal_class_index": 644,
+    "internal_class_name": "matchstick",
+    "official_class_name": "matchstick",
+    "official_id": 984,
+    "wnid": "n03729826"
+  },
+  "985": {
+    "internal_class_index": 445,
+    "internal_class_name": "bikini",
+    "official_class_name": "bikini",
+    "official_id": 985,
+    "wnid": "n02837789"
+  },
+  "986": {
+    "internal_class_index": 806,
+    "internal_class_name": "sock",
+    "official_class_name": "sock",
+    "official_id": 986,
+    "wnid": "n04254777"
+  },
+  "987": {
+    "internal_class_index": 485,
+    "internal_class_name": "CD player",
+    "official_class_name": "CD_player",
+    "official_id": 987,
+    "wnid": "n02988304"
+  },
+  "988": {
+    "internal_class_index": 622,
+    "internal_class_name": "lens cap",
+    "official_class_name": "lens_cap",
+    "official_id": 988,
+    "wnid": "n03657121"
+  },
+  "989": {
+    "internal_class_index": 853,
+    "internal_class_name": "thatch",
+    "official_class_name": "thatch",
+    "official_id": 989,
+    "wnid": "n04417672"
+  },
+  "990": {
+    "internal_class_index": 884,
+    "internal_class_name": "vault",
+    "official_class_name": "vault",
+    "official_id": 990,
+    "wnid": "n04523525"
+  },
+  "991": {
+    "internal_class_index": 438,
+    "internal_class_name": "beaker",
+    "official_class_name": "beaker",
+    "official_id": 991,
+    "wnid": "n02815834"
+  },
+  "992": {
+    "internal_class_index": 971,
+    "internal_class_name": "bubble",
+    "official_class_name": "bubble",
+    "official_id": 992,
+    "wnid": "n09229709"
+  },
+  "993": {
+    "internal_class_index": 933,
+    "internal_class_name": "cheeseburger",
+    "official_class_name": "cheeseburger",
+    "official_id": 993,
+    "wnid": "n07697313"
+  },
+  "994": {
+    "internal_class_index": 702,
+    "internal_class_name": "parallel bars",
+    "official_class_name": "parallel_bars",
+    "official_id": 994,
+    "wnid": "n03888605"
+  },
+  "995": {
+    "internal_class_index": 557,
+    "internal_class_name": "flagpole",
+    "official_class_name": "flagpole",
+    "official_id": 995,
+    "wnid": "n03355925"
+  },
+  "996": {
+    "internal_class_index": 504,
+    "internal_class_name": "coffee mug",
+    "official_class_name": "coffee_mug",
+    "official_id": 996,
+    "wnid": "n03063599"
+  },
+  "997": {
+    "internal_class_index": 767,
+    "internal_class_name": "rubber eraser",
+    "official_class_name": "rubber_eraser",
+    "official_id": 997,
+    "wnid": "n04116512"
+  },
+  "998": {
+    "internal_class_index": 824,
+    "internal_class_name": "stole",
+    "official_class_name": "stole",
+    "official_id": 998,
+    "wnid": "n04325704"
+  },
+  "999": {
+    "internal_class_index": 959,
+    "internal_class_name": "carbonara",
+    "official_class_name": "carbonara",
+    "official_id": 999,
+    "wnid": "n07831146"
+  },
+  "1000": {
+    "internal_class_index": 543,
+    "internal_class_name": "dumbbell",
+    "official_class_name": "dumbbell",
+    "official_id": 1000,
+    "wnid": "n03255030"
+  }
+}
